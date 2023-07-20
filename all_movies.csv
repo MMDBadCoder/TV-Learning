@@ -1,0 +1,3149 @@
+genre, title1, title2, votes, rating
+Drama	The Shawshank Redemption	The Shawshank Redemption	2761075	9.3
+Crime,Drama	The Godfather	The Godfather	1921419	9.2
+Crime,Drama	12 Angry Men	12 Angry Men	818259	9.0
+Crime,Drama	The Godfather Part II	The Godfather Part II	1307584	9.0
+Biography,Drama,History	Schindler's List	Schindler's List	1391277	9.0
+Action,Adventure,Drama	The Lord of the Rings: The Return of the King	The Lord of the Rings: The Return of the King	1895488	9.0
+Action,Crime,Drama	The Dark Knight	The Dark Knight	2734035	9.0
+Crime,Drama	Pulp Fiction	Pulp Fiction	2119865	8.9
+Action,Adventure,Animation	Spider-Man: Across the Spider-Verse	Spider-Man: Across the Spider-Verse	169531	8.9
+Drama,Romance	Forrest Gump	Forrest Gump	2147644	8.8
+Action,Adventure,Drama	The Lord of the Rings: The Fellowship of the Ring	The Lord of the Rings: The Fellowship of the Ring	1923923	8.8
+Drama	Fight Club	Fight Club	2198462	8.8
+Action,Adventure,Drama	The Lord of the Rings: The Two Towers	The Lord of the Rings: The Two Towers	1710613	8.8
+Action,Adventure,Sci-Fi	Inception	Inception	2426268	8.8
+Crime,Drama,Mystery	Jai Bhim	Jai Bhim	207794	8.8
+Drama	One Flew Over the Cuckoo's Nest	One Flew Over the Cuckoo's Nest	1032835	8.7
+Action,Adventure,Fantasy	Star Wars: Episode V - The Empire Strikes Back	Star Wars: Episode V - The Empire Strikes Back	1327305	8.7
+Action,Sci-Fi	The Matrix	The Matrix	1967293	8.7
+Adventure,Drama,Sci-Fi	Interstellar	Interstellar	1929337	8.7
+Action,Drama	Soorarai Pottru	Soorarai Pottru	119878	8.7
+Drama	The Kashmir Files	The Kashmir Files	569892	8.7
+Biography,Drama	Rocketry: The Nambi Effect	Rocketry: The Nambi Effect	54030	8.7
+Drama,Family,Fantasy	It's a Wonderful Life	It's a Wonderful Life	474117	8.6
+Action,Drama	Seven Samurai	Shichinin no samurai	354292	8.6
+Crime,Drama,Thriller	The Silence of the Lambs	The Silence of the Lambs	1474586	8.6
+Action,Sci-Fi	Terminator 2: Judgment Day	Terminator 2: Judgment Day	1128722	8.6
+Crime,Drama,Mystery	Se7en	Se7en	1707117	8.6
+Crime,Drama,Fantasy	The Green Mile	The Green Mile	1342475	8.6
+Drama,War	Saving Private Ryan	Saving Private Ryan	1430285	8.6
+Action,Drama,Mystery	Sita Ramam	Sita Ramam	61086	8.6
+Comedy,Drama,Romance	City Lights	City Lights	189301	8.5
+Comedy,Drama,Romance	Modern Times	Modern Times	249472	8.5
+Drama,Romance,War	Casablanca	Casablanca	586065	8.5
+Mystery,Thriller	Rear Window	Rear Window	503891	8.5
+Horror,Mystery,Thriller	Psycho	Psycho	690794	8.5
+Horror,Sci-Fi	Alien	Alien	907702	8.5
+Adventure,Comedy,Sci-Fi	Back to the Future	Back to the Future	1246179	8.5
+Adventure,Animation,Drama	The Lion King	The Lion King	1091384	8.5
+Crime,Drama,Mystery	The Usual Suspects	The Usual Suspects	1108268	8.5
+Crime,Drama	American History X	American History X	1147399	8.5
+Action,Adventure,Drama	Gladiator	Gladiator	1543081	8.5
+Biography,Drama,Music	The Pianist	The Pianist	861028	8.5
+Crime,Drama,Thriller	The Departed	The Departed	1362849	8.5
+Drama,Mystery,Sci-Fi	The Prestige	The Prestige	1371103	8.5
+Biography,Documentary,Sport	Senna	Senna	72981	8.5
+Drama,Music	Whiplash	Whiplash	912328	8.5
+Comedy,Drama,War	The Great Dictator	The Great Dictator	229594	8.4
+Drama,Film-Noir	Sunset Blvd.	Sunset Blvd.	227960	8.4
+Drama,War	Paths of Glory	Paths of Glory	203172	8.4
+Crime,Drama,Mystery	Witness for the Prosecution	Witness for the Prosecution	130280	8.4
+Comedy,War	Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb	Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb	502058	8.4
+Drama,Mystery,War	Apocalypse Now	Apocalypse Now	684878	8.4
+Drama,Horror	The Shining	The Shining	1054653	8.4
+Drama,War	Das Boot	Das Boot	256566	8.4
+Action,Adventure	Indiana Jones and the Raiders of the Lost Ark	Raiders of the Lost Ark	998239	8.4
+Biography,Drama,Music	Amadeus	Amadeus	411469	8.4
+Action,Adventure,Sci-Fi	Aliens	Aliens	735555	8.4
+Mystery,Thriller	Memento	Memento	1268831	8.4
+Adventure,Animation,Family	WALL·E	WALL·E	1149362	8.4
+Comedy,Drama	3 Idiots	3 Idiots	412844	8.4
+Biography,Crime,Documentary	The Cove	The Cove	50519	8.4
+Action,Drama,Thriller	The Dark Knight Rises	The Dark Knight Rises	1750253	8.4
+Drama,Western	Django Unchained	Django Unchained	1608906	8.4
+Adventure,Animation,Drama	Coco	Coco	540457	8.4
+Action,Adventure,Sci-Fi	Avengers: Infinity War	Avengers: Infinity War	1133146	8.4
+Action,Adventure,Drama	Avengers: Endgame	Avengers: Endgame	1190553	8.4
+Action,Adventure,Animation	Spider-Man: Into the Spider-Verse	Spider-Man: Into the Spider-Verse	602731	8.4
+Crime,Drama,Thriller	Joker	Joker	1366683	8.4
+Comedy,Drama,Romance	Dil Bechara	Dil Bechara	132919	8.4
+Drama	Capernaum	Capharnaüm	96236	8.4
+Comedy,Drama,Family	The Kid	The Kid	129903	8.3
+Drama,Sci-Fi	Metropolis	Metropolis	178957	8.3
+Drama,Mystery	Citizen Kane	Citizen Kane	452217	8.3
+Crime,Drama,Film-Noir	Double Indemnity	Double Indemnity	161436	8.3
+Drama	Ikiru	Ikiru	82459	8.3
+Comedy,Musical,Romance	Singin' in the Rain	Singin' in the Rain	250071	8.3
+Mystery,Romance,Thriller	Vertigo	Vertigo	412423	8.3
+Action,Adventure,Mystery	North by Northwest	North by Northwest	335867	8.3
+Comedy,Drama,Romance	The Apartment	The Apartment	187487	8.3
+Drama,War	Judgment at Nuremberg	Judgment at Nuremberg	80436	8.3
+Adventure,Biography,Drama	Lawrence of Arabia	Lawrence of Arabia	302470	8.3
+Crime,Drama	To Kill a Mockingbird	To Kill a Mockingbird	323379	8.3
+Adventure,Sci-Fi	2001: A Space Odyssey	2001: A Space Odyssey	688749	8.3
+Crime,Sci-Fi	A Clockwork Orange	A Clockwork Orange	851164	8.3
+Comedy,Crime,Drama	The Sting	The Sting	270493	8.3
+Action,Adventure,Fantasy	Star Wars: Episode VI - Return of the Jedi	Star Wars: Episode VI - Return of the Jedi	1082262	8.3
+Crime,Drama	Scarface	Scarface	871115	8.3
+Crime,Drama	Once Upon a Time in America	Once Upon a Time in America	362020	8.3
+Drama,War	Full Metal Jacket	Full Metal Jacket	761963	8.3
+Crime,Thriller	Reservoir Dogs	Reservoir Dogs	1047402	8.3
+Biography,Drama,History	Braveheart	Braveheart	1059129	8.3
+Action,Crime,Drama	Heat	Heat	681213	8.3
+Adventure,Animation,Comedy	Toy Story	Toy Story	1023875	8.3
+Drama,Romance	Good Will Hunting	Good Will Hunting	1009042	8.3
+Drama	American Beauty	American Beauty	1176850	8.3
+Drama	Requiem for a Dream	Requiem for a Dream	865120	8.3
+Drama,Romance,Sci-Fi	Eternal Sunshine of the Spotless Mind	Eternal Sunshine of the Spotless Mind	1035439	8.3
+Adventure,Drama,War	Inglourious Basterds	Inglourious Basterds	1500386	8.3
+Adventure,Animation,Comedy	Toy Story 3	Toy Story 3	859345	8.3
+Action,Biography,Drama	Shershaah	Shershaah	125260	8.3
+Adventure,Animation,Comedy	Up	Up	1075696	8.3
+Action,Crime,Drama	K.G.F: Chapter 2	K.G.F: Chapter 2	140517	8.3
+Drama,Mystery	Incendies	Incendies	185476	8.3
+Action,Adventure,Drama	Kantara	Kantara	96429	8.3
+Action,Drama	Top Gun: Maverick	Top Gun: Maverick	603772	8.3
+Action,Biography,Drama	Dangal	Dangal	198518	8.3
+Biography,Drama,History	Hamilton	Hamilton	102855	8.3
+Comedy,Drama,Romance	Chhichhore	Chhichhore	58326	8.3
+Action,Crime,Thriller	Vikram	Vikram	64517	8.3
+Action,Comedy,Romance	Sherlock Jr.	Sherlock Jr.	52914	8.2
+Drama,Romance,War	Gone with the Wind	Gone with the Wind	323601	8.2
+Adventure,Drama,Western	The Treasure of the Sierra Madre	The Treasure of the Sierra Madre	128491	8.2
+Drama	All About Eve	All About Eve	134585	8.2
+Crime,Thriller	Dial M for Murder	Dial M for Murder	181478	8.2
+Comedy,Music,Romance	Some Like It Hot	Some Like It Hot	274233	8.2
+Adventure,Drama,History	The Great Escape	The Great Escape	250465	8.2
+Drama,Mystery,Thriller	Chinatown	Chinatown	336087	8.2
+Adventure,Comedy,Fantasy	Monty Python and the Holy Grail	Monty Python and the Holy Grail	553778	8.2
+Crime,Drama	Taxi Driver	Taxi Driver	869736	8.2
+Biography,Drama	The Elephant Man	The Elephant Man	249086	8.2
+Horror,Mystery,Sci-Fi	The Thing	The Thing	441252	8.2
+Action,Drama,War	Ran	Ran	129954	8.2
+Action,Thriller	Die Hard	Die Hard	904650	8.2
+Action,Adventure	Indiana Jones and the Last Crusade	Indiana Jones and the Last Crusade	779348	8.2
+Drama,Western	Unforgiven	Unforgiven	422483	8.2
+Action,Adventure,Sci-Fi	Jurassic Park	Jurassic Park	1020300	8.2
+Crime,Drama	Casino	Casino	537646	8.2
+Drama,Family,Sport	Children of Heaven	Bacheha-Ye aseman	77177	8.2
+Crime,Drama,Mystery	L.A. Confidential	L.A. Confidential	595313	8.2
+Comedy,Drama	The Truman Show	The Truman Show	1124052	8.2
+Drama,Mystery,Thriller	The Sixth Sense	The Sixth Sense	1014637	8.2
+Comedy,Crime	Snatch	Snatch	877341	8.2
+Adventure,Animation,Comedy	Finding Nemo	Finding Nemo	1071442	8.2
+Action,Crime,Thriller	Kill Bill: Vol. 1	Kill Bill: Vol. 1	1145494	8.2
+Biography,Drama	A Beautiful Mind	A Beautiful Mind	953715	8.2
+Drama,Musical	Swades	Swades: We, the People	93908	8.2
+Action,Crime,Drama	Batman Begins	Batman Begins	1510799	8.2
+Action,Drama,Sci-Fi	V for Vendetta	V for Vendetta	1144396	8.2
+Drama	There Will Be Blood	There Will Be Blood	607054	8.2
+Crime,Drama,Thriller	No Country for Old Men	No Country for Old Men	1006816	8.2
+Biography,Comedy,Crime	The Wolf of Wall Street	The Wolf of Wall Street	1473575	8.2
+Drama,Mystery	The Father	The Father	171258	8.2
+Action,Adventure,Fantasy	Spider-Man: No Way Home	Spider-Man: No Way Home	809351	8.2
+Mystery,Thriller	Shutter Island	Shutter Island	1369832	8.2
+Drama	Farha	Farha	79682	8.2
+Comedy,Drama,Musical	Zindagi Na Milegi Dobara	Zindagi Na Milegi Dobara	81848	8.2
+Crime,Documentary	Inside Job	Inside Job	77175	8.2
+Action,Comedy,Crime	Gangs of Wasseypur	Gangs of Wasseypur	99727	8.2
+Biography,Documentary,Music	Searching for Sugar Man	Searching for Sugar Man	70434	8.2
+Biography,Drama,Sport	Bhaag Milkha Bhaag	Bhaag Milkha Bhaag	70025	8.2
+Crime,Drama,Mystery	Drishyam	Drishyam	89215	8.2
+Adventure,Animation,Comedy	Klaus	Klaus	167759	8.2
+Action,Drama	Baahubali 2: The Conclusion	Bãhubali 2: The Conclusion	107769	8.2
+Action,Adventure,Comedy	Guardians of the Galaxy Vol. 3	Guardians of the Galaxy Vol. 3	182560	8.2
+Biography,Comedy,Drama	Green Book	Green Book	523646	8.2
+Action,Crime,Drama	K.G.F: Chapter 1	K.G.F: Chapter 1	92235	8.2
+Crime,Mystery,Thriller	Andhadhun	Andhadhun	97716	8.2
+Drama,Fantasy,Horror	Tumbbad	Tumbbad	53608	8.2
+Action,Drama,History	Uri: The Surgical Strike	Uri: The Surgical Strike	67983	8.2
+Action,Drama,War	1917	1917	626589	8.2
+Adventure,Comedy,Drama	The Gold Rush	The Gold Rush	114370	8.1
+Action,Adventure,Comedy	The General	The General	94336	8.1
+Drama,Romance	Sunrise	Sunrise: A Song of Two Humans	52501	8.1
+Drama,War	All Quiet on the Western Front	All Quiet on the Western Front	65672	8.1
+Comedy,Romance	It Happened One Night	It Happened One Night	107830	8.1
+Comedy,Drama	Mr. Smith Goes to Washington	Mr. Smith Goes to Washington	118001	8.1
+Adventure,Family,Fantasy	The Wizard of Oz	The Wizard of Oz	412174	8.1
+Drama	The Grapes of Wrath	The Grapes of Wrath	96577	8.1
+Drama,Film-Noir,Mystery	Rebecca	Rebecca	141378	8.1
+Drama,Romance,War	The Best Years of Our Lives	The Best Years of Our Lives	67485	8.1
+Film-Noir,Mystery,Thriller	The Third Man	The Third Man	175968	8.1
+Crime,Drama,Thriller	On the Waterfront	On the Waterfront	159179	8.1
+Adventure,Drama,War	The Bridge on the River Kwai	The Bridge on the River Kwai	226464	8.1
+Adventure,Drama	Ben-Hur	Ben-Hur	245972	8.1
+Drama,Western	The Man Who Shot Liberty Valance	The Man Who Shot Liberty Valance	79310	8.1
+Biography,Drama,Family	The Sound of Music	The Sound of Music	245964	8.1
+Biography,Drama,History	Andrei Rublev	Andrey Rublyov	55402	8.1
+Drama,Thriller	Persona	Persona	124413	8.1
+Crime,Drama	Cool Hand Luke	Cool Hand Luke	182603	8.1
+Horror	The Exorcist	The Exorcist	423701	8.1
+Comedy,Crime,Drama	Paper Moon	Paper Moon	50090	8.1
+Adventure,Drama,War	Barry Lyndon	Barry Lyndon	174666	8.1
+Adventure,Mystery,Thriller	Jaws	Jaws	628513	8.1
+Action,Adventure,Comedy	Sholay	Sholay	57262	8.1
+Drama	Network	Network	164180	8.1
+Drama,Sport	Rocky	Rocky	601774	8.1
+Drama,War	The Deer Hunter	The Deer Hunter	348025	8.1
+Drama,Sci-Fi	Stalker	Stalker	139053	8.1
+Biography,Drama,Sport	Raging Bull	Raging Bull	364741	8.1
+Action,Drama,Sci-Fi	Blade Runner	Blade Runner	791606	8.1
+Drama	Paris, Texas	Paris, Texas	111254	8.1
+Action,Sci-Fi	The Terminator	The Terminator	890042	8.1
+Drama,War	Platoon	Platoon	424773	8.1
+Adventure,Drama	Stand by Me	Stand by Me	419769	8.1
+Comedy,Drama	Dead Poets Society	Dead Poets Society	513227	8.1
+Biography,Crime,Drama	In the Name of the Father	In the Name of the Father	180573	8.1
+Drama,Romance	Before Sunrise	Before Sunrise	322410	8.1
+Crime,Drama	La haine	La haine	182719	8.1
+Comedy,Drama,Fantasy	Underground	Underground	59758	8.1
+Crime,Thriller	Fargo	Fargo	695367	8.1
+Drama	Trainspotting	Trainspotting	703308	8.1
+Comedy,Crime	The Big Lebowski	The Big Lebowski	830311	8.1
+Action,Comedy,Crime	Lock, Stock and Two Smoking Barrels	Lock, Stock and Two Smoking Barrels	597165	8.1
+Action,Adventure,Animation	The Iron Giant	The Iron Giant	211313	8.1
+Drama,Musical,Sport	Lagaan: Once Upon a Time in India	Lagaan: Once Upon a Time in India	117317	8.1
+Adventure,Animation,Comedy	Monsters, Inc.	Monsters, Inc.	937051	8.1
+Action,Comedy,Crime	Hera Pheri	Hera Pheri	69714	8.1
+Biography,Crime,Drama	Catch Me If You Can	Catch Me If You Can	1028526	8.1
+Comedy,Drama,Romance	Dil Chahta Hai	Dil Chahta Hai	74006	8.1
+Action,Adventure,Fantasy	Pirates of the Caribbean: The Curse of the Black Pearl	Pirates of the Caribbean: The Curse of the Black Pearl	1159219	8.1
+Comedy,Drama	Munna Bhai M.B.B.S.	Munna Bhai M.B.B.S.	84888	8.1
+Drama,Romance	Before Sunset	Before Sunset	275388	8.1
+Adventure,Animation,Comedy	Ratatouille	Ratatouille	772685	8.1
+Biography,Drama,History	Hotel Rwanda	Hotel Rwanda	362912	8.1
+Drama,Sport	Million Dollar Baby	Million Dollar Baby	702005	8.1
+Comedy,Crime,Drama	Rang De Basanti	Rang De Basanti	120692	8.1
+Adventure,Biography,Drama	Into the Wild	Into the Wild	637251	8.1
+Action,Adventure,Animation	How to Train Your Dragon	How to Train Your Dragon	765504	8.1
+Biography,Drama,Family	Hachi: A Dog's Tale	Hachi: A Dog's Tale	296566	8.1
+Adventure,Family,Fantasy	Harry Potter and the Deathly Hallows: Part 2	Harry Potter and the Deathly Hallows: Part 2	905242	8.1
+Drama	Gran Torino	Gran Torino	792076	8.1
+Action,Crime,Drama	A Wednesday	A Wednesday	80408	8.1
+Documentary	My Octopus Teacher	My Octopus Teacher	58954	8.1
+Action,Drama,Sport	Warrior	Warrior	483351	8.1
+Action,Adventure,Sci-Fi	Mad Max: Fury Road	Mad Max: Fury Road	1035110	8.1
+Crime,Drama,Mystery	Prisoners	Prisoners	752761	8.1
+Drama	The Help	The Help	474502	8.1
+Mystery,Thriller	Kahaani	Kahaani	64188	8.1
+Biography,Crime,Drama	Spotlight	Spotlight	484245	8.1
+Action,Biography,Drama	Ford v Ferrari	Ford v Ferrari	424007	8.1
+Action,Biography,Drama	Rush	Rush	493243	8.1
+Biography,Drama,History	12 Years a Slave	12 Years a Slave	718284	8.1
+Comedy,Drama,Romance	Barfi!	Barfi!	84308	8.1
+Adventure,Animation,Comedy	Inside Out	Inside Out	741676	8.1
+Biography,Drama,History	Hacksaw Ridge	Hacksaw Ridge	554204	8.1
+Drama,Mystery,Thriller	Gone Girl	Gone Girl	1013462	8.1
+Adventure,Comedy,Crime	The Grand Budapest Hotel	The Grand Budapest Hotel	844285	8.1
+Comedy,Drama,Fantasy	OMG: Oh My God!	OMG: Oh My God!	60949	8.1
+Comedy,Drama,Sci-Fi	PK	PK	193879	8.1
+Documentary	Blackfish	Blackfish	70058	8.1
+Drama,Thriller	Room	Room	433605	8.1
+Action,Drama,Sci-Fi	Logan	Logan	792423	8.1
+Adventure,Comedy,Drama	Queen	Queen	67177	8.1
+Action,Adventure,Comedy	Bajrangi Bhaijaan	Bajrangi Bhaijaan	92435	8.1
+Comedy,Crime,Drama	Three Billboards Outside Ebbing, Missouri	Three Billboards Outside Ebbing, Missouri	528758	8.1
+Adventure,Documentary,Sport	Free Solo	Free Solo	72685	8.1
+Crime,Film-Noir,Mystery	The Maltese Falcon	The Maltese Falcon	162818	8.0
+Drama,Thriller,Western	High Noon	High Noon	107314	8.0
+Comedy,Romance	Roman Holiday	Roman Holiday	142931	8.0
+Comedy,Drama,War	Stalag 17	Stalag 17	57242	8.0
+Drama	La strada	La strada	65009	8.0
+Crime,Drama,Film-Noir	The Night of the Hunter	The Night of the Hunter	92815	8.0
+Crime,Drama,Film-Noir	Touch of Evil	Touch of Evil	107197	8.0
+Drama,Mystery	Anatomy of a Murder	Anatomy of a Murder	68669	8.0
+Drama,Western	Rio Bravo	Rio Bravo	65509	8.0
+Drama,Sport	The Hustler	The Hustler	84405	8.0
+Drama,Horror,Thriller	What Ever Happened to Baby Jane?	What Ever Happened to Baby Jane?	59095	8.0
+Biography,Drama	8½	8½	121564	8.0
+Drama	Who's Afraid of Virginia Woolf?	Who's Afraid of Virginia Woolf?	77749	8.0
+Comedy,Drama,Romance	The Graduate	The Graduate	281090	8.0
+Crime,Drama,Thriller	Le Samouraï	Le Samouraï	53911	8.0
+Adventure,Sci-Fi	Planet of the Apes	Planet of the Apes	186039	8.0
+Drama,Horror	Rosemary's Baby	Rosemary's Baby	224492	8.0
+Biography,Crime,Drama	Butch Cassidy and the Sundance Kid	Butch Cassidy and the Sundance Kid	221421	8.0
+Drama,Romance	The Last Picture Show	The Last Picture Show	50251	8.0
+Biography,Crime,Drama	Papillon	Papillon	134588	8.0
+Comedy	Young Frankenstein	Young Frankenstein	163445	8.0
+Biography,Crime,Drama	Dog Day Afternoon	Dog Day Afternoon	265059	8.0
+Comedy,Romance	Annie Hall	Annie Hall	270967	8.0
+Comedy,Drama	Being There	Being There	75102	8.0
+Comedy	Life of Brian	Life of Brian	410426	8.0
+Biography,Drama,History	Gandhi	Gandhi	236580	8.0
+Drama,Fantasy,Music	Pink Floyd: The Wall	Pink Floyd: The Wall	83280	8.0
+Adventure,Comedy,Family	The Princess Bride	The Princess Bride	437458	8.0
+Action,Animation,Drama	Akira	Akira	194851	8.0
+Drama	Rain Man	Rain Man	528512	8.0
+Comedy,Drama	Do the Right Thing	Do the Right Thing	107164	8.0
+Adventure,Drama,Western	Dances with Wolves	Dances with Wolves	278048	8.0
+Animation,Family,Fantasy	Beauty and the Beast	Beauty and the Beast	466308	8.0
+Drama,History,Thriller	JFK	JFK	162716	8.0
+Adventure,Animation,Comedy	Aladdin	Aladdin	440468	8.0
+Drama	Scent of a Woman	Scent of a Woman	312016	8.0
+Comedy,Drama,Fantasy	Groundhog Day	Groundhog Day	654090	8.0
+Action,Comedy,Romance	Andaz Apna Apna	Andaz Apna Apna	54306	8.0
+Drama,Romance	Dilwale Dulhania Le Jayenge	Dilwale Dulhania Le Jayenge	73257	8.0
+Mystery,Sci-Fi,Thriller	12 Monkeys	Twelve Monkeys	631105	8.0
+Drama	Sling Blade	Sling Blade	96367	8.0
+Biography,Drama	The Straight Story	The Straight Story	93503	8.0
+Drama	Magnolia	Magnolia	320354	8.0
+Drama,Mystery,Sci-Fi	Donnie Darko	Donnie Darko	822412	8.0
+Crime,Drama	Dogville	Dogville	153622	8.0
+Crime,Documentary,Drama	Bowling for Columbine	Bowling for Columbine	146681	8.0
+Action,Adventure,Animation	The Incredibles	The Incredibles	766861	8.0
+Adventure,Drama,Fantasy	Big Fish	Big Fish	449222	8.0
+Biography,Drama,Romance	Cinderella Man	Cinderella Man	192876	8.0
+Action,Crime,Thriller	Kill Bill: Vol. 2	Kill Bill: Vol. 2	776757	8.0
+Action,Adventure,Thriller	Casino Royale	Casino Royale	673166	8.0
+Adventure,Comedy,Sci-Fi	G.O.R.A.	G.O.R.A.	64758	8.0
+Documentary,Drama	Sicko	Sicko	76203	8.0
+Crime,Thriller	Sin City	Sin City	780645	8.0
+Action,Mystery,Thriller	The Bourne Ultimatum	The Bourne Ultimatum	645587	8.0
+Adventure,Drama,Thriller	Blood Diamond	Blood Diamond	566139	8.0
+Biography,Drama	The Pursuit of Happyness	The Pursuit of Happyness	533660	8.0
+Animation,Biography,Drama	Persepolis	Persepolis	97402	8.0
+Action,Sci-Fi	The Avengers	The Avengers	1421026	8.0
+Drama,Thriller	Black Swan	Black Swan	791930	8.0
+Crime,Drama,Romance	Slumdog Millionaire	Slumdog Millionaire	860427	8.0
+Comedy,Drama,Music	CODA	CODA	147895	8.0
+Action,Adventure,Drama	Dune: Part One	Dune: Part One	688901	8.0
+Animation,Biography,Documentary	Waltz with Bashir	Vals Im Bashir	59162	8.0
+Action,Biography,Drama	Ip Man	Ip Man	229045	8.0
+Action,Adventure,Fantasy	Karthikeya 2	Karthikeya 2	63433	8.0
+Action,Comedy	Deadpool	Deadpool	1073671	8.0
+Biography,Drama,History	The King's Speech	The King's Speech	693312	8.0
+Action,Adventure,Drama	The Revenant	The Revenant	831466	8.0
+Drama,Romance,Sci-Fi	Her	Her	639397	8.0
+Action,Drama,Mystery	Blade Runner 2049	Blade Runner 2049	609186	8.0
+Adventure,Animation,Drama	Song of the Sea	Song of the Sea	60880	8.0
+Action,Adventure,Comedy	Guardians of the Galaxy	Guardians of the Galaxy	1226653	8.0
+Biography,Drama,Thriller	The Imitation Game	The Imitation Game	792166	8.0
+Crime,Drama,Thriller	Special 26	Special Chabbis	57630	8.0
+Action,Drama	Baahubali: The Beginning	Bãhubali: The Beginning	130792	8.0
+Adventure,Animation,Comedy	Zootopia	Zootopia	519546	8.0
+Adventure,Animation,Comedy	Soul	Soul	348950	8.0
+Action,Crime,Drama	Haider	Haider	56227	8.0
+Drama	Mommy	Mommy	59380	8.0
+Adventure,Drama,Sci-Fi	The Martian	The Martian	883205	8.0
+Biography,Drama	Lion	Lion	243304	8.0
+Comedy,Drama,Music	La La Land	La La Land	619652	8.0
+Biography,Documentary,History	Citizenfour	Citizenfour	56870	8.0
+Biography,Drama,Sport	M.S. Dhoni: The Untold Story	M.S. Dhoni: The Untold Story	63651	8.0
+Adventure,Horror,Sci-Fi	King Kong	King Kong	88164	7.9
+Action,Adventure,Romance	The Adventures of Robin Hood	The Adventures of Robin Hood	53001	7.9
+Comedy,Romance	The Philadelphia Story	The Philadelphia Story	71692	7.9
+Comedy,Crime,Thriller	Arsenic and Old Lace	Arsenic and Old Lace	72927	7.9
+Crime,Film-Noir,Mystery	The Big Sleep	The Big Sleep	88214	7.9
+Drama,Film-Noir,Romance	Notorious	Notorious	104020	7.9
+Comedy,Drama,Family	Miracle on 34th Street	Miracle on 34th Street	51306	7.9
+Crime,Drama,Mystery	Rope	Rope	148430	7.9
+Comedy,Drama,Fantasy	Harvey	Harvey	56932	7.9
+Crime,Drama,Film-Noir	Strangers on a Train	Strangers on a Train	137294	7.9
+Drama	A Streetcar Named Desire	A Streetcar Named Desire	111543	7.9
+Crime,Drama,Film-Noir	The Killing	The Killing	93138	7.9
+Adventure,Drama,Western	The Searchers	The Searchers	93086	7.9
+Adventure,Drama,Family	The Ten Commandments	The Ten Commandments	74598	7.9
+Drama	Cat on a Hot Tin Roof	Cat on a Hot Tin Roof	51664	7.9
+Adventure,Biography,Drama	Spartacus	Spartacus	138937	7.9
+Drama,Thriller	The Manchurian Candidate	The Manchurian Candidate	77469	7.9
+Comedy,Mystery,Romance	Charade	Charade	81619	7.9
+Drama,Romance,War	Doctor Zhivago	Doctor Zhivago	79683	7.9
+Drama,Mystery,Thriller	In the Heat of the Night	In the Heat of the Night	79928	7.9
+Action,Adventure,Drama	The Wild Bunch	The Wild Bunch	87736	7.9
+Biography,Drama,War	Patton	Patton	105352	7.9
+Comedy,Drama,Romance	Harold and Maude	Harold and Maude	79747	7.9
+Drama,History,Thriller	All the President's Men	All the President's Men	120962	7.9
+Action,Adventure,Comedy	The Blues Brothers	The Blues Brothers	206634	7.9
+Adventure,Family,Sci-Fi	E.T. the Extra-Terrestrial	E.T. the Extra-Terrestrial	422433	7.9
+Comedy,Family	A Christmas Story	A Christmas Story	161118	7.9
+Comedy,Music	This Is Spinal Tap	This Is Spinal Tap	143249	7.9
+Drama,Sci-Fi	Brazil	Brazil	205759	7.9
+Drama,Fantasy,Romance	Edward Scissorhands	Edward Scissorhands	504897	7.9
+Crime,Drama,Thriller	Carlito's Way	Carlito's Way	225209	7.9
+Animation,Family,Fantasy	The Nightmare Before Christmas	The Nightmare Before Christmas	352940	7.9
+Crime,Drama,Romance	True Romance	True Romance	234189	7.9
+Drama	Boogie Nights	Boogie Nights	273576	7.9
+Drama,Romance	Titanic	Titanic	1227992	7.9
+Adventure,Animation,Comedy	Toy Story 2	Toy Story 2	598391	7.9
+Adventure,Animation,Comedy	Shrek	Shrek	703226	7.9
+Drama,Mystery,Thriller	Mulholland Drive	Mulholland Dr.	368537	7.9
+Crime,Drama,Musical	Dancer in the Dark	Dancer in the Dark	113341	7.9
+Adventure,Comedy,Drama	Almost Famous	Almost Famous	284711	7.9
+Action,Drama,Sci-Fi	Children of Men	Children of Men	513205	7.9
+Action,Mystery,Thriller	The Bourne Identity	The Bourne Identity	560589	7.9
+Adventure,Family,Fantasy	Harry Potter and the Prisoner of Azkaban	Harry Potter and the Prisoner of Azkaban	658873	7.9
+Crime,Drama,Mystery	Mystic River	Mystic River	469118	7.9
+Comedy,Drama,Musical	Kal Ho Naa Ho	Kal Ho Naa Ho	72144	7.9
+Comedy,Horror	Shaun of the Dead	Shaun of the Dead	573573	7.9
+Action,Adventure,Sci-Fi	Iron Man	Iron Man	1087090	7.9
+Adventure,Animation,Comedy	Fantastic Mr. Fox	Fantastic Mr. Fox	249733	7.9
+Adventure,Drama,Fantasy	Life of Pi	Life of Pi	647509	7.9
+Action,Adventure,Fantasy	Avatar	Avatar	1350951	7.9
+Drama,Fantasy,Mystery	The Man from Earth	The Man from Earth	193211	7.9
+Comedy,Crime,Drama	In Bruges	In Bruges	447021	7.9
+Biography,Drama	Dallas Buyers Club	Dallas Buyers Club	502410	7.9
+Action,Adventure,Sci-Fi	Star Trek	Star Trek	611390	7.9
+Action,Crime,Thriller	John Wick: Chapter 4	John Wick: Chapter 4	231539	7.9
+Drama	Boyhood	Boyhood	360829	7.9
+Comedy,Drama,Romance	Jab We Met	Jab We Met	55923	7.9
+Drama,Sport,Thriller	The Wrestler	The Wrestler	313583	7.9
+Action,Sci-Fi,Thriller	District 9	District 9	697081	7.9
+Adventure,Drama,Romance	My Name Is Khan	My Name Is Khan	111243	7.9
+Action,Adventure,Fantasy	Zack Snyder's Justice League	Zack Snyder's Justice League	416799	7.9
+Comedy,Crime,Documentary	Exit Through the Gift Shop	Exit Through the Gift Shop	67629	7.9
+Drama	Amour	Amour	103178	7.9
+Action,Adventure,Sci-Fi	Edge of Tomorrow	Edge of Tomorrow	702595	7.9
+Comedy,Drama,Romance	The Artist	The Artist	245222	7.9
+Drama	The Perks of Being a Wallflower	The Perks of Being a Wallflower	528736	7.9
+Biography,Drama,Music	Bohemian Rhapsody	Bohemian Rhapsody	558887	7.9
+Action,Adventure,Sci-Fi	X-Men: Days of Future Past	X-Men: Days of Future Past	727285	7.9
+Drama,Romance	Before Midnight	Before Midnight	165341	7.9
+Drama	Short Term 12	Short Term 12	89766	7.9
+Drama,Mystery,Sci-Fi	Arrival	Arrival	723719	7.9
+Drama,Family	Wonder	Wonder	171256	7.9
+Comedy,Drama,War	Jojo Rabbit	Jojo Rabbit	413240	7.9
+Action,Adventure,Comedy	Thor: Ragnarok	Thor: Ragnarok	780943	7.9
+Comedy,Drama,Music	Sing Street	Sing Street	97622	7.9
+Action,Crime,Thriller	Baby	Baby	58934	7.9
+Adventure,Animation,Comedy	Puss in Boots: The Last Wish	Puss in Boots: The Last Wish	138089	7.9
+Action,Drama,History	Airlift	Airlift	57934	7.9
+Adventure,Biography,Drama	Togo	Togo	52273	7.9
+Documentary,Sport	Icarus	Icarus	52318	7.9
+Drama,Romance	Marriage Story	Marriage Story	326599	7.9
+Comedy,Crime,Drama	Knives Out	Knives Out	731252	7.9
+Drama,Horror,Sci-Fi	Frankenstein	Frankenstein	75919	7.8
+Comedy,Musical	Duck Soup	Duck Soup	61554	7.8
+Comedy	Bringing Up Baby	Bringing Up Baby	64042	7.8
+Adventure,Drama,Western	Stagecoach	Stagecoach	51483	7.8
+Comedy,Drama,Romance	His Girl Friday	His Girl Friday	61044	7.8
+Film-Noir,Thriller	Shadow of a Doubt	Shadow of a Doubt	67990	7.8
+Drama,Sci-Fi	The Day the Earth Stood Still	The Day the Earth Stood Still	83877	7.8
+Comedy,Family,Fantasy	Mary Poppins	Mary Poppins	179102	7.8
+Drama,Family,Musical	My Fair Lady	My Fair Lady	98699	7.8
+Horror,Thriller	Night of the Living Dead	Night of the Living Dead	133701	7.8
+Drama	Midnight Cowboy	Midnight Cowboy	115485	7.8
+Family,Fantasy,Musical	Willy Wonka & the Chocolate Factory	Willy Wonka & the Chocolate Factory	210327	7.8
+Drama,Music,Musical	Cabaret	Cabaret	57337	7.8
+Drama,Mystery,Thriller	The Conversation	The Conversation	116354	7.8
+Adventure,War	The Man Who Would Be King	The Man Who Would Be King	50622	7.8
+Western	The Outlaw Josey Wales	The Outlaw Josey Wales	76977	7.8
+Horror,Thriller	Dawn of the Dead	Dawn of the Dead	124578	7.8
+Drama,Romance	Days of Heaven	Days of Heaven	60428	7.8
+Drama	Kramer vs. Kramer	Kramer vs. Kramer	149980	7.8
+Comedy,Drama,Romance	Manhattan	Manhattan	143376	7.8
+Comedy,Crime,Drama	The King of Comedy	The King of Comedy	110292	7.8
+Adventure,Biography,Drama	The Right Stuff	The Right Stuff	63574	7.8
+Action,Comedy,Fantasy	Ghostbusters	Ghostbusters	427505	7.8
+Biography,Drama,History	The Killing Fields	The Killing Fields	57430	7.8
+Comedy,Drama	The Breakfast Club	The Breakfast Club	417274	7.8
+Comedy	Ferris Bueller's Day Off	Ferris Bueller's Day Off	371399	7.8
+Comedy,Drama	Hannah and Her Sisters	Hannah and Her Sisters	73627	7.8
+Action,Adventure,Horror	Predator	Predator	436620	7.8
+Crime,Drama,Thriller	The Untouchables	The Untouchables	319937	7.8
+Crime,Drama,Mystery	Mississippi Burning	Mississippi Burning	104824	7.8
+Adventure,Comedy,Sci-Fi	Back to the Future Part II	Back to the Future Part II	551058	7.8
+Comedy,Drama	Crimes and Misdemeanors	Crimes and Misdemeanors	59491	7.8
+Biography,Drama,History	Glory	Glory	139531	7.8
+Biography,Drama	My Left Foot	My Left Foot: The Story of Christy Brown	77162	7.8
+Biography,Drama	Awakenings	Awakenings	150018	7.8
+Drama,Thriller	Misery	Misery	222190	7.8
+Crime,Drama	Boyz n the Hood	Boyz n the Hood	147236	7.8
+Action,Adventure,Animation	Batman: Mask of the Phantasm	Batman: Mask of the Phantasm	53846	7.8
+Crime,Drama	A Bronx Tale	A Bronx Tale	150520	7.8
+Action,Crime,Drama	The Fugitive	The Fugitive	305867	7.8
+Drama,Romance	The Remains of the Day	The Remains of the Day	79017	7.8
+Comedy,Drama,Family	The Sandlot	The Sandlot	97332	7.8
+Biography,Drama,History	Tombstone	Tombstone	157071	7.8
+Biography,Comedy,Drama	Ed Wood	Ed Wood	180161	7.8
+Drama	Breaking the Waves	Breaking the Waves	69409	7.8
+Biography,Drama,Family	October Sky	October Sky	94866	7.8
+Biography,Drama,Thriller	The Insider	The Insider	175415	7.8
+Adventure,Drama,Romance	Cast Away	Cast Away	612016	7.8
+Biography,Drama,Sport	Remember the Titans	Remember the Titans	223317	7.8
+Action,Drama	The Last Samurai	The Last Samurai	453839	7.8
+Drama,Romance	The Notebook	The Notebook	590533	7.8
+Biography,Drama,Music	Walk the Line	Walk the Line	258186	7.8
+Action,Adventure,Sci-Fi	Serenity	Serenity	300880	7.8
+Biography,Drama,Sport	The World's Fastest Indian	The World's Fastest Indian	56656	7.8
+Drama,Romance	Pride & Prejudice	Pride & Prejudice	309797	7.8
+Drama,Family,Musical	Veer-Zaara	Veer-Zaara	55066	7.8
+Drama,Fantasy,Romance	The Curious Case of Benjamin Button	The Curious Case of Benjamin Button	670867	7.8
+Action,Comedy,Mystery	Hot Fuzz	Hot Fuzz	519366	7.8
+Biography,Documentary	Grizzly Man	Grizzly Man	59333	7.8
+Comedy,Drama	Little Miss Sunshine	Little Miss Sunshine	498036	7.8
+Adventure,Drama,Fantasy	The Fall	The Fall	114526	7.8
+Action,Adventure,Drama	Apocalypto	Apocalypto	321123	7.8
+Action,Adventure,Drama	Letters from Iwo Jima	Letters from Iwo Jima	166669	7.8
+Biography,Crime,Drama	American Gangster	American Gangster	438322	7.8
+Action,Drama	Drive	Drive	668515	7.8
+Drama,Mystery,Romance	Atonement	Atonement	288666	7.8
+Biography,Crime,Drama	Changeling	Changeling	260430	7.8
+Adventure,Fantasy	The Hobbit: An Unexpected Journey	The Hobbit: An Unexpected Journey	846368	7.8
+Drama,Music,Romance	Once	Once	119026	7.8
+Action,Crime,Thriller	Taken	Taken	616532	7.8
+Action,Biography,Drama	The Fighter	The Fighter	378316	7.8
+Biography,Crime,Drama	Gangubai Kathiawadi	Gangubai Kathiawadi	58501	7.8
+Action,Adventure,Thriller	Skyfall	Skyfall	711765	7.8
+Fantasy	The Hobbit: The Desolation of Smaug	The Hobbit: The Desolation of Smaug	681175	7.8
+Drama,Mystery,Sci-Fi	Moon	Moon	367546	7.8
+Action,Adventure,Biography	Thirteen Lives	Thirteen Lives	61636	7.8
+Biography,Drama	The Social Network	The Social Network	726428	7.8
+Documentary,News	Food, Inc.	Food, Inc.	51716	7.8
+Biography,Crime,Drama	The Irishman	The Irishman	406427	7.8
+Biography,Drama,History	Straight Outta Compton	Straight Outta Compton	210013	7.8
+Action,Biography,Crime	Captain Phillips	Captain Phillips	475655	7.8
+Crime,Drama,Mystery	The Girl with the Dragon Tattoo	The Girl with the Dragon Tattoo	476085	7.8
+Biography,Comedy,Drama	The Big Short	The Big Short	450194	7.8
+Action,Adventure,Animation	How to Train Your Dragon 2	How to Train Your Dragon 2	349507	7.8
+Comedy,Drama,Family	Moonrise Kingdom	Moonrise Kingdom	358811	7.8
+Action,Adventure,Sci-Fi	Captain America: The Winter Soldier	Captain America: The Winter Soldier	870535	7.8
+Action,Crime,Drama	The Batman	The Batman	708011	7.8
+Comedy,Drama,Fantasy	About Time	About Time	366443	7.8
+Action,Adventure,Animation	Big Hero 6	Big Hero 6	479482	7.8
+Drama,Romance	The Lunchbox	The Lunchbox	58519	7.8
+Action,Adventure,Sci-Fi	Star Wars: Episode VII - The Force Awakens	Star Wars: Episode VII - The Force Awakens	950036	7.8
+Biography,Documentary,Music	Amy	Amy	53563	7.8
+Crime,Drama,Thriller	Nightcrawler	Nightcrawler	573209	7.8
+Biography,Comedy,Drama	Pride	Pride	59775	7.8
+Animation,Drama,Mystery	Loving Vincent	Loving Vincent	60662	7.8
+Drama,Romance	Little Women	Little Women	221166	7.8
+Crime,Drama,Mystery	The Hateful Eight	The Hateful Eight	626975	7.8
+Action,Sci-Fi	Captain America: Civil War	Captain America: Civil War	816228	7.8
+Comedy,Drama	Captain Fantastic	Captain Fantastic	226354	7.8
+Drama	Manchester by the Sea	Manchester by the Sea	295348	7.8
+Adventure,Comedy,Family	Paddington 2	Paddington 2	85646	7.8
+Adventure,Comedy,Drama	Hunt for the Wilderpeople	Hunt for the Wilderpeople	135758	7.8
+Biography,Drama,History	Hidden Figures	Hidden Figures	242264	7.8
+Action,Drama,History	Dunkirk	Dunkirk	686643	7.8
+Horror,Mystery,Thriller	Get Out	Get Out	645132	7.8
+Adventure,Animation,Comedy	Isle of Dogs	Isle of Dogs	179510	7.8
+Drama	I, Daniel Blake	I, Daniel Blake	62332	7.8
+Drama,Romance	Call Me by Your Name	Call Me by Your Name	290874	7.8
+Action,Adventure,Comedy	Everything Everywhere All at Once	Everything Everywhere All at Once	459587	7.8
+Action,Comedy,Crime	The Gentlemen	The Gentlemen	363613	7.8
+Mystery,Thriller	The Lady Vanishes	The Lady Vanishes	54976	7.7
+Animation,Family,Fantasy	Fantasia	Fantasia	100223	7.7
+Adventure,Drama,Romance	The African Queen	The African Queen	81627	7.7
+Drama,Horror,Sci-Fi	Invasion of the Body Snatchers	Invasion of the Body Snatchers	52415	7.7
+Action,Adventure,Drama	The Magnificent Seven	The Magnificent Seven	98750	7.7
+Action,Drama,History	The Longest Day	The Longest Day	57669	7.7
+Action,Adventure,Thriller	Goldfinger	Goldfinger	196346	7.7
+Action,Biography,Crime	Bonnie and Clyde	Bonnie and Clyde	116983	7.7
+Action,Adventure,War	The Dirty Dozen	The Dirty Dozen	76442	7.7
+Action,Crime,Thriller	Dirty Harry	Dirty Harry	162483	7.7
+Action,Crime,Drama	The French Connection	The French Connection	128406	7.7
+Adventure,Drama,Thriller	Deliverance	Deliverance	114887	7.7
+Action,Crime,Drama	Badlands	Badlands	75629	7.7
+Biography,Crime,Drama	Serpico	Serpico	128788	7.7
+Comedy,Western	Blazing Saddles	Blazing Saddles	145687	7.7
+Horror,Thriller	Halloween	Halloween	289874	7.7
+Comedy	Airplane!	Airplane!	249810	7.7
+Drama	Ordinary People	Ordinary People	54664	7.7
+Action,Adventure,Thriller	First Blood	First Blood	263589	7.7
+Action,Adventure,Sci-Fi	Star Trek II: The Wrath of Khan	Star Trek II: The Wrath of Khan	125747	7.7
+Drama	The Color Purple	The Color Purple	91185	7.7
+Adventure,Comedy,Family	The Goonies	The Goonies	286360	7.7
+Comedy,Fantasy,Romance	The Purple Rose of Cairo	The Purple Rose of Cairo	53241	7.7
+Crime,Drama,Mystery	Blue Velvet	Blue Velvet	207116	7.7
+Comedy,Crime,Drama	Down by Law	Down by Law	53506	7.7
+Drama,War	Empire of the Sun	Empire of the Sun	130522	7.7
+Comedy,Horror	Evil Dead II	Evil Dead II	174617	7.7
+Biography,Drama,History	The Last Emperor	The Last Emperor	107641	7.7
+Adventure,Animation,Comedy	Who Framed Roger Rabbit	Who Framed Roger Rabbit	208947	7.7
+Comedy,Drama,Romance	When Harry Met Sally...	When Harry Met Sally...	229484	7.7
+Comedy,Family	Home Alone	Home Alone	606574	7.7
+Crime,Drama,Thriller	Miller's Crossing	Miller's Crossing	138633	7.7
+Drama	Fried Green Tomatoes	Fried Green Tomatoes	78390	7.7
+Comedy,Drama	Night on Earth	Night on Earth	63211	7.7
+Drama,Thriller	A Few Good Men	A Few Good Men	274845	7.7
+Crime,Drama,Mystery	Glengarry Glen Ross	Glengarry Glen Ross	110974	7.7
+Action,Adventure,Drama	The Last of the Mohicans	The Last of the Mohicans	178511	7.7
+Biography,Drama,History	Malcolm X	Malcolm X	98548	7.7
+Comedy,Drama,Family	The Muppet Christmas Carol	The Muppet Christmas Carol	64338	7.7
+Drama	Philadelphia	Philadelphia	249780	7.7
+Drama	What's Eating Gilbert Grape	What's Eating Gilbert Grape	245095	7.7
+Comedy	Clerks	Clerks	227806	7.7
+Adventure,Drama,History	Apollo 13	Apollo 13	304634	7.7
+Drama,Romance	Sense and Sensibility	Sense and Sensibility	120605	7.7
+Crime,Drama,Mystery	Primal Fear	Primal Fear	233995	7.7
+Biography,Crime,Drama	Donnie Brasco	Donnie Brasco	318251	7.7
+Drama,Mystery,Thriller	The Game	The Game	411041	7.7
+Comedy,Drama,Romance	As Good as It Gets	As Good as It Gets	308575	7.7
+Comedy,Drama,Fantasy	Being John Malkovich	Being John Malkovich	344916	7.7
+Action,Crime,Drama	Training Day	Training Day	452217	7.7
+Action,Thriller	The Boondock Saints	The Boondock Saints	243948	7.7
+Comedy,Drama	Happiness	Happiness	72396	7.7
+Animation,Comedy,Fantasy	South Park: Bigger, Longer & Uncut	South Park: Bigger, Longer & Uncut	210260	7.7
+Adventure,Comedy,Crime	O Brother, Where Art Thou?	O Brother, Where Art Thou?	320954	7.7
+Crime,Thriller	Ocean's Eleven	Ocean's Eleven	594279	7.7
+Animation,Drama,Fantasy	Waking Life	Waking Life	65697	7.7
+Action,Adventure,Drama	The Count of Monte Cristo	The Count of Monte Cristo	143201	7.7
+Drama,Music	Billy Elliot	Billy Elliot	138827	7.7
+Crime,Drama,Thriller	Road to Perdition	Road to Perdition	276758	7.7
+Action,Drama,History	Black Hawk Down	Black Hawk Down	409068	7.7
+Comedy,Drama	Adaptation.	Adaptation.	197684	7.7
+Comedy,Drama,Romance	Good Bye Lenin!	Good Bye Lenin!	149570	7.7
+Biography,Drama,Family	Finding Neverland	Finding Neverland	209259	7.7
+Animation,Drama,Family	Coraline	Coraline	244918	7.7
+Action,Crime,Drama	Man on Fire	Man on Fire	373328	7.7
+Adventure,Family,Fantasy	Harry Potter and the Goblet of Fire	Harry Potter and the Goblet of Fire	650066	7.7
+Comedy,Drama	Lost in Translation	Lost in Translation	468934	7.7
+Biography,Drama,Music	Ray	Ray	152563	7.7
+Drama,Thriller	The Machinist	The Machinist	402565	7.7
+Action,Mystery,Thriller	The Bourne Supremacy	The Bourne Supremacy	474864	7.7
+Crime,Drama,Thriller	Crash	Crash	443090	7.7
+Action,Crime,Drama	3:10 to Yuma	3:10 to Yuma	321772	7.7
+Drama,Romance	Brokeback Mountain	Brokeback Mountain	369003	7.7
+Adventure,Animation,Comedy	Tangled	Tangled	471891	7.7
+Crime,Drama,Thriller	Lucky Number Slevin	Lucky Number Slevin	319700	7.7
+Crime,Drama,Mystery	Zodiac	Zodiac	564950	7.7
+Drama,Sci-Fi,Thriller	Ex Machina	Ex Machina	564243	7.7
+Crime,Drama	This Is England	This Is England	125365	7.7
+Drama,Fantasy,Romance	Mr. Nobody	Mr. Nobody	239727	7.7
+Comedy,Drama,Romance	Flipped	Flipped	93884	7.7
+Animation,Drama,Fantasy	Paprika	Paprika	88375	7.7
+Biography,Drama,History	Frost/Nixon	Frost/Nixon	110415	7.7
+Drama,War	The Boy in the Striped Pajamas	The Boy in the Striped Pajamas	231369	7.7
+Adventure,Family,Fantasy	Harry Potter and the Deathly Hallows: Part 1	Harry Potter and the Deathly Hallows: Part 1	570748	7.7
+Comedy,Drama,Romance	500 Days of Summer	(500) Days of Summer	533148	7.7
+Biography,Drama,Thriller	Argo	Argo	626457	7.7
+Comedy,Drama,Romance	Silver Linings Playbook	Silver Linings Playbook	723693	7.7
+Drama,History,Thriller	The Trial of the Chicago 7	The Trial of the Chicago 7	185105	7.7
+Comedy	The Hangover	The Hangover	811590	7.7
+Biography,Crime,Documentary	Man on Wire	Man on Wire	57462	7.7
+Comedy,Drama	The Banshees of Inisherin	The Banshees of Inisherin	214923	7.7
+Action,Sci-Fi	X-Men: First Class	X: First Class	706909	7.7
+Drama,War	Beasts of No Nation	Beasts of No Nation	84299	7.7
+Drama	The Whale	The Whale	158607	7.7
+Action,Adventure,Sci-Fi	Star Trek Into Darkness	Star Trek Into Darkness	490167	7.7
+Comedy,Drama	Dasvi	Dasvi	55919	7.7
+Drama,Sci-Fi,Thriller	Gravity	Gravity	842714	7.7
+Action,Adventure,Animation	The Lego Movie	The Lego Movie	372451	7.7
+Comedy,Fantasy,Romance	Midnight in Paris	Midnight in Paris	436270	7.7
+Drama	Detachment	Detachment	92499	7.7
+Adventure,Animation,Comedy	Wreck-It Ralph	Wreck-It Ralph	439544	7.7
+Drama	Nebraska	Nebraska	120522	7.7
+Drama	Aftersun	Aftersun	66910	7.7
+Adventure,Animation,Comedy	Toy Story 4	Toy Story 4	264277	7.7
+Comedy,Drama	Birdman or (The Unexpected Virtue of Ignorance)	Birdman or (The Unexpected Virtue of Ignorance)	647536	7.7
+Comedy,Drama,Romance	Me and Earl and the Dying Girl	Me and Earl and the Dying Girl	135027	7.7
+Drama,Romance	The Fault in Our Stars	The Fault in Our Stars	388726	7.7
+Action,Adventure,Comedy	Kingsman: The Secret Service	Kingsman: The Secret Service	690037	7.7
+Biography,Drama,Romance	The Theory of Everything	The Theory of Everything	465353	7.7
+Action,Adventure,Animation	Kubo and the Two Strings	Kubo and the Two Strings	134240	7.7
+Action,Adventure,Thriller	Mission: Impossible - Fallout	Mission: Impossible - Fallout	347674	7.7
+Crime,Drama,Mystery	Wind River	Wind River	264221	7.7
+Drama,Music	Sound of Metal	Sound of Metal	138196	7.7
+Drama	Roma	Roma	164264	7.7
+Crime,Mystery,Thriller	The 39 Steps	The 39 Steps	59376	7.6
+Adventure,Animation,Family	Snow White and the Seven Dwarfs	Snow White and the Seven Dwarfs	206974	7.6
+Comedy,Drama,Romance	Sabrina	Sabrina	67780	7.6
+Drama	Rebel Without a Cause	Rebel Without a Cause	94526	7.6
+Comedy,Drama,Romance	Breakfast at Tiffany's	Breakfast at Tiffany's	186149	7.6
+Crime,Drama,Musical	West Side Story	West Side Story	117816	7.6
+Drama,Horror,Mystery	The Birds	The Birds	196998	7.6
+Drama,Horror,Thriller	Repulsion	Repulsion	55150	7.6
+Adventure,Animation,Comedy	The Jungle Book	The Jungle Book	190961	7.6
+Action,Adventure,War	Where Eagles Dare	Where Eagles Dare	60748	7.6
+Adventure,Comedy,War	Kelly's Heroes	Kelly's Heroes	51886	7.6
+Action,Crime,Thriller	Enter the Dragon	Enter the Dragon	108324	7.6
+Drama,Sci-Fi	Close Encounters of the Third Kind	Close Encounters of the Third Kind	209217	7.6
+Action,Biography,Crime	Escape from Alcatraz	Escape from Alcatraz	142264	7.6
+Crime,Drama,Thriller	Blood Simple	Blood Simple	100572	7.6
+Comedy,Crime,Drama	After Hours	After Hours	74533	7.6
+Drama,Horror,Sci-Fi	The Fly	The Fly	192094	7.6
+Action,Crime,Thriller	Lethal Weapon	Lethal Weapon	267386	7.6
+Comedy,Drama	Planes, Trains & Automobiles	Planes, Trains & Automobiles	151130	7.6
+Action,Crime,Sci-Fi	RoboCop	RoboCop	268934	7.6
+Drama,Romance	Dangerous Liaisons	Dangerous Liaisons	72937	7.6
+Comedy,Crime	The Naked Gun: From the Files of Police Squad!	The Naked Gun: From the Files of Police Squad!	176639	7.6
+Adventure,Animation,Family	The Little Mermaid	The Little Mermaid	279122	7.6
+Crime,Drama	The Godfather Part III	The Godfather Part III	409363	7.6
+Comedy,Drama,Thriller	Barton Fink	Barton Fink	125725	7.6
+Comedy,Crime	My Cousin Vinny	My Cousin Vinny	133184	7.6
+Comedy	Dazed and Confused	Dazed and Confused	191807	7.6
+Action,Crime,Drama	Falling Down	Falling Down	197890	7.6
+Drama,Romance	The Bridges of Madison County	The Bridges of Madison County	85355	7.6
+Action,Adventure,Thriller	Die Hard with a Vengeance	Die Hard with a Vengeance	397105	7.6
+Mystery,Thriller	Lost Highway	Lost Highway	147832	7.6
+Biography,Drama,Music	Shine	Shine	55463	7.6
+Action,Adventure,Drama	Star Trek: First Contact	Star Trek: First Contact	129165	7.6
+Fantasy,Mystery,Sci-Fi	Dark City	Dark City	205596	7.6
+Action,Adventure,Sci-Fi	The Fifth Element	The Fifth Element	487919	7.6
+Adventure,Animation,Comedy	Mulan	Mulan	301144	7.6
+Drama,History,War	The Thin Red Line	The Thin Red Line	193520	7.6
+Action,Adventure,Fantasy	Star Wars: Episode III - Revenge of the Sith	Star Wars: Episode III - Revenge of the Sith	815285	7.6
+Comedy,Drama,Romance	Rushmore	Rushmore	191800	7.6
+Crime,Drama,Horror	American Psycho	American Psycho	661828	7.6
+Comedy	Office Space	Office Space	277092	7.6
+Biography,Drama,Sport	The Hurricane	The Hurricane	99874	7.6
+Action,Crime,Mystery	Minority Report	Minority Report	567098	7.6
+Crime,Drama,Thriller	Traffic	Traffic	213935	7.6
+Drama,Musical,Romance	Moulin Rouge!	Moulin Rouge!	292072	7.6
+Horror,Mystery,Thriller	The Others	The Others	378139	7.6
+Adventure,Family,Fantasy	Harry Potter and the Sorcerer's Stone	Harry Potter and the Sorcerer's Stone	813948	7.6
+Comedy,Drama	The Royal Tenenbaums	The Royal Tenenbaums	303037	7.6
+Drama	I Am Sam	I Am Sam	152702	7.6
+Drama,Sci-Fi,Thriller	The Butterfly Effect	The Butterfly Effect	503718	7.6
+Drama	25th Hour	25th Hour	181957	7.6
+Comedy,Drama,Romance	Love Actually	Love Actually	504258	7.6
+Crime,Drama,Thriller	21 Grams	21 Grams	241547	7.6
+Comedy,Drama	The Station Agent	The Station Agent	71940	7.6
+Drama	Mysterious Skin	Mysterious Skin	73028	7.6
+Horror,Mystery,Thriller	Saw	Saw	437194	7.6
+Crime,Drama	Lord of War	Lord of War	327482	7.6
+Action,Drama,Mystery	Watchmen	Watchmen	564640	7.6
+Drama,Romance,Thriller	Match Point	Match Point	222946	7.6
+Action,Drama	300	300	839430	7.6
+Action,Adventure,Family	Harry Potter and the Half-Blood Prince	Harry Potter and the Half-Blood Prince	567086	7.6
+Crime,Drama,Thriller	Dead Man's Shoes	Dead Man's Shoes	55890	7.6
+Drama	The Kite Runner	The Kite Runner	81406	7.6
+Biography,Drama,Music	Control	Control	67103	7.6
+Action,Adventure,Animation	Kung Fu Panda	Kung Fu Panda	491787	7.6
+Comedy,Drama	Volver	Volver	104908	7.6
+Crime,Drama,Mystery	Gone Baby Gone	Gone Baby Gone	281141	7.6
+Crime,Drama,Mystery	Inside Man	Inside Man	385181	7.6
+Biography,Drama,History	The Last King of Scotland	The Last King of Scotland	191260	7.6
+Biography,Crime,Drama	Freedom Writers	Freedom Writers	82217	7.6
+Action,Drama,History	United 93	United 93	108635	7.6
+Adventure,Family,Fantasy	Stardust	Stardust	278026	7.6
+Crime,Drama,Thriller	Eastern Promises	Eastern Promises	251781	7.6
+Drama	Seven Pounds	Seven Pounds	309119	7.6
+Comedy,Documentary,War	Religulous	Religulous	59755	7.6
+Comedy	Superbad	Superbad	603091	7.6
+Biography,Drama,Sport	The Blind Side	The Blind Side	346335	7.6
+Drama,Romance	The Reader	The Reader	252316	7.6
+Action,Adventure,Mystery	Sherlock Holmes	Sherlock Holmes	650199	7.6
+Documentary,Drama	The Social Dilemma	The Social Dilemma	86277	7.6
+Action,Comedy,Horror	Zombieland	Zombieland	597815	7.6
+Biography,Drama,Sport	Moneyball	Moneyball	442365	7.6
+Action,Comedy,Crime	Kick-Ass	Kick-Ass	577026	7.6
+Comedy,Drama,Romance	50/50	50/50	336711	7.6
+Action,Drama,Sci-Fi	Rise of the Planet of the Apes	Rise of the Planet of the Apes	542100	7.6
+Adventure,Animation,Comedy	Despicable Me	Despicable Me	563236	7.6
+Drama,Western	True Grit	True Grit	348338	7.6
+Drama	The Fabelmans	The Fabelmans	94450	7.6
+Animation,Drama,Family	Guillermo del Toro's Pinocchio	Guillermo del Toro's Pinocchio	100876	7.6
+Drama,Music,Romance	A Star Is Born	A Star Is Born	399661	7.6
+Action,Adventure,Fantasy	Avatar: The Way of Water	Avatar: The Way of Water	425391	7.6
+Action,Adventure,Crime	End of Watch	End of Watch	257723	7.6
+Action,Adventure,Drama	Dawn of the Planet of the Apes	Dawn of the Planet of the Apes	453233	7.6
+Biography,Comedy,Drama	Philomena	Philomena	102169	7.6
+Crime,Drama,Thriller	Hell or High Water	Hell or High Water	240216	7.6
+Action,Drama,War	Fury	Fury	515412	7.6
+Action,Drama,Sport	Creed	Creed	299403	7.6
+Action,Crime,Drama	Sicario	Sicario	448441	7.6
+Comedy,Horror	What We Do in the Shadows	What We Do in the Shadows	190999	7.6
+Adventure,Animation,Comedy	Moana	Moana	354453	7.6
+Action,Adventure,Animation	Incredibles 2	Incredibles 2	312381	7.6
+Drama,History,Thriller	Bridge of Spies	Bridge of Spies	319473	7.6
+Action,Biography,Drama	Only the Brave	Only the Brave	73544	7.6
+Action,Crime,Drama	Baby Driver	Baby Driver	571060	7.6
+Action,Adventure,Comedy	Guardians of the Galaxy Vol. 2	Guardians of the Galaxy Vol. 2	721461	7.6
+Crime,Drama,Romance	Victoria	Victoria	60908	7.6
+Adventure,Comedy,Drama	The Peanut Butter Falcon	The Peanut Butter Falcon	95841	7.6
+Drama	Gifted	Gifted	123809	7.6
+Biography,Crime,Drama	Just Mercy	Just Mercy	72087	7.6
+Action,Drama,History	Hotel Mumbai	Hotel Mumbai	67366	7.6
+Action,Adventure,Comedy	Deadpool 2	Deadpool 2	609341	7.6
+Drama	The Florida Project	The Florida Project	120872	7.6
+Biography,Comedy,Drama	Sanju	Sanju	57340	7.6
+Comedy,Drama	Once Upon a Time in Hollywood	Once Upon a Time in... Hollywood	783763	7.6
+Drama,Mystery,Thriller	Searching	Searching	173272	7.6
+Adventure,Animation,Comedy	The Mitchells vs the Machines	The Mitchells vs the Machines	117408	7.6
+Biography,Comedy,Drama	The Two Popes	The Two Popes	128618	7.6
+Biography,Drama,History	Dark Waters	Dark Waters	94321	7.6
+Action,Crime,Drama	Pushpa: The Rise - Part 1	Pushpa: The Rise - Part 1	81113	7.6
+Adventure,Animation,Comedy	Pinocchio	Pinocchio	153478	7.5
+Film-Noir,Mystery,Romance	Spellbound	Spellbound	50420	7.5
+Adventure,Sci-Fi	Forbidden Planet	Forbidden Planet	51273	7.5
+Action,Adventure,Drama	The Guns of Navarone	The Guns of Navarone	53374	7.5
+Crime,Drama,Romance	Lolita	Lolita	105255	7.5
+Drama,Mystery,Thriller	Blow-Up	Blow-Up	65187	7.5
+Comedy,Music	The Producers	The Producers	57930	7.5
+Adventure,Animation,Comedy	Robin Hood	Robin Hood	133177	7.5
+Horror,Mystery,Thriller	The Wicker Man	The Wicker Man	85880	7.5
+Horror,Mystery	The Omen	The Omen	124885	7.5
+Biography,Crime,Drama	Midnight Express	Midnight Express	84653	7.5
+Action,Crime,Thriller	The Warriors	The Warriors	106519	7.5
+Comedy,Horror	An American Werewolf in London	An American Werewolf in London	113562	7.5
+Drama,Romance	Sophie's Choice	Sophie's Choice	50507	7.5
+Comedy,Musical	The Meaning of Life	The Meaning of Life	122822	7.5
+Comedy	Trading Places	Trading Places	158513	7.5
+Action,Adventure	Indiana Jones and the Temple of Doom	Indiana Jones and the Temple of Doom	512238	7.5
+Comedy,Fantasy	Beetlejuice	Beetle Juice	317602	7.5
+Comedy,Crime	A Fish Called Wanda	A Fish Called Wanda	147894	7.5
+Drama	The Last Temptation of Christ	The Last Temptation of Christ	60222	7.5
+Action,Comedy,Crime	Midnight Run	Midnight Run	89881	7.5
+Adventure,Drama,Mystery	The Abyss	The Abyss	184445	7.5
+Action,Adventure	Batman	Batman	390585	7.5
+Drama,Family,Fantasy	Field of Dreams	Field of Dreams	123333	7.5
+Comedy	National Lampoon's Christmas Vacation	National Lampoon's Christmas Vacation	204549	7.5
+Action,Adventure,Thriller	The Hunt for Red October	The Hunt for Red October	207423	7.5
+Action,Adventure,Sci-Fi	Total Recall	Total Recall	342251	7.5
+Comedy,Crime	Delicatessen	Delicatessen	87648	7.5
+Comedy,Drama,Fantasy	The Fisher King	The Fisher King	88301	7.5
+Adventure,Crime,Drama	Thelma & Louise	Thelma & Louise	163008	7.5
+Biography,Comedy,Drama	Chaplin	Chaplin	59873	7.5
+Comedy,Crime,Drama	The Player	The Player	63406	7.5
+Crime,Drama,Thriller	Menace II Society	Menace II Society	61984	7.5
+Crime,Drama,Thriller	A Perfect World	A Perfect World	84000	7.5
+Drama,Music,Romance	The Piano	The Piano	91908	7.5
+Biography,Drama,Sport	Rudy	Rudy	66339	7.5
+Comedy,Music	The Adventures of Priscilla, Queen of the Desert	The Adventures of Priscilla, Queen of the Desert	52531	7.5
+Action,Crime,Drama	The Crow	The Crow	191046	7.5
+Drama,Fantasy,Horror	Interview with the Vampire: The Vampire Chronicles	Interview with the Vampire: The Vampire Chronicles	333802	7.5
+Drama,Romance,War	Legends of the Fall	Legends of the Fall	174166	7.5
+Biography,Drama,History	Quiz Show	Quiz Show	71637	7.5
+Adventure,Drama,Fantasy	Dead Man	Dead Man	100164	7.5
+Crime,Drama	Dead Man Walking	Dead Man Walking	98492	7.5
+Drama,Romance	Leaving Las Vegas	Leaving Las Vegas	129607	7.5
+Crime,Drama,Thriller	Sleepers	Sleepers	230902	7.5
+Crime,Drama,Thriller	A Time to Kill	A Time to Kill	170876	7.5
+Drama,Mystery,Sci-Fi	Contact	Contact	283862	7.5
+Drama,Fantasy,Mystery	The Devil's Advocate	The Devil's Advocate	386363	7.5
+Crime,Drama,Thriller	Funny Games	Funny Games	79220	7.5
+Crime,Drama,Thriller	Jackie Brown	Jackie Brown	360100	7.5
+Crime,Drama,Thriller	A Simple Plan	A Simple Plan	73394	7.5
+Drama,Mystery,Thriller	Eyes Wide Shut	Eyes Wide Shut	356280	7.5
+Adventure,Comedy,Drama	Fear and Loathing in Las Vegas	Fear and Loathing in Las Vegas	292706	7.5
+Comedy,Drama,Fantasy	Pleasantville	Pleasantville	132623	7.5
+Crime,Mystery,Thriller	Following	Following	95994	7.5
+Crime,Drama	Ghost Dog: The Way of the Samurai	Ghost Dog: The Way of the Samurai	94010	7.5
+Biography,Crime,Drama	Boys Don't Cry	Boys Don't Cry	100835	7.5
+Comedy,Drama,Musical	Kuch Kuch Hota Hai	Kuch Kuch Hota Hai	54822	7.5
+Action,Drama,War	Enemy at the Gates	Enemy at the Gates	269778	7.5
+Crime,Drama	Gangs of New York	Gangs of New York	455772	7.5
+Biography,Crime,Drama	Blow	Blow	267857	7.5
+Crime,Drama	The Man Who Wasn't There	The Man Who Wasn't There	112359	7.5
+Adventure,Animation,Comedy	Ice Age	Ice Age	498486	7.5
+Drama,Romance	The Hours	The Hours	135287	7.5
+Drama,Horror,Sci-Fi	28 Days Later	28 Days Later...	426481	7.5
+Crime,Drama,Mystery	The Life of David Gale	The Life of David Gale	123322	7.5
+Action,Adventure,Drama	Master and Commander: The Far Side of the World	Master and Commander: The Far Side of the World	229577	7.5
+Adventure,Animation,Comedy	Wallace & Gromit: The Curse of the Were-Rabbit	The Curse of the Were-Rabbit	140935	7.5
+Crime,Drama	House of Sand and Fog	House of Sand and Fog	70598	7.5
+Comedy,Drama,Family	Secondhand Lions	Secondhand Lions	59532	7.5
+Biography,Drama	The Aviator	The Aviator	372534	7.5
+Documentary,Drama,War	Fahrenheit 9/11	Fahrenheit 9/11	130975	7.5
+Action,Crime,Drama	Collateral	Collateral	417533	7.5
+Comedy,Crime,Mystery	Kiss Kiss Bang Bang	Kiss Kiss Bang Bang	232051	7.5
+Action,Adventure,Family	Harry Potter and the Order of the Phoenix	Harry Potter and the Order of the Phoenix	604119	7.5
+Comedy,Drama,Romance	Sideways	Sideways	196638	7.5
+Drama	Synecdoche, New York	Synecdoche, New York	95029	7.5
+Crime,Drama,Fantasy	Perfume: The Story of a Murderer	Perfume: The Story of a Murderer	258506	7.5
+Drama,Romance	Little Children	Little Children	113921	7.5
+Action,Drama,History	Munich	Munich	232708	7.5
+Comedy,Drama,Fantasy	Stranger Than Fiction	Stranger Than Fiction	232997	7.5
+Biography,Drama,Romance	The Great Debaters	The Great Debaters	60846	7.5
+Comedy,Drama	Thank You for Smoking	Thank You for Smoking	225513	7.5
+Drama,Fantasy,Mystery	The Illusionist	The Illusionist	381205	7.5
+Biography,Crime,Drama	The Assassination of Jesse James by the Coward Robert Ford	The Assassination of Jesse James by the Coward Robert Ford	187507	7.5
+Action,Comedy,Fantasy	Scott Pilgrim vs. the World	Scott Pilgrim vs. the World	443664	7.5
+Drama	Babel	Babel	309860	7.5
+Biography,Drama,Sport	42	42	99026	7.5
+Drama,War	The Wind that Shakes the Barley	The Wind that Shakes the Barley	52081	7.5
+Action,Horror,Thriller	Grindhouse	Grindhouse	187812	7.5
+Comedy,Drama	Juno	Juno	535591	7.5
+Drama,War	The Book Thief	The Book Thief	139301	7.5
+Crime,Drama,Thriller	The Town	The Town	402962	7.5
+Drama,Thriller,War	The Hurt Locker	The Hurt Locker	462523	7.5
+Drama,Mystery	Doubt	Doubt	133207	7.5
+Action,Drama,Mystery	Source Code	Source Code	532612	7.5
+Adventure,Drama,Family	Hugo	Hugo	329452	7.5
+Biography,Crime,Drama	Hunger	Hunger	72023	7.5
+Biography,Drama,History	Milk	Milk	176724	7.5
+Biography,Drama,History	Selma	Selma	93527	7.5
+Action,Biography,Drama	Lone Survivor	Lone Survivor	296752	7.5
+Action,Adventure,Fantasy	Doctor Strange	Doctor Strange	770009	7.5
+Drama,Mystery,Thriller	We Need to Talk About Kevin	We Need to Talk About Kevin	161481	7.5
+Crime,Drama,Romance	A Single Man	A Single Man	115290	7.5
+Drama,Thriller	Disconnect	Disconnect	77098	7.5
+Drama,Music	Tár	Tár	75991	7.5
+Horror,Mystery,Thriller	The Conjuring	The Conjuring	527584	7.5
+Comedy,Horror	Tucker and Dale vs Evil	Tucker and Dale vs Evil	187003	7.5
+Biography,Drama,Musical	The Greatest Showman	The Greatest Showman	294599	7.5
+Biography,Drama	127 Hours	127 Hours	388137	7.5
+Drama,Sport	Air	Air	118204	7.5
+Drama,Musical,Romance	Les Misérables	Les Misérables	337507	7.5
+Action,Adventure,Sci-Fi	The Hunger Games: Catching Fire	The Hunger Games: Catching Fire	686277	7.5
+Biography,Comedy,Drama	Saving Mr. Banks	Saving Mr. Banks	166328	7.5
+Biography,Crime,Drama	Fruitvale Station	Fruitvale Station	84053	7.5
+Drama,Romance	Brooklyn	Brooklyn	146089	7.5
+Drama	Still Alice	Still Alice	139791	7.5
+Biography,Crime,Drama	Richard Jewell	Richard Jewell	93115	7.5
+Drama	Miss Sloane	Miss Sloane	78653	7.5
+Drama,Thriller	Nocturnal Animals	Nocturnal Animals	290941	7.5
+Action,Thriller,War	The Covenant	Guy Ritchie's The Covenant	73245	7.5
+Biography,Comedy,Drama	The Favourite	The Favourite	209430	7.5
+Comedy,Drama	Love, Simon	Love, Simon	120023	7.5
+Comedy,Drama,Romance	The Big Sick	The Big Sick	139687	7.5
+Biography,Comedy,Drama	I, Tonya	I, Tonya	228704	7.5
+Action,Sci-Fi,Thriller	Upgrade	Upgrade	194150	7.5
+Drama,Horror,Sci-Fi	A Quiet Place	A Quiet Place	553072	7.5
+Biography,Comedy,Crime	BlacKkKlansman	BlacKkKlansman	275183	7.5
+Comedy,Drama	A Man Called Otto	A Man Called Otto	99593	7.5
+Comedy,Drama	The Farewell	The Farewell	67604	7.5
+Biography,Comedy,Drama	tick, tick... BOOM!	tick, tick...BOOM!	112711	7.5
+Biography,Drama,Sport	King Richard	King Richard	123718	7.5
+Crime,Drama,Mystery	Promising Young Woman	Promising Young Woman	189773	7.5
+Drama,Fantasy,Horror	Dracula	Dracula	55399	7.4
+Mystery,Romance,Thriller	To Catch a Thief	To Catch a Thief	76533	7.4
+Drama,Thriller	The Man Who Knew Too Much	The Man Who Knew Too Much	66944	7.4
+Action,Crime,Thriller	Bullitt	Bullitt	72594	7.4
+Comedy,Drama,War	M*A*S*H	M*A*S*H	75054	7.4
+Crime,Drama,Thriller	Straw Dogs	Straw Dogs	62598	7.4
+Drama,Mystery,Western	High Plains Drifter	High Plains Drifter	61284	7.4
+Comedy,Drama	American Graffiti	American Graffiti	94470	7.4
+Horror	The Texas Chain Saw Massacre	The Texas Chain Saw Massacre	171430	7.4
+Comedy,Horror,Musical	The Rocky Horror Picture Show	The Rocky Horror Picture Show	158805	7.4
+Crime,Mystery,Thriller	Three Days of the Condor	Three Days of the Condor	59168	7.4
+Horror,Mystery	Carrie	Carrie	195655	7.4
+Crime,Drama,Thriller	Marathon Man	Marathon Man	67332	7.4
+Drama,History,War	A Bridge Too Far	A Bridge Too Far	59123	7.4
+Horror,Sci-Fi	Invasion of the Body Snatchers	Invasion of the Body Snatchers	64356	7.4
+Comedy	National Lampoon's Animal House	National Lampoon's Animal House	125792	7.4
+Action,Adventure,Sci-Fi	Superman	Superman	181675	7.4
+Crime,Drama,Mystery	Blow Out	Blow Out	58242	7.4
+Horror	The Evil Dead	The Evil Dead	223265	7.4
+Comedy,Drama,Romance	Tootsie	Tootsie	111211	7.4
+Comedy,Drama	Terms of Endearment	Terms of Endearment	63087	7.4
+Drama,Sport	The Natural	The Natural	50962	7.4
+Horror	A Nightmare on Elm Street	A Nightmare on Elm Street	249393	7.4
+Drama,Romance,Thriller	Witness	Witness	100087	7.4
+Adventure,Drama,History	The Mission	The Mission	63559	7.4
+Comedy,Crime	Dirty Rotten Scoundrels	Dirty Rotten Scoundrels	75021	7.4
+Adventure,Animation,Drama	The Land Before Time	The Land Before Time	94244	7.4
+Adventure,Comedy,Sci-Fi	Back to the Future Part III	Back to the Future Part III	463024	7.4
+Drama,Horror,Mystery	Jacob's Ladder	Jacob's Ladder	113400	7.4
+Drama,Fantasy,Horror	Bram Stoker's Dracula	Bram Stoker's Dracula	226532	7.4
+Comedy,Horror	Army of Darkness	Army of Darkness	187542	7.4
+Drama,Romance,War	The English Patient	The English Patient	195338	7.4
+Action,Adventure,Thriller	The Rock	The Rock	348179	7.4
+Horror,Mystery	Scream	Scream	366243	7.4
+Comedy,Drama,Romance	Buffalo '66	Buffalo '66	57009	7.4
+Drama	The Ice Storm	The Ice Storm	58159	7.4
+Adventure,Animation,Comedy	The Emperor's New Groove	The Emperor's New Groove	214274	7.4
+Drama,Romance	The Cider House Rules	The Cider House Rules	102433	7.4
+Biography,Comedy,Drama	Man on the Moon	Man on the Moon	134291	7.4
+Biography,Drama,History	Elizabeth	Elizabeth	102521	7.4
+Crime,Drama,Thriller	The Talented Mr. Ripley	The Talented Mr. Ripley	219297	7.4
+Action,Adventure,Sci-Fi	Spider-Man	Spider-Man	843837	7.4
+Comedy,Drama,Music	High Fidelity	High Fidelity	185119	7.4
+Adventure,Comedy,Sci-Fi	Galaxy Quest	Galaxy Quest	170268	7.4
+Crime,Drama,Mystery	Frequency	Frequency	112115	7.4
+Biography,Drama	Erin Brockovich	Erin Brockovich	208394	7.4
+Drama,Romance,Sci-Fi	2046	2046	59737	7.4
+Comedy	Best in Show	Best in Show	64661	7.4
+Drama,Musical,Romance	Kabhi Khushi Kabhie Gham...	Kabhi Khushi Kabhie Gham...	52555	7.4
+Drama,Mystery,Sci-Fi	K-PAX	K-PAX	188739	7.4
+Adventure,Family,Fantasy	Harry Potter and the Chamber of Secrets	Harry Potter and the Chamber of Secrets	659865	7.4
+Biography,Comedy,Drama	American Splendor	American Splendor	51013	7.4
+Action,Drama,Romance	Open Range	Open Range	75841	7.4
+Action,Adventure,Sci-Fi	Spider-Man 2	Spider-Man 2	677116	7.4
+Comedy,Drama,Romance	Garden State	Garden State	220229	7.4
+Biography,Drama,History	Miracle	Miracle	56778	7.4
+Comedy,Drama,Romance	The Terminal	The Terminal	474226	7.4
+Drama,Mystery,Romance	The Constant Gardener	The Constant Gardener	145707	7.4
+Action,Crime,Drama	A History of Violence	A History of Violence	245643	7.4
+Comedy,Drama	Everything Is Illuminated	Everything Is Illuminated	59235	7.4
+Drama,Music	August Rush	August Rush	109379	7.4
+Biography,Drama,History	Good Night, and Good Luck.	Good Night, and Good Luck.	99744	7.4
+Comedy	Borat	Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan	424702	7.4
+Drama,Romance	The Painted Veil	The Painted Veil	94559	7.4
+Action,Adventure,Fantasy	Wonder Woman	Wonder Woman	677590	7.4
+Crime,Drama,Romance	Notes on a Scandal	Notes on a Scandal	81799	7.4
+Drama	Reign Over Me	Reign Over Me	98341	7.4
+Documentary,News	An Inconvenient Truth	An Inconvenient Truth	84404	7.4
+Adventure,Comedy,Drama	The Bucket List	The Bucket List	252650	7.4
+Drama	Minari	Minari	88079	7.4
+Crime,Thriller	Felon	Felon	81820	7.4
+Drama,Romance	Biutiful	Biutiful	92908	7.4
+Action,Comedy	Black Dynamite	Black Dynamite	50424	7.4
+Comedy,Drama,Romance	Up in the Air	Up in the Air	342890	7.4
+Action,Crime,Drama	Law Abiding Citizen	Law Abiding Citizen	307873	7.4
+Sci-Fi,Thriller	Limitless	Limitless	591472	7.4
+Comedy	In the Loop	In the Loop	60017	7.4
+Action,Adventure,Thriller	Mission: Impossible - Ghost Protocol	Mission: Impossible - Ghost Protocol	504141	7.4
+Biography,Drama,History	Tetris	Tetris	57824	7.4
+Action,Drama,Sci-Fi	Looper	Looper	588479	7.4
+Adventure,Animation,Comedy	Luca	Luca	175764	7.4
+Drama,Mystery,Sci-Fi	Cloud Atlas	Cloud Atlas	368157	7.4
+Action,Adventure,Mystery	Sherlock Holmes: A Game of Shadows	Sherlock Holmes: A Game of Shadows	467339	7.4
+Comedy,Drama,Romance	Crazy, Stupid, Love.	Crazy, Stupid, Love.	536093	7.4
+Action,Adventure,Sci-Fi	Ready Player One	Ready Player One	457369	7.4
+Comedy,Drama	The Way Way Back	The Way Way Back	153869	7.4
+Drama,History,Thriller	Zero Dark Thirty	Zero Dark Thirty	310256	7.4
+Crime,Drama	The Judge	The Judge	196800	7.4
+Drama	Mud	Mud	183881	7.4
+Comedy,Drama,Music	Begin Again	Begin Again	161623	7.4
+Drama,Music	Inside Llewyn Davis	Inside Llewyn Davis	158619	7.4
+Crime,Drama,Mystery	Calvary	Calvary	62279	7.4
+Action,Adventure,Sci-Fi	Spider-Man: Homecoming	Spider-Man: Homecoming	685298	7.4
+Adventure,Animation,Comedy	Frozen	Frozen	641979	7.4
+Adventure,Fantasy	The Hobbit: The Battle of the Five Armies	The Hobbit: The Battle of the Five Armies	549770	7.4
+Comedy,Drama,Romance	Frances Ha	Frances Ha	87994	7.4
+Action,Adventure,Thriller	Mission: Impossible - Rogue Nation	Mission: Impossible - Rogue Nation	386552	7.4
+Action,Adventure,Animation	How to Train Your Dragon: The Hidden World	How to Train Your Dragon: The Hidden World	139603	7.4
+Drama,War	Mudbound	Mudbound	51973	7.4
+Action,Drama,Sci-Fi	Predestination	Predestination	292282	7.4
+Drama,Romance	Me Before You	Me Before You	268617	7.4
+Drama	Ida	Ida	59265	7.4
+Action,Crime,Thriller	John Wick	John Wick	702752	7.4
+Adventure,Drama,Family	The Jungle Book	The Jungle Book	284613	7.4
+Biography,Drama	Trumbo	Trumbo	83281	7.4
+Biography,Drama	Sully	Sully	284976	7.4
+Adventure,Drama,Family	A Monster Calls	A Monster Calls	90984	7.4
+Action,Adventure,Drama	War for the Planet of the Apes	War for the Planet of the Apes	268178	7.4
+Biography,Crime,Drama	Molly's Game	Molly's Game	179996	7.4
+Action,Drama,History	The Last Duel	The Last Duel	167034	7.4
+Action,Crime,Thriller	John Wick: Chapter 2	John Wick: Chapter 2	482934	7.4
+Biography,Drama,War	Darkest Hour	Darkest Hour	210618	7.4
+Biography,Drama,Thriller	The Mauritanian	The Mauritanian	56065	7.4
+Comedy,Drama	Lady Bird	Lady Bird	306219	7.4
+Drama	Moonlight	Moonlight	319684	7.4
+Crime,Drama,Thriller	Uncut Gems	Uncut Gems	298942	7.4
+Drama,History,Romance	Phantom Thread	Phantom Thread	138773	7.4
+Action,Crime,Thriller	John Wick: Chapter 3 - Parabellum	John Wick: Chapter 3 - Parabellum	396891	7.4
+Action,Adventure,Comedy	Spider-Man: Far from Home	Spider-Man: Far from Home	521243	7.4
+Drama,Romance	Downton Abbey	Downton Abbey	59824	7.4
+Adventure,Animation,Comedy	Sing 2	Sing 2	76373	7.4
+Comedy,Drama	Eighth Grade	Eighth Grade	79443	7.4
+Adventure,Animation,Comedy	Onward	Onward	159086	7.4
+Action,Crime,Drama	Nobody	Nobody	291378	7.4
+Drama,Fantasy,Mystery	The Lighthouse	The Lighthouse	233261	7.4
+Action,Adventure,Fantasy	Shang-Chi and the Legend of the Ten Rings	Shang-Chi and the Legend of the Ten Rings	406713	7.4
+Comedy,Fantasy,Mystery	Palm Springs	Palm Springs	170409	7.4
+Biography,Drama,History	Judas and the Black Messiah	Judas and the Black Messiah	86190	7.4
+Adventure,Animation,Drama	Bambi	Bambi	148651	7.3
+Animation,Family,Fantasy	Cinderella	Cinderella	167307	7.3
+Adventure,Animation,Comedy	Alice in Wonderland	Alice in Wonderland	147912	7.3
+Adventure,Animation,Family	Peter Pan	Peter Pan	147062	7.3
+Adventure,Animation,Comedy	Lady and the Tramp	Lady and the Tramp	142145	7.3
+Adventure,Animation,Comedy	One Hundred and One Dalmatians	One Hundred and One Dalmatians	174906	7.3
+Action,Adventure,Thriller	From Russia with Love	From Russia with Love	140004	7.3
+Adventure,Drama	Easy Rider	Easy Rider	113723	7.3
+Action,Crime,Thriller	Assault on Precinct 13	Assault on Precinct 13	53077	7.3
+Fantasy,Horror	Eraserhead	Eraserhead	121783	7.3
+Horror	Suspiria	Suspiria	99048	7.3
+Drama,Sport	Rocky II	Rocky II	222254	7.3
+Adventure,Comedy	The Gods Must Be Crazy	The Gods Must Be Crazy	57952	7.3
+Adventure,Drama,Fantasy	Excalibur	Excalibur	64573	7.3
+Horror,Thriller	Poltergeist	Poltergeist	171358	7.3
+Adventure,Comedy	National Lampoon's Vacation	National Lampoon's Vacation	114707	7.3
+Action,Comedy,Crime	Beverly Hills Cop	Beverly Hills Cop	192565	7.3
+Comedy,Fantasy,Horror	Gremlins	Gremlins	235246	7.3
+Action,Drama,Family	The Karate Kid	The Karate Kid	234332	7.3
+Drama,Western	Pale Rider	Pale Rider	62265	7.3
+Comedy,Horror,Sci-Fi	The Return of the Living Dead	The Return of the Living Dead	64837	7.3
+Adventure,Family,Fantasy	Labyrinth	Labyrinth	143470	7.3
+Action,Adventure,Comedy	Star Trek IV: The Voyage Home	Star Trek IV: The Voyage Home	88774	7.3
+Biography,Comedy,Drama	Good Morning, Vietnam	Good Morning, Vietnam	147430	7.3
+Comedy,Crime	Raising Arizona	Raising Arizona	144517	7.3
+Crime,Drama	Wall Street	Wall Street	160521	7.3
+Comedy,Drama,Fantasy	Big	Big	230899	7.3
+Comedy,Drama,Romance	Driving Miss Daisy	Driving Miss Daisy	114065	7.3
+Comedy,Drama,Romance	Steel Magnolias	Steel Magnolias	59605	7.3
+Action,Crime,Drama	Nikita	Nikita	74325	7.3
+Crime,Thriller	Cape Fear	Cape Fear	205366	7.3
+Comedy,Drama,Sport	A League of Their Own	A League of Their Own	115727	7.3
+Drama,Horror,Mystery	Twin Peaks: Fire Walk with Me	Twin Peaks: Fire Walk with Me	100882	7.3
+Comedy,Drama,Romance	Much Ado About Nothing	Much Ado About Nothing	50098	7.3
+Biography,Drama	This Boy's Life	This Boy's Life	55938	7.3
+Comedy	Dumb and Dumber	Dumb and Dumber	397674	7.3
+Biography,Crime,Drama	Heavenly Creatures	Heavenly Creatures	65847	7.3
+Drama,Family,Romance	Little Women	Little Women	61216	7.3
+Crime,Drama,Thriller	Shallow Grave	Shallow Grave	64212	7.3
+Action,Adventure,Thriller	Speed	Speed	378328	7.3
+Action,Comedy,Thriller	True Lies	True Lies	270943	7.3
+Biography,Crime,Drama	The Basketball Diaries	The Basketball Diaries	116344	7.3
+Action,Drama,Thriller	Crimson Tide	Crimson Tide	118198	7.3
+Crime,Thriller	Bound	Bound	58325	7.3
+Comedy,Drama,Romance	Jerry Maguire	Jerry Maguire	276796	7.3
+Biography,Drama	The People vs. Larry Flynt	The People vs. Larry Flynt	98127	7.3
+Biography,Drama,History	Amistad	Amistad	80299	7.3
+Action,Crime,Sci-Fi	Face/Off	Face/Off	388897	7.3
+Action,Comedy,Crime	Grosse Pointe Blank	Grosse Pointe Blank	97219	7.3
+Adventure,Animation,Comedy	Hercules	Hercules	242757	7.3
+Action,Adventure,Comedy	Men in Black	Men in Black	587412	7.3
+Action,Adventure,Sci-Fi	Starship Troopers	Starship Troopers	306657	7.3
+Adventure,Comedy,Drama	Dogma	Dogma	223294	7.3
+Action,Thriller	Enemy of the State	Enemy of the State	251593	7.3
+Biography,Drama,Romance	Frida	Frida	92691	7.3
+Action,Crime,Drama	The Negotiator	The Negotiator	148916	7.3
+Adventure,Animation,Comedy	Tarzan	Tarzan	236458	7.3
+Action,Adventure,Sci-Fi	X-Men	X-Men	629397	7.3
+Animation,Drama,Family	Corpse Bride	Corpse Bride	285237	7.3
+Comedy,Romance	Election	Election	100201	7.3
+Crime,Drama	Rounders	Rounders	155922	7.3
+Drama,Horror,Mystery	Pi	Pi	183118	7.3
+Drama,History,Thriller	Thirteen Days	Thirteen Days	60658	7.3
+Comedy,Drama,Romance	10 Things I Hate About You	10 Things I Hate About You	360412	7.3
+Comedy,Drama	Ghost World	Ghost World	123825	7.3
+Fantasy,Horror,Mystery	Sleepy Hollow	Sleepy Hollow	370827	7.3
+Biography,Drama	Girl, Interrupted	Girl, Interrupted	198854	7.3
+Drama	Finding Forrester	Finding Forrester	87937	7.3
+Crime,Drama,Thriller	Sexy Beast	Sexy Beast	63998	7.3
+Drama,Mystery,Sci-Fi	Unbreakable	Unbreakable	429055	7.3
+Action,Drama,Sci-Fi	Equilibrium	Equilibrium	339313	7.3
+Drama,Romance	Chocolat	Chocolat	196605	7.3
+Comedy,Drama,Romance	Punch-Drunk Love	Punch-Drunk Love	170931	7.3
+Adventure,Animation,Comedy	Lilo & Stitch	Lilo & Stitch	201168	7.3
+Drama,Romance	A Walk to Remember	A Walk to Remember	216308	7.3
+Crime,Drama,Thriller	Before the Devil Knows You're Dead	Before the Devil Knows You're Dead	107550	7.3
+Adventure,Animation,Comedy	Shrek 2	Shrek 2	483644	7.3
+Mystery,Thriller	Identity	Identity	257789	7.3
+Comedy,Crime,Drama	Matchstick Men	Matchstick Men	134625	7.3
+Drama,History,Sport	Seabiscuit	Seabiscuit	75281	7.3
+Drama	Troy	Troy	550447	7.3
+Biography,Crime,Drama	Monster	Monster	156555	7.3
+Adventure,Comedy,Drama	The Secret Life of Walter Mitty	The Secret Life of Walter Mitty	327751	7.3
+Action,Horror	Dawn of the Dead	Dawn of the Dead	263598	7.3
+Comedy,Drama	The Squid and the Whale	The Squid and the Whale	85315	7.3
+Action,Crime,Drama	Layer Cake	Layer Cake	188641	7.3
+Biography,Crime,Drama	Capote	Capote	136899	7.3
+Action,Adventure,Fantasy	Pirates of the Caribbean: Dead Man's Chest	Pirates of the Caribbean: Dead Man's Chest	739752	7.3
+Biography,Drama,Sport	Coach Carter	Coach Carter	162324	7.3
+Adventure,Drama,Family	Eight Below	Eight Below	66675	7.3
+Drama,Romance	Memoirs of a Geisha	Memoirs of a Geisha	155453	7.3
+Action,Crime,Drama	Running Scared	Running Scared	101701	7.3
+Drama,Horror,Musical	Sweeney Todd: The Demon Barber of Fleet Street	Sweeney Todd: The Demon Barber of Fleet Street	377103	7.3
+Crime,Drama,Western	The Proposition	The Proposition	53952	7.3
+Comedy	Clerks II	Clerks II	138571	7.3
+Biography,Drama	The Queen	The Queen	114056	7.3
+Action,Adventure,Sci-Fi	Alita: Battle Angel	Alita: Battle Angel	280515	7.3
+Biography,Drama,History	Lincoln	Lincoln	266368	7.3
+Drama,Fantasy,History	Across the Universe	Across the Universe	112548	7.3
+Adventure,Biography,War	Rescue Dawn	Rescue Dawn	108740	7.3
+Adventure,Animation,Comedy	The Simpsons Movie	The Simpsons Movie	339845	7.3
+Action,Comedy,Sci-Fi	Ant-Man	Ant-Man	696532	7.3
+Crime,Drama,Mystery	Mr. Brooks	Mr. Brooks	153645	7.3
+Comedy	Death at a Funeral	Death at a Funeral	118608	7.3
+Comedy,Drama,Romance	Lars and the Real Girl	Lars and the Real Girl	149848	7.3
+Drama	Precious	Precious	113787	7.3
+Drama,Romance	Revolutionary Road	Revolutionary Road	219167	7.3
+Action,Adventure,Animation	The Adventures of Tintin	The Adventures of Tintin	237314	7.3
+Action,Animation,Comedy	Megamind	Megamind	278483	7.3
+Adventure,Drama,History	The Way Back	The Way Back	119500	7.3
+Comedy,Drama	The Descendants	The Descendants	245952	7.3
+Action,Adventure,Biography	Invictus	Invictus	163892	7.3
+Action,Crime,Thriller	Master	Master	79256	7.3
+Drama,Family	My Sister's Keeper	My Sister's Keeper	95829	7.3
+Adventure,Biography,Comedy	Eddie the Eagle	Eddie the Eagle	96936	7.3
+Adventure,Comedy,Family	Paddington	Paddington	124374	7.3
+Drama,Romance	Blue Valentine	Blue Valentine	203897	7.3
+Comedy,Drama,Music	The Boat That Rocked	The Boat That Rocked	113946	7.3
+Action,Drama,Mystery	Ghajini	Ghajini	64541	7.3
+Drama	An Education	An Education	136396	7.3
+Crime,Drama,Mystery	The Lincoln Lawyer	The Lincoln Lawyer	245143	7.3
+Biography,Drama,History	First Man	First Man	194492	7.3
+Biography,Drama	Beautiful Boy	Beautiful Boy	87846	7.3
+Drama,Romance	Jane Eyre	Jane Eyre	90792	7.3
+Drama	Fish Tank	Fish Tank	63881	7.3
+Action,Comedy,Thriller	Bullet Train	Bullet Train	368273	7.3
+Biography,Drama	Belfast	Belfast	81615	7.3
+Comedy,Crime,Drama	Four Lions	Four Lions	81051	7.3
+Horror	It	It	573061	7.3
+Comedy,Drama,Romance	Submarine	Submarine	93409	7.3
+Action,Crime,Drama	The Next Three Days	The Next Three Days	201204	7.3
+Comedy,Crime,Thriller	The Guard	The Guard	92611	7.3
+Action,Crime,Thriller	Fast Five	Fast Five	395047	7.3
+Drama,Horror,Sci-Fi	Take Shelter	Take Shelter	104037	7.3
+Adventure,Animation,Comedy	Despicable Me 2	Despicable Me 2	411989	7.3
+Action,Crime,Drama	Southpaw	Southpaw	248167	7.3
+Crime,Drama,Thriller	The Place Beyond the Pines	The Place Beyond the Pines	278505	7.3
+Action,Adventure,Sci-Fi	Black Panther	Black Panther	805977	7.3
+Comedy,Drama	The Edge of Seventeen	The Edge of Seventeen	134041	7.3
+Drama,Thriller	Flight	Flight	364954	7.3
+Action,Drama,Thriller	Eye in the Sky	Eye in the Sky	88947	7.3
+Biography,Drama,Music	Rocketman	Rocketman	183352	7.3
+Action,Thriller	The Accountant	The Accountant	306921	7.3
+Action,Biography,Drama	American Sniper	American Sniper	505944	7.3
+Adventure,Animation,Comedy	Finding Dory	Finding Dory	288693	7.3
+Comedy,Drama	Blue Jasmine	Blue Jasmine	208309	7.3
+Action,Adventure,Thriller	No Time to Die	No Time to Die	422148	7.3
+Action,Adventure,Sci-Fi	Avengers: Age of Ultron	Avengers: Age of Ultron	889626	7.3
+Animation,Comedy,Drama	Anomalisa	Anomalisa	73762	7.3
+Biography,Drama,History	Woman in Gold	Woman in Gold	61016	7.3
+Drama	The Kerala Story	The Kerala Story	62503	7.3
+Comedy,Drama	The Fundamentals of Caring	The Fundamentals of Caring	76274	7.3
+Adventure,Comedy,Drama	Chef	Chef	223564	7.3
+Drama,Mystery,Romance	I Origins	I Origins	129493	7.3
+Action,Adventure,Comedy	Dungeons & Dragons: Honor Among Thieves	Dungeons & Dragons: Honor Among Thieves	143706	7.3
+Comedy,Drama	The Hundred-Foot Journey	The Hundred-Foot Journey	85617	7.3
+Horror,Mystery,Thriller	The Conjuring 2	The Conjuring 2	283505	7.3
+Adventure,Comedy,Crime	Cruella	Cruella	246792	7.3
+Comedy,Drama,Music	Youth	Youth	81078	7.3
+Adventure,Biography,Drama	The Walk	The Walk	132009	7.3
+Biography,Comedy,Drama	The Disaster Artist	The Disaster Artist	159343	7.3
+Biography,Drama,Music	Elvis	Elvis	210808	7.3
+Biography,Crime,Drama	Snowden	Snowden	157476	7.3
+Action,Comedy,Crime	The Nice Guys	The Nice Guys	345194	7.3
+Action,Adventure,Drama	Okja	Okja	127224	7.3
+Action,Adventure,Animation	The Lego Batman Movie	The Lego Batman Movie	162334	7.3
+Action,Drama,History	13 Hours	13 Hours	151476	7.3
+Action,Crime,Drama	Patriots Day	Patriots Day	108279	7.3
+Crime,Drama,Thriller	Shot Caller	Shot Caller	91469	7.3
+Crime,Drama,Thriller	Good Time	Good Time	131480	7.3
+Horror,Thriller	Split	Split	521036	7.3
+Action,Adventure,Animation	Raya and the Last Dragon	Raya and the Last Dragon	160890	7.3
+Comedy,Drama,Romance	Paterson	Paterson	85475	7.3
+Crime,Drama,History	Detroit	Detroit	54718	7.3
+Biography,Crime,Drama	Official Secrets	Official Secrets	51169	7.3
+Drama,Fantasy,Romance	The Shape of Water	The Shape of Water	433635	7.3
+Drama,Fantasy,Horror	Doctor Sleep	Doctor Sleep	203335	7.3
+Comedy,Drama	Mid90s	Mid90s	72174	7.3
+Comedy,Drama,Musical	The Ballad of Buster Scruggs	The Ballad of Buster Scruggs	157608	7.3
+Action,Sci-Fi,Thriller	Tenet	Tenet	535225	7.3
+Comedy,Drama	Triangle of Sadness	Triangle of Sadness	142759	7.3
+Comedy,Drama	Instant Family	Instant Family	112953	7.3
+Drama,Horror,Mystery	Hereditary	Hereditary	345310	7.3
+Biography,Drama,History	The King	The King	139795	7.3
+Comedy,Drama,Sport	Hustle	Hustle	133422	7.3
+Action,Crime,Drama	El Camino: A Breaking Bad Movie	El Camino: A Breaking Bad Movie	270021	7.3
+Drama	Nomadland	Nomadland	171669	7.3
+Adventure,Animation,Drama	Dumbo	Dumbo	137106	7.2
+Adventure,Animation,Family	Sleeping Beauty	Sleeping Beauty	154927	7.2
+Action,Adventure,Thriller	Dr. No	Dr. No	173394	7.2
+Action,Crime,Mystery	Magnum Force	Magnum Force	64433	7.2
+Crime,Drama,Thriller	Mean Streets	Mean Streets	113911	7.2
+Crime,Drama,Mystery	Murder on the Orient Express	Murder on the Orient Express	65670	7.2
+Comedy,Musical,Romance	Grease	Grease	288273	7.2
+Comedy,Sport	Caddyshack	Caddyshack	122809	7.2
+Adventure,Animation,Drama	The Fox and the Hound	The Fox and the Hound	97699	7.2
+Drama,Horror,Sci-Fi	The Dead Zone	The Dead Zone	73926	7.2
+Horror,Sci-Fi,Thriller	Videodrome	Videodrome	97951	7.2
+Comedy,Crime,Music	Top Secret!	Top Secret!	70230	7.2
+Comedy,Crime,Mystery	Clue	Clue	102880	7.2
+Comedy,Horror,Sci-Fi	Re-Animator	Re-Animator	68232	7.2
+Action,Adventure,Comedy	Big Trouble in Little China	Big Trouble in Little China	147385	7.2
+Action,Mystery,Thriller	The Hitcher	The Hitcher	50353	7.2
+Crime,Mystery,Thriller	Manhunter	Manhunter	77075	7.2
+Horror,Mystery,Thriller	Angel Heart	Angel Heart	92004	7.2
+Comedy,Horror	The Lost Boys	The Lost Boys	150896	7.2
+Drama,Horror,Thriller	Dead Ringers	Dead Ringers	51146	7.2
+Action,Horror,Sci-Fi	They Live	They Live	136994	7.2
+Action,Adventure,Drama	Willow	Willow	127155	7.2
+Biography,Drama,War	Born on the Fourth of July	Born on the Fourth of July	111761	7.2
+Comedy,Crime	Heathers	Heathers	109847	7.2
+Action,Crime,Thriller	Lethal Weapon 2	Lethal Weapon 2	182700	7.2
+Comedy,Sport	Major League	Major League	73171	7.2
+Drama	Sex, Lies, and Videotape	Sex, Lies, and Videotape	57227	7.2
+Comedy,Crime,Drama	Wild at Heart	Wild at Heart	97287	7.2
+Biography,Drama,Music	The Doors	The Doors	96049	7.2
+Action,Crime,Thriller	Point Break	Point Break	192575	7.2
+Action,Adventure,Sci-Fi	Star Trek VI: The Undiscovered Country	Star Trek VI: The Undiscovered Country	78601	7.2
+Crime,Drama,Romance	The Crying Game	The Crying Game	57926	7.2
+Drama	A River Runs Through It	A River Runs Through It	63081	7.2
+Drama,Romance	The Age of Innocence	The Age of Innocence	63526	7.2
+Action,Crime,Drama	In the Line of Fire	In the Line of Fire	109022	7.2
+Comedy,Drama,Fantasy	The Hudsucker Proxy	The Hudsucker Proxy	83103	7.2
+Action,Crime,Romance	Natural Born Killers	Natural Born Killers	243059	7.2
+Comedy,Drama	Friday	Friday	119213	7.2
+Action,Adventure,Thriller	GoldenEye	GoldenEye	263523	7.2
+Crime,Drama,Sci-Fi	Strange Days	Strange Days	75683	7.2
+Comedy	The Birdcage	The Birdcage	94927	7.2
+Action,Crime,Horror	From Dusk Till Dawn	From Dusk Till Dawn	326861	7.2
+Comedy,Drama	Swingers	Swingers	85738	7.2
+Comedy,Drama,Romance	Chasing Amy	Chasing Amy	141209	7.2
+Comedy,Drama	The Full Monty	The Full Monty	110757	7.2
+Drama,Fantasy,Romance	Meet Joe Black	Meet Joe Black	253726	7.2
+Crime,Drama,Thriller	The Rainmaker	The Rainmaker	80058	7.2
+Adventure,Animation,Comedy	A Bug's Life	A Bug's Life	303194	7.2
+Adventure,Animation,Drama	The Prince of Egypt	The Prince of Egypt	139223	7.2
+Action,Crime,Thriller	Ronin	Ronin	189092	7.2
+Comedy,Drama,Romance	Notting Hill	Notting Hill	326126	7.2
+Adventure,Animation,Family	Treasure Planet	Treasure Planet	125903	7.2
+Action,Crime,Drama	Arlington Road	Arlington Road	89440	7.2
+Comedy,Crime	Go	Go	73335	7.2
+Drama,Romance	The Virgin Suicides	The Virgin Suicides	161268	7.2
+Adventure,Drama,Romance	Cold Mountain	Cold Mountain	152448	7.2
+Adventure,Animation,Drama	Spirit: Stallion of the Cimarron	Spirit: Stallion of the Cimarron	80978	7.2
+Horror,Mystery	Ringu	Ringu	73697	7.2
+Biography,Drama	Quills	Quills	55604	7.2
+Comedy,Drama	Wonder Boys	Wonder Boys	65513	7.2
+Action,Drama,History	The Patriot	The Patriot	283936	7.2
+Crime,Drama,Thriller	The Bank Job	The Bank Job	185666	7.2
+Biography,Drama	Men of Honor	Men of Honor	121295	7.2
+Drama,Sci-Fi	A.I. Artificial Intelligence	A.I. Artificial Intelligence	315546	7.2
+Drama	Pay It Forward	Pay It Forward	121600	7.2
+Action,Sci-Fi	The Matrix Reloaded	The Matrix Reloaded	610698	7.2
+Drama	About Schmidt	About Schmidt	130921	7.2
+Crime,Drama,Thriller	Frailty	Frailty	87420	7.2
+Drama,Mystery,Thriller	Insomnia	Insomnia	304274	7.2
+Comedy,Drama,Mystery	Gosford Park	Gosford Park	90952	7.2
+Crime,Drama,Thriller	Red Dragon	Red Dragon	282455	7.2
+Drama,Musical,Romance	The Phantom of the Opera	The Phantom of the Opera	126804	7.2
+Drama,Music	8 Mile	8 Mile	304182	7.2
+Comedy,Crime,Musical	Chicago	Chicago	236295	7.2
+Adventure,Animation,Comedy	Cars	Cars	442209	7.2
+Action,Adventure,Drama	Kingdom of Heaven	Kingdom of Heaven	297994	7.2
+Comedy,Music	School of Rock	School of Rock	317697	7.2
+Drama	The Passion of the Christ	The Passion of the Christ	240791	7.2
+Action,Adventure,Romance	King Kong	King Kong	434702	7.2
+Action,Adventure,Comedy	The Life Aquatic with Steve Zissou	The Life Aquatic with Steve Zissou	204416	7.2
+Action,Comedy	Team America: World Police	Team America: World Police	174224	7.2
+Drama,Romance	Closer	Closer	228198	7.2
+Action,Drama,Sport	Friday Night Lights	Friday Night Lights	65339	7.2
+Documentary	Super Size Me	Super Size Me	111246	7.2
+Crime,Drama,Mystery	Brick	Brick	108393	7.2
+Drama,Family,Fantasy	Bridge to Terabithia	Bridge to Terabithia	165012	7.2
+Comedy,Drama,Romance	Paris, je t'aime	Paris, je t'aime	73651	7.2
+Comedy,Drama,Mystery	Broken Flowers	Broken Flowers	105018	7.2
+Drama,Mystery,Romance	The Fountain	The Fountain	244263	7.2
+Adventure,Horror,Thriller	The Descent	The Descent	234344	7.2
+Action,Adventure,Fantasy	The Flash	The Flash	81529	7.2
+Sci-Fi,Thriller	Sunshine	Sunshine	257954	7.2
+Action,Crime,Thriller	The Equalizer	The Equalizer	386458	7.2
+Crime,Drama,Mystery	Michael Clayton	Michael Clayton	170170	7.2
+Comedy,Drama,Fantasy	Wristcutters: A Love Story	Wristcutters: A Love Story	56932	7.2
+Crime,Drama,Mystery	In the Valley of Elah	In the Valley of Elah	74123	7.2
+Action,Drama,Horror	I Am Legend	I Am Legend	782930	7.2
+Action,Adventure,Animation	The Croods	The Croods	223677	7.2
+Crime,Drama,Thriller	Fracture	Fracture	211930	7.2
+Drama,History	Silence	Silence	117223	7.2
+Biography,Drama	The Man Who Knew Infinity	The Man Who Knew Infinity	59664	7.2
+Adventure,Comedy,Drama	The Darjeeling Limited	The Darjeeling Limited	208447	7.2
+Drama,Thriller	The Road	The Road	246626	7.2
+Biography,Drama,History	The Young Victoria	The Young Victoria	64426	7.2
+Action,Crime,Thriller	RocknRolla	RocknRolla	259314	7.2
+Comedy,Drama,History	Babylon	Babylon	123640	7.2
+Comedy,Drama,Romance	Licorice Pizza	Licorice Pizza	128991	7.2
+Comedy,Drama,Sci-Fi	Don't Look Up	Don't Look Up	561687	7.2
+Crime,Drama,Mystery	The Ghost Writer	The Ghost Writer	167664	7.2
+Drama,Horror,Mystery	10 Cloverfield Lane	10 Cloverfield Lane	341324	7.2
+Comedy,Drama,Music	Rab Ne Bana Di Jodi	Rab Ne Bana Di Jodi	50906	7.2
+Drama,Fantasy	Enter the Void	Enter the Void	84471	7.2
+Action,Adventure,Animation	Rango	Rango	280150	7.2
+Biography,Crime,Drama	Lawless	Lawless	247723	7.2
+Action,Comedy,Crime	21 Jump Street	21 Jump Street	577306	7.2
+Drama,Music,Romance	Crazy Heart	Crazy Heart	92522	7.2
+Action,Crime,Drama	Harry Brown	Harry Brown	89683	7.2
+Action,Adventure,Animation	Kung Fu Panda 2	Kung Fu Panda 2	300517	7.2
+Crime,Drama,Thriller	Animal Kingdom	Animal Kingdom	59058	7.2
+Comedy,Drama	August: Osage County	August: Osage County	93119	7.2
+Biography,Drama	The Butler	Lee Daniels' the Butler	117671	7.2
+Drama,Romance	The Great Gatsby	The Great Gatsby	568203	7.2
+Action,Adventure,Sci-Fi	The Hunger Games	The Hunger Games	952142	7.2
+Crime,Drama,Mystery	The Outfit	The Outfit	54945	7.2
+Comedy,Drama,Romance	The Best Exotic Marigold Hotel	The Best Exotic Marigold Hotel	97527	7.2
+Action,Adventure,Animation	Rise of the Guardians	Rise of the Guardians	184436	7.2
+Adventure,Animation,Comedy	Monsters University	Monsters University	373391	7.2
+Comedy,Drama,Romance	Beginners	Beginners	93666	7.2
+Action,Adventure,Drama	War Horse	War Horse	161715	7.2
+Action,Adventure,Comedy	The Man from U.N.C.L.E.	The Man from U.N.C.L.E.	321153	7.2
+Drama,Fantasy,Romance	The Age of Adaline	The Age of Adaline	191496	7.2
+Crime,Mystery,Thriller	Now You See Me	Now You See Me	681297	7.2
+Comedy,Drama,Fantasy	Only Lovers Left Alive	Only Lovers Left Alive	104320	7.2
+Drama	Shame	Shame	201042	7.2
+Adventure,Comedy,Drama	A Dog's Purpose	A Dog's Purpose	75762	7.2
+Crime,Drama	American Hustle	American Hustle	490052	7.2
+Action,Biography,Drama	Unbroken	Unbroken	175339	7.2
+Comedy,Drama,Fantasy	Ruby Sparks	Ruby Sparks	103582	7.2
+Action,Adventure,Sci-Fi	Batman v Superman: Dawn of Justice (Ultimate Edition)	Batman v Superman: Dawn of Justice (Ultimate Edition)	70300	7.2
+Biography,Drama	Steve Jobs	Steve Jobs	173946	7.2
+Adventure,Drama,Fantasy	Beasts of the Southern Wild	Beasts of the Southern Wild	84209	7.2
+Comedy,Drama	St. Vincent	St. Vincent	106180	7.2
+Adventure,Animation,Comedy	The Book of Life	The Book of Life	74460	7.2
+Drama	Carol	Carol	135940	7.2
+Drama,Romance	The Light Between Oceans	The Light Between Oceans	58554	7.2
+Action,Crime,Drama	'71	'71	58287	7.2
+Drama	Fences	Fences	112687	7.2
+Comedy,Crime,Drama	T2 Trainspotting	T2 Trainspotting	128918	7.2
+Drama,Mystery,Sci-Fi	Coherence	Coherence	137318	7.2
+Animation,Comedy,Family	Encanto	Encanto	239177	7.2
+Adventure,Family,Fantasy	Fantastic Beasts and Where to Find Them	Fantastic Beasts and Where to Find Them	490152	7.2
+Biography,Drama	A Beautiful Day in the Neighborhood	A Beautiful Day in the Neighborhood	84683	7.2
+Crime,Drama,Musical	West Side Story	West Side Story	89184	7.2
+Adventure,Comedy,Crime	Dope	Dope	87833	7.2
+Action,Biography,Drama	Anthropoid	Anthropoid	51183	7.2
+Biography,Drama	The Founder	The Founder	161973	7.2
+Adventure,Comedy,Drama	Christopher Robin	Christopher Robin	81224	7.2
+Comedy,Drama,History	The Death of Stalin	The Death of Stalin	107689	7.2
+Adventure,Biography,Crime	Papillon	Papillon	80448	7.2
+Drama,Western	Hostiles	Hostiles	90538	7.2
+Adventure,Family,Fantasy	The Little Mermaid	The Little Mermaid	91766	7.2
+Biography,Comedy,Drama	Vice	Vice	154644	7.2
+Biography,Drama,History	The Post	The Post	156919	7.2
+Action,Adventure,Comedy	The Suicide Squad	The Suicide Squad	377276	7.2
+Drama,Romance	Five Feet Apart	Five Feet Apart	74837	7.2
+Drama,Horror,Sci-Fi	A Quiet Place Part II	A Quiet Place Part II	250306	7.2
+Drama,History,Thriller	The Courier	The Courier	67291	7.2
+Biography,Comedy,Drama	Dolemite Is My Name	Dolemite Is My Name	63048	7.2
+Drama,Mystery,Romance	Where the Crawdads Sing	Where the Crawdads Sing	101108	7.2
+Comedy,Horror,Thriller	The Menu	The Menu	328731	7.2
+Adventure,Animation,Comedy	The Sword in the Stone	The Sword in the Stone	102430	7.1
+Crime,Drama,Mystery	Marnie	Marnie	52106	7.1
+Adventure,Animation,Comedy	The Aristocats	The AristoCats	109640	7.1
+Drama,Horror,Mystery	Don't Look Now	Don't Look Now	59068	7.1
+Comedy	The Jerk	The Jerk	60730	7.1
+Biography,Drama,Sport	Chariots of Fire	Chariots of Fire	63682	7.1
+Action,Adventure,Sci-Fi	Escape from New York	Escape from New York	149650	7.1
+Adventure,Family,Fantasy	The Dark Crystal	The Dark Crystal	69374	7.1
+Comedy,Drama	Fast Times at Ridgemont High	Fast Times at Ridgemont High	110222	7.1
+Action,Drama,Sci-Fi	WarGames	WarGames	104948	7.1
+Drama,Sci-Fi	1984	Nineteen Eighty-Four	75279	7.1
+Horror,Thriller	Day of the Dead	Day of the Dead	71746	7.1
+Biography,Drama,Romance	Out of Africa	Out of Africa	83521	7.1
+Adventure,Animation,Family	The Great Mouse Detective	The Great Mouse Detective	52109	7.1
+Comedy,Horror,Musical	Little Shop of Horrors	Little Shop of Horrors	81168	7.1
+Comedy,Drama,Romance	Moonstruck	Moonstruck	63634	7.1
+Adventure,Comedy,Sci-Fi	Spaceballs	Spaceballs	198403	7.1
+Comedy,Romance,Sport	Bull Durham	Bull Durham	57126	7.1
+Comedy,Romance	Coming to America	Coming to America	215396	7.1
+Adventure,Comedy,Fantasy	The Adventures of Baron Munchausen	The Adventures of Baron Munchausen	55283	7.1
+Comedy,Drama	Parenthood	Parenthood	52847	7.1
+Comedy	Uncle Buck	Uncle Buck	101731	7.1
+Action,Thriller	Die Hard 2	Die Hard 2	371554	7.1
+Drama,Fantasy,Romance	Ghost	Ghost	226581	7.1
+Comedy,Romance	Pretty Woman	Pretty Woman	339136	7.1
+Comedy,Horror	Tremors	Tremors	143811	7.1
+Action,Crime,Fantasy	Batman Returns	Batman Returns	315965	7.1
+Comedy,Crime,Drama	Sneakers	Sneakers	60701	7.1
+Adventure,Biography,Drama	Alive	Alive	58753	7.1
+Comedy,Drama,Romance	Benny & Joon	Benny & Joon	60325	7.1
+Comedy,Drama	Mrs. Doubtfire	Mrs. Doubtfire	277881	7.1
+Comedy,Drama,Romance	Four Weddings and a Funeral	Four Weddings and a Funeral	159304	7.1
+Action,Crime,Drama	Desperado	Desperado	191797	7.1
+Drama,Fantasy,Horror	In the Mouth of Madness	In the Mouth of Madness	74399	7.1
+Adventure,Comedy	Tommy Boy	Tommy Boy	92966	7.1
+Comedy,Fantasy,Horror	The Frighteners	The Frighteners	92154	7.1
+Action,Adventure,Thriller	Mission: Impossible	Mission: Impossible	442123	7.1
+Adventure,Animation,Drama	Anastasia	Anastasia	130118	7.1
+Adventure,Biography,Drama	Seven Years in Tibet	Seven Years in Tibet	150054	7.1
+Action,Adventure,Comedy	Three Kings	Three Kings	176355	7.1
+Action,Horror,Sci-Fi	Blade	Blade	285800	7.1
+Action,Adventure,Fantasy	The Mummy	The Mummy	445466	7.1
+Adventure,Animation,Comedy	Chicken Run	Chicken Run	200147	7.1
+Action,Crime,Drama	Payback	Payback	141760	7.1
+Comedy,Drama	Wag the Dog	Wag the Dog	86501	7.1
+Horror,Mystery,Sci-Fi	Cube	Cube	239543	7.1
+Comedy,Romance	There's Something About Mary	There's Something About Mary	319963	7.1
+Comedy,Drama,History	Shakespeare in Love	Shakespeare in Love	229761	7.1
+Crime,Mystery,Thriller	Phone Booth	Phone Booth	277070	7.1
+Drama,Horror,Mystery	Audition	Ôdishon	85184	7.1
+Crime,Drama,Thriller	John Q	John Q	139208	7.1
+Comedy,Drama,Romance	About a Boy	About a Boy	187998	7.1
+Action,Drama,History	We Were Soldiers	We Were Soldiers	146991	7.1
+Drama,Romance	Monster's Ball	Monster's Ball	91862	7.1
+Horror,Mystery	The Ring	The Ring	361703	7.1
+Comedy,Crime,Drama	Bad Santa	Bad Santa	149072	7.1
+Drama,Romance	The Dreamers	The Dreamers	126592	7.1
+Crime,Drama,Thriller	Runaway Jury	Runaway Jury	101377	7.1
+Adventure,Comedy,Family	Elf	Elf	287631	7.1
+Action,Thriller	Live Free or Die Hard	Live Free or Die Hard	413261	7.1
+Action,Mystery,Sci-Fi	I, Robot	I, Robot	556736	7.1
+Adventure,Animation,Comedy	The SpongeBob SquarePants Movie	The SpongeBob SquarePants Movie	96899	7.1
+Biography,Drama,Sport	Lords of Dogtown	Lords of Dogtown	56750	7.1
+Comedy	Anchorman: The Legend of Ron Burgundy	Anchorman: The Legend of Ron Burgundy	367737	7.1
+Biography,Drama,Romance	Kinsey	Kinsey	50240	7.1
+Crime,Drama,Thriller	Elephant	Elephant	94608	7.1
+Drama,Fantasy,Mystery	The Jacket	The Jacket	116792	7.1
+Comedy	Mean Girls	Mean Girls	401628	7.1
+Comedy,Romance	The 40-Year-Old Virgin	The 40 Year Old Virgin	451311	7.1
+Action,Adventure,Drama	Flags of Our Fathers	Flags of Our Fathers	126481	7.1
+Biography,Crime,Drama	Gridiron Gang	Gridiron Gang	78873	7.1
+Action,Drama,Sci-Fi	Real Steel	Real Steel	342408	7.1
+Action,Adventure,Fantasy	Pirates of the Caribbean: At World's End	Pirates of the Caribbean: At World's End	669575	7.1
+Comedy,Drama,Fantasy	The Time Traveler's Wife	The Time Traveler's Wife	154506	7.1
+Action,Crime,Sci-Fi	Deja Vu	Deja Vu	318684	7.1
+Comedy,Drama,Romance	Cashback	Cashback	89179	7.1
+Adventure,Animation,Comedy	Enchanted	Enchanted	211140	7.1
+Drama	Half Nelson	Half Nelson	89327	7.1
+Crime,Drama,Mystery	State of Play	State of Play	155586	7.1
+Action,Drama,Sport	Rocky Balboa	Rocky Balboa	225512	7.1
+Comedy,Drama,Romance	Vicky Cristina Barcelona	Vicky Cristina Barcelona	262092	7.1
+Drama,Thriller,War	Brothers	Brothers	136954	7.1
+Action,Adventure,Sci-Fi	Man of Steel	Man of Steel	789892	7.1
+Adventure,Drama	Everybody's Fine	Everybody's Fine	62881	7.1
+Adventure,Animation,Comedy	The Princess and the Frog	The Princess and the Frog	155733	7.1
+Comedy,Drama,Romance	Forgetting Sarah Marshall	Forgetting Sarah Marshall	294033	7.1
+Comedy,Drama,Romance	It's Kind of a Funny Story	It's Kind of a Funny Story	145865	7.1
+Biography,Crime,Drama	The Danish Girl	The Danish Girl	193124	7.1
+Action,Drama,Thriller	Shooter	Shooter	344588	7.1
+Comedy,Drama,Romance	Definitely, Maybe	Definitely, Maybe	169872	7.1
+Horror,Sci-Fi,Thriller	The Mist	The Mist	324258	7.1
+Action,Comedy,War	Tropic Thunder	Tropic Thunder	430956	7.1
+Drama,History,Thriller	Valkyrie	Valkyrie	251666	7.1
+Action,Drama,History	Defiance	Defiance	152346	7.1
+Drama,Horror,Mystery	The Invisible Man	The Invisible Man	239522	7.1
+Action,Comedy,Horror	Planet Terror	Planet Terror	217543	7.1
+Action,Crime,Thriller	Wrath of Man	Wrath of Man	192320	7.1
+Crime,Drama	The Unforgivable	The Unforgivable	114210	7.1
+Drama,Thriller	The Ides of March	The Ides of March	226610	7.1
+Comedy,Crime,Drama	Glass Onion	Glass Onion	399175	7.1
+Comedy,Romance	Whatever Works	Whatever Works	75658	7.1
+Action,Adventure,Drama	Prey	Prey	209086	7.1
+Adventure,Biography,Drama	Agora	Agora	71569	7.1
+Adventure,Comedy,Family	The Muppets	The Muppets	94890	7.1
+Adventure,Animation,Comedy	Brave	Brave	425644	7.1
+Action,Thriller	Extraction II	Extraction 2	82371	7.1
+Drama,Fantasy,Horror	Let Me In	Let Me In	124675	7.1
+Biography,Drama,Thriller	The Devil's Double	The Devil's Double	63101	7.1
+Action,Adventure,Sci-Fi	Iron Man 3	Iron Man Three	872691	7.1
+Drama,Romance,Sci-Fi	Never Let Me Go	Never Let Me Go	149478	7.1
+Action,Crime,Sci-Fi	Dredd	Dredd	283915	7.1
+Comedy,Drama,Family	We Bought a Zoo	We Bought a Zoo	147664	7.1
+Drama,Mystery	Winter's Bone	Winter's Bone	146241	7.1
+Drama,Romance	Remember Me	Remember Me	151647	7.1
+Adventure,Animation,Comedy	Arthur Christmas	Arthur Christmas	63328	7.1
+Comedy	Booksmart	Booksmart	125277	7.1
+Crime,Documentary	The Tinder Swindler	The Tinder Swindler	69425	7.1
+Drama,Sci-Fi	Melancholia	Melancholia	188863	7.1
+Drama,History	The Master	The Master	180353	7.1
+Comedy,Drama,Sport	Win Win	Win Win	54647	7.1
+Action,Adventure,Biography	Kon-Tiki	Kon-Tiki	50619	7.1
+Drama,Thriller	Margin Call	Margin Call	138448	7.1
+Comedy,Romance	Love, Rosie	Love, Rosie	148139	7.1
+Comedy,Drama	Carnage	Carnage	129926	7.1
+Action,Drama,Sci-Fi	Snowpiercer	Snowpiercer	373452	7.1
+Drama,Romance	The Spectacular Now	The Spectacular Now	157923	7.1
+Action,Drama,History	Deepwater Horizon	Deepwater Horizon	174917	7.1
+Action,Comedy,Crime	God Bless America	God Bless America	71164	7.1
+Comedy,Crime	Seven Psychopaths	Seven Psychopaths	266905	7.1
+Comedy,Music,Romance	Pitch Perfect	Pitch Perfect	318865	7.1
+Biography,Comedy,Crime	War Dogs	War Dogs	234582	7.1
+Crime,Drama,Mystery	Side Effects	Side Effects	193903	7.1
+Adventure,Comedy,Drama	The Kings of Summer	The Kings of Summer	83121	7.1
+Action,Adventure,Animation	Kung Fu Panda 3	Kung Fu Panda 3	171690	7.1
+Adventure,Biography,Drama	Wild	Wild	133467	7.1
+Crime,Drama,Thriller	Blue Ruin	Blue Ruin	76345	7.1
+Comedy,Drama	The Intern	The Intern	262237	7.1
+Drama,Horror,Western	Bone Tomahawk	Bone Tomahawk	108319	7.1
+Drama	Locke	Locke	154922	7.1
+Action,Adventure,Biography	Everest	Everest	224923	7.1
+Adventure,Family,Fantasy	Beauty and the Beast	Beauty and the Beast	321170	7.1
+Action,Crime,Thriller	Furious 7	Fast & Furious 7	403279	7.1
+Drama,Romance	Far from the Madding Crowd	Far from the Madding Crowd	51366	7.1
+Biography,Drama,Sport	Concussion	Concussion	98275	7.1
+Drama,Romance,Sci-Fi	The Lobster	The Lobster	271711	7.1
+Animation,Comedy,Family	Sing	Sing	179782	7.1
+Action,Comedy,Crime	American Made	American Made	194744	7.1
+Action,Drama,Romance	Allied	Allied	163245	7.1
+Biography,Drama,History	The Dig	The Dig	78760	7.1
+Crime,Drama,Thriller	Elle	Elle	69232	7.1
+Adventure,Drama	Leave No Trace	Leave No Trace	62616	7.1
+Crime,Horror,Thriller	Don't Breathe	Don't Breathe	287358	7.1
+Adventure,Comedy,Fantasy	Ghostbusters: Afterlife	Ghostbusters: Afterlife	193792	7.1
+Biography,Comedy,Crime	Can You Ever Forgive Me?	Can You Ever Forgive Me?	54412	7.1
+Comedy,Drama	The Square	The Square	72842	7.1
+Action,Crime,Drama	Brawl in Cell Block 99	Brawl in Cell Block 99	71148	7.1
+Drama,Mystery,Thriller	First Reformed	First Reformed	59832	7.1
+Action,Adventure,Comedy	Free Guy	Free Guy	394437	7.1
+Action,Drama,Sport	Creed II	Creed II	146858	7.1
+Biography,Comedy,Drama	Fighting with My Family	Fighting with My Family	84814	7.1
+Crime,Drama	The White Tiger	The White Tiger	63129	7.1
+Crime,Drama,Mystery	Bad Times at the El Royale	Bad Times at the El Royale	156926	7.1
+Adventure,Animation,Comedy	The Super Mario Bros. Movie	The Super Mario Bros. Movie	155774	7.1
+Drama,Romance	If Beale Street Could Talk	If Beale Street Could Talk	50941	7.1
+Crime,Drama,Thriller	The Devil All the Time	The Devil All the Time	143577	7.1
+Action,Drama,History	Marighella	Marighella	55629	7.1
+Drama,Horror,Mystery	Midsommar	Midsommar	357280	7.1
+Comedy,Drama,Romance	The French Dispatch	The French Dispatch	136647	7.1
+Action,Adventure,Animation	DC League of Super-Pets	DC League of Super-Pets	70355	7.1
+Drama,Fantasy,Mystery	Black Mirror: Bandersnatch	Black Mirror: Bandersnatch	131948	7.1
+Comedy,Drama	The King of Staten Island	The King of Staten Island	73059	7.1
+Comedy,Crime,Romance	The Pink Panther	The Pink Panther	54373	7.0
+Crime,Mystery,Sci-Fi	Soylent Green	Soylent Green	67840	7.0
+Action,Adventure,Comedy	Smokey and the Bandit	Smokey and the Bandit	54406	7.0
+Action,Adventure,Thriller	The Spy Who Loved Me	The Spy Who Loved Me	112597	7.0
+Drama,Romance	An Officer and a Gentleman	An Officer and a Gentleman	59607	7.0
+Crime,Drama	The Outsiders	The Outsiders	92053	7.0
+Comedy,Romance	Sixteen Candles	Sixteen Candles	121238	7.0
+Fantasy,Horror	Fright Night	Fright Night	74774	7.0
+Adventure,Comedy,Family	Pee-wee's Big Adventure	Pee-wee's Big Adventure	55133	7.0
+Drama,Sport	The Color of Money	The Color of Money	88982	7.0
+Action,Adventure,Fantasy	Highlander	Highlander	141449	7.0
+Drama,Music,Romance	Dirty Dancing	Dirty Dancing	243914	7.0
+Action,Comedy,Crime	The Last Boy Scout	The Last Boy Scout	107886	7.0
+Drama	My Own Private Idaho	My Own Private Idaho	59331	7.0
+Comedy	What About Bob?	What About Bob?	72386	7.0
+Drama,Mystery,Thriller	Basic Instinct	Basic Instinct	209536	7.0
+Comedy,Music	Wayne's World	Wayne's World	164247	7.0
+Adventure,Comedy,Family	Cool Runnings	Cool Runnings	108992	7.0
+Comedy,Drama,Romance	Grumpy Old Men	Grumpy Old Men	51694	7.0
+Action,Adventure,Comedy	Maverick	Maverick	115492	7.0
+Action,Adventure,Sci-Fi	Stargate	Stargate	197865	7.0
+Adventure,Comedy,Family	Jumanji	Jumanji	360128	7.0
+Drama	Kids	Kids	81719	7.0
+Comedy,Romance	Mallrats	Mallrats	126040	7.0
+Comedy,Sport	Happy Gilmore	Happy Gilmore	236714	7.0
+Animation,Drama,Family	The Hunchback of Notre Dame	The Hunchback of Notre Dame	164845	7.0
+Action,Adventure,Sci-Fi	Independence Day	Independence Day	588840	7.0
+Comedy,Family,Fantasy	Matilda	Matilda	164968	7.0
+Comedy,Drama,Music	That Thing You Do!	That Thing You Do!	71489	7.0
+Adventure,Comedy	Austin Powers: International Man of Mystery	Austin Powers: International Man of Mystery	249011	7.0
+Crime,Drama,Mystery	Breakdown	Breakdown	58290	7.0
+Crime,Drama,Thriller	Cop Land	Cop Land	100684	7.0
+Action,Crime,Drama	Fallen	Fallen	87573	7.0
+Comedy,Crime,Drama	Out of Sight	Out of Sight	96167	7.0
+Action,Comedy,Crime	Rush Hour	Rush Hour	280760	7.0
+Drama,Mystery,Sci-Fi	The X Files	The X Files	107935	7.0
+Action,Horror,Sci-Fi	Pitch Black	Pitch Black	247733	7.0
+Mystery,Sci-Fi,Thriller	The Thirteenth Floor	The Thirteenth Floor	74895	7.0
+Action,Comedy,Crime	Taxi	Taxi	86530	7.0
+Comedy	American Pie	American Pie	419261	7.0
+Crime,Drama,Thriller	Boiler Room	Boiler Room	55078	7.0
+Comedy,Romance	Meet the Parents	Meet the Parents	344521	7.0
+Comedy,Crime,Mystery	Super Troopers	Super Troopers	109257	7.0
+Action,Crime,Thriller	Spy Game	Spy Game	161475	7.0
+Biography,Comedy,Crime	Confessions of a Dangerous Mind	Confessions of a Dangerous Mind	90334	7.0
+Comedy	Old School	Old School	237872	7.0
+Adventure,Comedy,Drama	Holes	Holes	94838	7.0
+Action,Crime,Thriller	The Italian Job	The Italian Job	378555	7.0
+Action,Fantasy,Thriller	Underworld	Underworld	277893	7.0
+Action,Crime,Thriller	Unleashed	Unleashed	105986	7.0
+Action,Fantasy,Horror	Constantine	Constantine	359884	7.0
+Adventure,Comedy	Harold & Kumar Go to White Castle	Harold & Kumar Go to White Castle	201446	7.0
+Comedy	Napoleon Dynamite	Napoleon Dynamite	228486	7.0
+Comedy,Drama,Music	Coffee and Cigarettes	Coffee and Cigarettes	65692	7.0
+Comedy,Romance	Wedding Crashers	Wedding Crashers	365876	7.0
+Biography,Crime,Drama	Breach	Breach	60860	7.0
+Animation,Comedy,Crime	A Scanner Darkly	A Scanner Darkly	114692	7.0
+Action,Adventure,Fantasy	Hellboy II: The Golden Army	Hellboy II: The Golden Army	279213	7.0
+Biography,Drama,Romance	Becoming Jane	Becoming Jane	63562	7.0
+Action,Adventure,Sci-Fi	Transformers	Transformers	656970	7.0
+Biography,Drama,War	Jarhead	Jarhead	197894	7.0
+Drama,Thriller	Hard Candy	Hard Candy	164421	7.0
+Crime,Drama,Thriller	The Lookout	The Lookout	59815	7.0
+Action,Drama,Thriller	The Kingdom	The Kingdom	129512	7.0
+Comedy,Drama,Romance	P.S. I Love You	P.S. I Love You	214475	7.0
+Biography,Drama,Sport	Invincible	Invincible	73409	7.0
+Action,Adventure,Comedy	Shazam!	Shazam!	367375	7.0
+Action,Adventure,Thriller	Rambo	Rambo	238415	7.0
+Action,Adventure,Animation	9	9	143590	7.0
+Biography,Comedy,Drama	Charlie Wilson's War	Charlie Wilson's War	122167	7.0
+Action,Comedy,Documentary	Jackass Number Two	Jackass Number Two	78256	7.0
+Action,Drama,Thriller	Body of Lies	Body of Lies	233561	7.0
+Drama,Sport	We Are Marshall	We Are Marshall	63418	7.0
+Action,Mystery,Thriller	Jack Reacher	Jack Reacher	351280	7.0
+Biography,Comedy,Drama	The Dirt	The Dirt	52724	7.0
+Action,Fantasy	Thor	Thor	872825	7.0
+Action,Adventure,Horror	World War Z	World War Z	690284	7.0
+Drama,Family	Marley & Me	Marley & Me	162884	7.0
+Adventure,Animation,Comedy	Hotel Transylvania	Hotel Transylvania	267331	7.0
+Comedy,Drama,Romance	The Kids Are All Right	The Kids Are All Right	132659	7.0
+Comedy,Crime,Drama	Burn After Reading	Burn After Reading	342352	7.0
+Crime,Drama,Thriller	Unthinkable	Unthinkable	90201	7.0
+Drama	Rabbit Hole	Rabbit Hole	50360	7.0
+Comedy,Drama	A Serious Man	A Serious Man	146389	7.0
+Action,Thriller	Death Proof	Death Proof	302252	7.0
+Horror	Martyrs	Martyrs	100444	7.0
+Action,Adventure,Horror	Cloverfield	Cloverfield	410048	7.0
+Biography,Drama,History	Foxcatcher	Foxcatcher	145689	7.0
+Action,Adventure,Drama	The Northman	The Northman	230539	7.0
+Drama	Pieces of a Woman	Pieces of a Woman	53082	7.0
+Action,Comedy,Documentary	Jackass 3D	Jackass 3D	67255	7.0
+Biography,Crime,Drama	Big Eyes	Big Eyes	96397	7.0
+Action,Comedy,Crime	The Unbearable Weight of Massive Talent	The Unbearable Weight of Massive Talent	127676	7.0
+Biography,Drama,Romance	Julie & Julia	Julie & Julia	124778	7.0
+Horror,Mystery,Thriller	Orphan	Orphan	240823	7.0
+Action,Biography,Crime	Public Enemies	Public Enemies	310606	7.0
+Comedy,Romance	I Love You, Man	I Love You, Man	212412	7.0
+Comedy,Drama	Demolition	Demolition	104832	7.0
+Action,Crime,Drama	Bronson	Bronson	136444	7.0
+Adventure,Comedy,Drama	Away We Go	Away We Go	54454	7.0
+Action,Comedy,Crime	RED	RED	316306	7.0
+Horror,Mystery,Thriller	The Cabin in the Woods	The Cabin in the Woods	432738	7.0
+Action,Crime,Drama	Den of Thieves	Den of Thieves	118285	7.0
+Comedy,Drama,Romance	Easy A	Easy A	403249	7.0
+Action,Crime,Thriller	Don 2	Don 2	55424	7.0
+Drama,Mystery,Thriller	Tinker Tailor Soldier Spy	Tinker Tailor Soldier Spy	207123	7.0
+Biography,Crime,Drama	The Infiltrator	The Infiltrator	76332	7.0
+Drama,Romance,Sci-Fi	Passengers	Passengers	423598	7.0
+Romance,Sci-Fi,Thriller	The Adjustment Bureau	The Adjustment Bureau	263122	7.0
+Drama,Romance,Sci-Fi	Perfect Sense	Perfect Sense	62029	7.0
+Adventure,Mystery,Sci-Fi	Prometheus	Prometheus	623899	7.0
+Action,Comedy,Crime	Filth	Filth	112675	7.0
+Drama,Mystery,Thriller	Buried	Buried	165022	7.0
+Action,Adventure,Sci-Fi	Oblivion	Oblivion	538941	7.0
+Drama,Romance	One Day	One Day	158622	7.0
+Horror,Mystery,Thriller	Barbarian	Barbarian	152216	7.0
+Biography,Drama,Family	Soul Surfer	Soul Surfer	51323	7.0
+Crime,Drama,Thriller	The Drop	The Drop	156689	7.0
+Action,Thriller	The Foreigner	The Foreigner	118849	7.0
+Adventure,Animation,Comedy	ParaNorman	ParaNorman	106257	7.0
+Action,Mystery,Sci-Fi	Super 8	Super 8	361595	7.0
+Action,Drama,Sci-Fi	Chronicle	Chronicle	257355	7.0
+Comedy,Crime	We're the Millers	We're the Millers	468119	7.0
+Drama,Mystery,Romance	The Words	The Words	79939	7.0
+Drama,Horror,Thriller	Pearl	Pearl	63180	7.0
+Action,Adventure,Crime	Fast & Furious 6	Furious 6	406310	7.0
+Comedy,Drama	The Upside	The Upside	59554	7.0
+Comedy,Crime,Drama	Robot & Frank	Robot & Frank	65045	7.0
+Action,Comedy,Crime	22 Jump Street	22 Jump Street	390883	7.0
+Comedy,Drama,Romance	Enough Said	Enough Said	64703	7.0
+Action,Adventure,Sci-Fi	Star Trek Beyond	Star Trek Beyond	252524	7.0
+Comedy,Drama,Romance	The Longest Ride	The Longest Ride	85956	7.0
+Comedy,Drama,Western	The Dressmaker	The Dressmaker	63295	7.0
+Action,Crime,Drama	A Most Violent Year	A Most Violent Year	75104	7.0
+Adventure,Comedy,Family	The Christmas Chronicles	The Christmas Chronicles	78018	7.0
+Drama,History,War	The Water Diviner	The Water Diviner	76829	7.0
+Action,Comedy	Spy	Spy	251356	7.0
+Comedy,Drama,Romance	To All the Boys I've Loved Before	To All the Boys I've Loved Before	116098	7.0
+Biography,Drama,History	Colonia	Colonia	55694	7.0
+Crime,Drama,Horror	Green Room	Green Room	132095	7.0
+Drama,Mystery,Thriller	The Gift	The Gift	164812	7.0
+Drama,Fantasy,Horror	The Witch	The VVitch: A New-England Folktale	278914	7.0
+Action,Crime,Drama	Sicario: Day of the Soldado	Sicario: Day of the Soldado	157235	7.0
+Action,Adventure,Comedy	Ant-Man and the Wasp	Ant-Man and the Wasp	428263	7.0
+Action,Comedy,Crime	Logan Lucky	Logan Lucky	155886	7.0
+Drama,Horror,Mystery	The Killing of a Sacred Deer	The Killing of a Sacred Deer	165619	7.0
+Adventure,Animation,Comedy	Ralph Breaks the Internet	Ralph Breaks the Internet	171541	7.0
+Action,Drama,History	Greyhound	Greyhound	104383	7.0
+Crime,Drama,Thriller	Nightmare Alley	Nightmare Alley	154157	7.0
+Crime,Drama,Thriller	The Mule	The Mule	145064	7.0
+Adventure,Animation,Comedy	Turning Red	Turning Red	136414	7.0
+Adventure,Animation,Comedy	The Sea Beast	The Sea Beast	52978	7.0
+Drama,Horror,Mystery	Last Night in Soho	Last Night in Soho	153081	7.0
+Action,Adventure,Thriller	Thunderball	Thunderball	122918	6.9
+Action,Drama,Sci-Fi	Westworld	Westworld	60978	6.9
+Adventure,Animation,Comedy	The Rescuers	The Rescuers	67094	6.9
+Adventure,Comedy,Fantasy	Time Bandits	Time Bandits	66138	6.9
+Action,Adventure,Fantasy	Conan the Barbarian	Conan the Barbarian	156492	6.9
+Action,Comedy,Crime	48 Hrs.	48 Hrs.	81815	6.9
+Action,Adventure,Comedy	Romancing the Stone	Romancing the Stone	99134	6.9
+Comedy,Crime,Mystery	Fletch	Fletch	55863	6.9
+Drama,Sport	Rocky IV	Rocky IV	217690	6.9
+Adventure,Animation,Comedy	An American Tail	An American Tail	55976	6.9
+Adventure,Comedy,Family	Flight of the Navigator	Flight of the Navigator	50078	6.9
+Action,Drama	Top Gun	Top Gun	477248	6.9
+Drama,Thriller	Fatal Attraction	Fatal Attraction	92392	6.9
+Horror,Thriller	Hellraiser	Hellraiser	133257	6.9
+Comedy,Romance	Overboard	Overboard	64060	6.9
+Crime,Drama,Mystery	Frantic	Frantic	55929	6.9
+Comedy,Drama,Fantasy	Scrooged	Scrooged	108578	6.9
+Adventure,Comedy,Music	Bill & Ted's Excellent Adventure	Bill & Ted's Excellent Adventure	136746	6.9
+Comedy,Fantasy	The Addams Family	The Addams Family	171643	6.9
+Comedy,Drama,Family	My Girl	My Girl	85126	6.9
+Comedy,Crime	The Naked Gun 2½: The Smell of Fear	The Naked Gun 2½: The Smell of Fear	117730	6.9
+Drama	Naked Lunch	Naked Lunch	54381	6.9
+Action,Adventure,Drama	Robin Hood: Prince of Thieves	Robin Hood: Prince of Thieves	201263	6.9
+Comedy,Romance	Dave	Dave	55490	6.9
+Comedy,Family,Fantasy	Hocus Pocus	Hocus Pocus	146158	6.9
+Comedy	Ace Ventura: Pet Detective	Ace Ventura: Pet Detective	313420	6.9
+Action,Crime,Drama	Clear and Present Danger	Clear and Present Danger	104045	6.9
+Action,Comedy,Crime	The Mask	The Mask	401198	6.9
+Comedy,Drama,Family	Babe	Babe	130045	6.9
+Comedy,Romance	Clueless	Clueless	231137	6.9
+Comedy,Crime,Thriller	Get Shorty	Get Shorty	86421	6.9
+Adventure,Animation,Comedy	A Goofy Movie	A Goofy Movie	59080	6.9
+Comedy,Crime,Drama	Bottle Rocket	Bottle Rocket	80586	6.9
+Comedy,Sport	Kingpin	Kingpin	88086	6.9
+Action,Crime,Thriller	Con Air	Con Air	309219	6.9
+Action,Adventure,Drama	The Edge	The Edge	76466	6.9
+Comedy,Fantasy	Liar Liar	Liar Liar	320810	6.9
+Comedy,Music,Romance	The Wedding Singer	The Wedding Singer	156653	6.9
+Drama,Fantasy,Romance	What Dreams May Come	What Dreams May Come	111703	6.9
+Adventure,Animation,Comedy	The Road to El Dorado	The Road to El Dorado	102154	6.9
+Drama,Sport	Any Given Sunday	Any Given Sunday	123235	6.9
+Horror,Mystery,Thriller	Stir of Echoes	Stir of Echoes	84401	6.9
+Drama,Romance,Sci-Fi	Bicentennial Man	Bicentennial Man	121303	6.9
+Action,Adventure,Romance	A Knight's Tale	A Knight's Tale	194334	6.9
+Action,Adventure,Animation	Atlantis: The Lost Empire	Atlantis: The Lost Empire	127144	6.9
+Fantasy,Mystery,Romance	Vanilla Sky	Vanilla Sky	277136	6.9
+Drama,Romance	The Majestic	The Majestic	56190	6.9
+Action,Drama,Thriller	The Last Castle	The Last Castle	83171	6.9
+Comedy,Drama,Romance	Secretary	Secretary	94894	6.9
+Comedy,Fantasy,Horror	Bubba Ho-Tep	Bubba Ho-Tep	50248	6.9
+Action,Adventure,Thriller	Mission: Impossible III	Mission: Impossible III	369013	6.9
+Drama,Mystery,Romance	Wicker Park	Wicker Park	57582	6.9
+Biography,Drama,Romance	Girl with a Pearl Earring	Girl with a Pearl Earring	80503	6.9
+Adventure,Animation,Comedy	Madagascar	Madagascar	419438	6.9
+Adventure,Family,Fantasy	The Chronicles of Narnia: The Lion, the Witch and the Wardrobe	The Chronicles of Narnia: The Lion, the Witch and the Wardrobe	411712	6.9
+Drama,Thriller	Syriana	Syriana	132564	6.9
+Action,Adventure,Mystery	National Treasure	National Treasure	344199	6.9
+Action,Adventure,Sci-Fi	Jurassic World	Jurassic World	659480	6.9
+Comedy,Drama,Romance	A Good Year	A Good Year	98291	6.9
+Action,Adventure,Drama	The Guardian	The Guardian	95662	6.9
+Comedy,Drama,Romance	Charlie Bartlett	Charlie Bartlett	65990	6.9
+Biography,Crime,Drama	Alpha Dog	Alpha Dog	105766	6.9
+Comedy	Grandma's Boy	Grandma's Boy	86107	6.9
+Comedy,Romance	The Holiday	The Holiday	301816	6.9
+Action,Adventure,Sci-Fi	Captain America: The First Avenger	Captain America: The First Avenger	868326	6.9
+Comedy,Drama	The Devil Wears Prada	The Devil Wears Prada	437434	6.9
+Drama,Music	Black Snake Moan	Black Snake Moan	65425	6.9
+Action,Adventure,Horror	28 Weeks Later	28 Weeks Later	284461	6.9
+Adventure,Drama,Mystery	Extremely Loud & Incredibly Close	Extremely Loud & Incredibly Close	103751	6.9
+Comedy,Romance	Knocked Up	Knocked Up	377095	6.9
+Action,Crime,Thriller	Crank	Crank	256423	6.9
+Crime,Thriller	Ocean's Thirteen	Ocean's Thirteen	357187	6.9
+Comedy	Step Brothers	Step Brothers	306542	6.9
+Adventure,Animation,Comedy	Cloudy with a Chance of Meatballs	Cloudy with a Chance of Meatballs	245473	6.9
+Biography,Drama,History	The Duchess	The Duchess	85464	6.9
+Action,Comedy,Crime	Pineapple Express	Pineapple Express	348786	6.9
+Action,Adventure,Sci-Fi	The Amazing Spider-Man	The Amazing Spider-Man	676324	6.9
+Action,Crime,Drama	Traitor	Traitor	58525	6.9
+Drama,Music	Ma Rainey's Black Bottom	Ma Rainey's Black Bottom	55995	6.9
+Drama,Romance	Water for Elephants	Water for Elephants	118581	6.9
+Adventure,Animation,Comedy	Ice Age: Dawn of the Dinosaurs	Ice Age: Dawn of the Dinosaurs	254513	6.9
+Adventure,Comedy,Sci-Fi	Paul	Paul	259987	6.9
+Drama,Mystery	Pig	Pig	82118	6.9
+Action,Biography,Drama	Free State of Jones	Free State of Jones	59901	6.9
+Animation,Comedy,Drama	Frankenweenie	Frankenweenie	112295	6.9
+Drama,Sport	Whip It	Whip It	69066	6.9
+Fantasy,Mystery,Sci-Fi	Triangle	Triangle	122543	6.9
+Action,Comedy,Sci-Fi	The World's End	The World's End	290219	6.9
+Action,Adventure,Animation	Legend of the Guardians: The Owls of Ga'Hoole	Legend of the Guardians: The Owls of Ga'Hoole	85440	6.9
+Action,Sci-Fi	Iron Man 2	Iron Man 2	840494	6.9
+Biography,Crime,Drama	Black Mass	Black Mass	186710	6.9
+Action,Adventure,Biography	In the Heart of the Sea	In the Heart of the Sea	143870	6.9
+Comedy,Drama	Hesher	Hesher	53351	6.9
+Adventure,Animation,Comedy	Rio	Rio	238180	6.9
+Comedy,Crime	Horrible Bosses	Horrible Bosses	459376	6.9
+Drama,Romance,Sci-Fi	Another Earth	Another Earth	97908	6.9
+Action,Drama,Thriller	Get the Gringo	Get the Gringo	109998	6.9
+Adventure,Family,Fantasy	Maleficent	Maleficent	387761	6.9
+Comedy,Drama,Music	Frank	Frank	80885	6.9
+Comedy	Ted	Ted	632873	6.9
+Biography,Drama	My Week with Marilyn	My Week with Marilyn	88483	6.9
+Adventure,Drama,Family	Cinderella	Cinderella	183719	6.9
+Action,Adventure,Sci-Fi	Pacific Rim	Pacific Rim	515013	6.9
+Biography,Crime,Drama	The Highwaymen	The Highwaymen	96749	6.9
+Adventure,Comedy,Drama	Safety Not Guaranteed	Safety Not Guaranteed	128040	6.9
+Crime,Drama,Mystery	Trance	Trance	116108	6.9
+Drama	Nymphomaniac: Vol. I	Nymphomaniac: Vol. I	127963	6.9
+Action,Comedy,Crime	The Hitman's Bodyguard	The Hitman's Bodyguard	239138	6.9
+Action,Adventure,Drama	All Is Lost	All Is Lost	82188	6.9
+Action,Mystery,Thriller	Non-Stop	Non-Stop	270262	6.9
+Action,Adventure,Comedy	Love and Monsters	Love and Monsters	135213	6.9
+Action,Adventure,Comedy	Jumanji: Welcome to the Jungle	Jumanji: Welcome to the Jungle	399395	6.9
+Drama,Mystery,Thriller	Enemy	Enemy	203421	6.9
+Action,Adventure,Drama	The Magnificent Seven	The Magnificent Seven	220182	6.9
+Action,Adventure,Fantasy	Star Wars: Episode VIII - The Last Jedi	Star Wars: Episode VIII - The Last Jedi	650243	6.9
+Action,Adventure,Comedy	Game Night	Game Night	245769	6.9
+Comedy	Everybody Wants Some!!	Everybody Wants Some!!	56947	6.9
+Comedy,Drama,Romance	Crazy Rich Asians	Crazy Rich Asians	181357	6.9
+Action,Adventure,Sci-Fi	X-Men: Apocalypse	X-Men: Apocalypse	447533	6.9
+Adventure,Drama,Sci-Fi	Finch	Finch	89659	6.9
+Biography,Crime,Drama	Legend	Legend	191899	6.9
+Action,Adventure,Sci-Fi	Solo: A Star Wars Story	Solo: A Star Wars Story	362801	6.9
+Comedy,Drama,Fantasy	Swiss Army Man	Swiss Army Man	128875	6.9
+Comedy,Drama	The Meyerowitz Stories	The Meyerowitz Stories (New and Selected)	52142	6.9
+Comedy,Drama,Mystery	Tully	Tully	61370	6.9
+Comedy,Drama,Fantasy	Sorry to Bother You	Sorry to Bother You	84127	6.9
+Comedy,Crime,Drama	I Don't Feel at Home in This World Anymore	I don't feel at home in this world anymore.	61467	6.9
+Adventure,Comedy,Family	Aladdin	Aladdin	278039	6.9
+Action,Crime,Drama	Dragged Across Concrete	Dragged Across Concrete	51351	6.9
+Action,Biography,Drama	Outlaw King	Outlaw King	76567	6.9
+Horror,Thriller	The Black Phone	The Black Phone	169786	6.9
+Action,Drama,History	The Woman King	The Woman King	63994	6.9
+Drama,Horror,Music	Climax	Climax	74026	6.9
+Action,Adventure,Fantasy	Doctor Strange in the Multiverse of Madness	Doctor Strange in the Multiverse of Madness	443172	6.9
+Action,Adventure,Thriller	You Only Live Twice	You Only Live Twice	113667	6.8
+Action,Adventure,Sci-Fi	Logan's Run	Logan's Run	59076	6.8
+Drama,Music	Saturday Night Fever	Saturday Night Fever	83882	6.8
+Action,Adventure,Sci-Fi	Mad Max	Mad Max	214164	6.8
+Horror,Thriller	The Fog	The Fog	78488	6.8
+Action,Adventure,Sci-Fi	Superman II	Superman II	111412	6.8
+Comedy,History,Musical	History of the World: Part I	History of the World: Part I	53670	6.8
+Comedy,War	Stripes	Stripes	77223	6.8
+Comedy,Fantasy,Horror	Creepshow	Creepshow	50668	6.8
+Drama,Sport	Rocky III	Rocky III	202843	6.8
+Comedy,Crime,Drama	Risky Business	Risky Business	95873	6.8
+Action,Biography,Drama	Bloodsport	Bloodsport	89542	6.8
+Action,Adventure,Comedy	Innerspace	Innerspace	62869	6.8
+Comedy,Drama,Romance	Working Girl	Working Girl	60008	6.8
+Action,Drama,Western	Young Guns	Young Guns	65009	6.8
+Comedy,Mystery,Thriller	The 'Burbs	The 'Burbs	79857	6.8
+Comedy,Crime	See No Evil, Hear No Evil	See No Evil, Hear No Evil	56460	6.8
+Comedy,Romance	The War of the Roses	The War of the Roses	55535	6.8
+Adventure,Comedy,Family	The Witches	The Witches	52543	6.8
+Comedy,Western	City Slickers	City Slickers	60602	6.8
+Adventure,Comedy,Family	Hook	Hook	264428	6.8
+Adventure,Comedy,Crime	Home Alone 2: Lost in New York	Home Alone 2: Lost in New York	376474	6.8
+Action,Thriller	Patriot Games	Patriot Games	116665	6.8
+Comedy,Sport	White Men Can't Jump	White Men Can't Jump	93904	6.8
+Comedy,Fantasy	Addams Family Values	Addams Family Values	103825	6.8
+Drama,Mystery,Thriller	The Firm	The Firm	140860	6.8
+Comedy,Drama,Romance	Sleepless in Seattle	Sleepless in Seattle	183685	6.8
+Comedy,Drama,Romance	The American President	The American President	59197	6.8
+Action,Comedy,Crime	Bad Boys	Bad Boys	276038	6.8
+Comedy,Crime,Drama	To Die For	To Die For	50557	6.8
+Comedy,Drama,Romance	While You Were Sleeping	While You Were Sleeping	108363	6.8
+Adventure,Animation,Comedy	Beavis and Butt-Head Do America	Beavis and Butt-Head Do America	59185	6.8
+Adventure,Drama,Thriller	The Ghost and the Darkness	The Ghost and the Darkness	64182	6.8
+Action,Crime,Drama	The Long Kiss Goodnight	The Long Kiss Goodnight	82677	6.8
+Drama,Romance	Romeo + Juliet	Romeo + Juliet	236608	6.8
+Drama,Romance	Great Expectations	Great Expectations	55491	6.8
+Drama,Romance	Lolita	Lolita	62976	6.8
+Comedy,Drama	Stepmom	Stepmom	71798	6.8
+Action,Adventure,Comedy	The Mask of Zorro	The Mask of Zorro	191502	6.8
+Horror,Mystery,Sci-Fi	eXistenZ	eXistenZ	103825	6.8
+Comedy,Crime,Drama	Life	Life	53028	6.8
+Biography,Comedy,Drama	Patch Adams	Patch Adams	118510	6.8
+Drama,Romance	Cruel Intentions	Cruel Intentions	198170	6.8
+Crime,Romance,Thriller	The Thomas Crown Affair	The Thomas Crown Affair	96856	6.8
+Drama,Thriller	Bringing Out the Dead	Bringing Out the Dead	73012	6.8
+Action,Adventure,Fantasy	Hellboy	Hellboy	339474	6.8
+Crime,Drama,Thriller	Hannibal	Hannibal	283734	6.8
+Comedy,Drama,Fantasy	The Family Man	The Family Man	114411	6.8
+Action,Crime,Drama	The Score	The Score	131141	6.8
+Action,Crime,Thriller	The Fast and the Furious	The Fast and the Furious	403431	6.8
+Crime,Drama,Mystery	The Pledge	The Pledge	63401	6.8
+Comedy,Romance	Serendipity	Serendipity	117107	6.8
+Comedy,Drama,Romance	Bridget Jones's Diary	Bridget Jones's Diary	251998	6.8
+Crime,Drama,Thriller	Panic Room	Panic Room	287437	6.8
+Comedy	Jay and Silent Bob Strike Back	Jay and Silent Bob Strike Back	158230	6.8
+Drama,Thriller	One Hour Photo	One Hour Photo	127562	6.8
+Action,Horror,Thriller	Dog Soldiers	Dog Soldiers	63084	6.8
+Drama,Mystery,Sci-Fi	Signs	Signs	374202	6.8
+Action,Crime,Thriller	The Transporter	The Transporter	312257	6.8
+Drama,Musical,Romance	Rent	Rent	54819	6.8
+Comedy,Fantasy	Bruce Almighty	Bruce Almighty	417706	6.8
+Adventure,Family,Fantasy	Peter Pan	Peter Pan	77547	6.8
+Drama	Thirteen	Thirteen	93489	6.8
+Adventure,Animation,Comedy	Brother Bear	Brother Bear	117347	6.8
+Adventure,Comedy,Family	A Series of Unfortunate Events	A Series of Unfortunate Events	215071	6.8
+Comedy,Drama,Romance	50 First Dates	50 First Dates	367884	6.8
+Adventure,Comedy,Music	Tenacious D in the Pick of Destiny	Tenacious D in The Pick of Destiny	112290	6.8
+Biography,Drama,Music	I'm Not There	I'm Not There	60050	6.8
+Action,Drama,Romance	Tristan + Isolde	Tristan + Isolde	53558	6.8
+Crime,Drama,Mystery	Motherless Brooklyn	Motherless Brooklyn	60484	6.8
+Drama,Sci-Fi,Thriller	Primer	Primer	110434	6.8
+Adventure,Animation,Comedy	Meet the Robinsons	Meet the Robinsons	106083	6.8
+Adventure,Animation,Comedy	Bolt	Bolt	220053	6.8
+Action,Sci-Fi,Thriller	The Island	The Island	321628	6.8
+Drama,Fantasy,Romance	The Lake House	The Lake House	154027	6.8
+Biography,Drama,History	Elizabeth: The Golden Age	Elizabeth: The Golden Age	73407	6.8
+Action,Crime,Thriller	Street Kings	Street Kings	116933	6.8
+Action,Crime,Drama	Four Brothers	Four Brothers	152141	6.8
+Comedy	Role Models	Role Models	236169	6.8
+Action,Crime,Drama	Harsh Times	Harsh Times	67298	6.8
+Adventure,Animation,Comedy	Ice Age: The Meltdown	Ice Age: The Meltdown	287352	6.8
+Comedy,Drama,Romance	Before We Go	Before We Go	61085	6.8
+Fantasy,Horror,Mystery	1408	1408	282961	6.8
+Adventure,Animation,Comedy	Horton Hears a Who!	Horton Hears a Who!	145966	6.8
+Drama,Fantasy,Mystery	Inland Empire	Inland Empire	59896	6.8
+Action,Thriller	Unstoppable	Unstoppable	202596	6.8
+Crime,Drama,History	21	21	259699	6.8
+Drama,Fantasy	The Tree of Life	The Tree of Life	180792	6.8
+Comedy,Drama,Romance	Dan in Real Life	Dan in Real Life	104993	6.8
+Crime,Drama,Mystery	Disturbia	Disturbia	241749	6.8
+Action,Crime,Drama	We Own the Night	We Own the Night	90952	6.8
+Adventure,Animation,Comedy	The Boxtrolls	The Boxtrolls	59884	6.8
+Drama,Thriller	Rendition	Rendition	57131	6.8
+Comedy,Music	Walk Hard: The Dewey Cox Story	Walk Hard: The Dewey Cox Story	75490	6.8
+Comedy,Drama	Sunshine Cleaning	Sunshine Cleaning	72815	6.8
+Adventure,Animation,Comedy	Mr. Peabody & Sherman	Mr. Peabody & Sherman	74506	6.8
+Action,Drama,Thriller	Green Zone	Green Zone	140086	6.8
+Biography,Drama,Romance	Hitchcock	Hitchcock	77650	6.8
+Biography,Drama,Thriller	Fair Game	Fair Game	50218	6.8
+Action,Adventure,Drama	Hanna	Hanna	203218	6.8
+Drama,Western	The Power of the Dog	The Power of the Dog	183941	6.8
+Action,Adventure,Drama	The Book of Eli	The Book of Eli	328143	6.8
+Adventure,Comedy,Fantasy	The Imaginarium of Doctor Parnassus	The Imaginarium of Doctor Parnassus	151917	6.8
+Biography,Comedy,Drama	Mank	Mank	78811	6.8
+Adventure,Animation,Comedy	A Christmas Carol	A Christmas Carol	122767	6.8
+Comedy,Romance	Yes Man	Yes Man	372584	6.8
+Comedy,Drama,Romance	Adventureland	Adventureland	164700	6.8
+Horror,Mystery,Sci-Fi	Nope	Nope	234690	6.8
+Drama,Sport	Creed III	Creed III	73742	6.8
+Drama,Thriller	The Debt	The Debt	70876	6.8
+Crime,Horror,Mystery	Exam	Exam	120649	6.8
+Adventure,Animation,Comedy	Madagascar 3: Europe's Most Wanted	Madagascar 3: Europe's Most Wanted	189796	6.8
+Action,Comedy,Fantasy	Ghostbusters	Ghostbusters	237733	6.8
+Action,Mystery,Thriller	Unknown	Unknown	265722	6.8
+Action,Adventure,Comedy	Men in Black 3	Men in Black 3	374594	6.8
+Drama,Mystery,Thriller	Martha Marcy May Marlene	Martha Marcy May Marlene	54602	6.8
+Comedy,Drama,Romance	Salmon Fishing in the Yemen	Salmon Fishing in the Yemen	66102	6.8
+Comedy,Drama,Sport	Goon	Goon	88980	6.8
+Action,Adventure,Fantasy	Aquaman	Aquaman	494776	6.8
+Comedy,Romance	Bridesmaids	Bridesmaids	300449	6.8
+Comedy,Romance	What If	The F Word	79975	6.8
+Biography,Crime,Drama	The Iceman	The Iceman	77023	6.8
+Action,Crime,Fantasy	What Happened to Monday	What Happened to Monday	128936	6.8
+Comedy,Horror,Romance	Warm Bodies	Warm Bodies	236931	6.8
+Horror,Mystery,Thriller	Insidious	Insidious	321062	6.8
+Drama,Thriller	Contagion	Contagion	309441	6.8
+Drama,Romance	The Vow	The Vow	199475	6.8
+Biography,Comedy,Crime	Bernie	Bernie	61849	6.8
+Comedy,Drama,Romance	The First Time	The First Time	72444	6.8
+Comedy,Fantasy,Horror	Odd Thomas	Odd Thomas	55533	6.8
+Action,Mystery,Sci-Fi	The Maze Runner	The Maze Runner	486149	6.8
+Action,Crime,Drama	Chappie	Chappie	260689	6.8
+Crime,Drama,Thriller	The East	The East	51475	6.8
+Action,Adventure,Fantasy	Thor: The Dark World	Thor: The Dark World	702495	6.8
+Drama,Sport	Trouble with the Curve	Trouble with the Curve	66406	6.8
+Comedy,Romance	Long Shot	Long Shot	115681	6.8
+Drama,Sport	Draft Day	Draft Day	63921	6.8
+Horror,Mystery	The Babadook	The Babadook	235068	6.8
+Action,Adventure,Thriller	Spectre	Spectre	452336	6.8
+Adventure,Drama,Horror	Annihilation	Annihilation	341601	6.8
+Comedy,Drama,Romance	Man Up	Man Up	54990	6.8
+Drama,Mystery	Mr. Holmes	Mr. Holmes	66172	6.8
+Horror,Mystery,Thriller	It Follows	It Follows	254296	6.8
+Horror,Mystery,Thriller	The Autopsy of Jane Doe	The Autopsy of Jane Doe	127654	6.8
+Crime,Drama,Horror	The House That Jack Built	The House That Jack Built	83509	6.8
+Biography,Comedy,Drama	Florence Foster Jenkins	Florence Foster Jenkins	57926	6.8
+Action,Adventure,Sci-Fi	Captain Marvel	Captain Marvel	582981	6.8
+Crime,Drama,Thriller	Widows	Widows	101197	6.8
+Biography,Crime,Drama	The Good Nurse	The Good Nurse	71117	6.8
+Adventure,Animation,Comedy	Frozen II	Frozen II	182651	6.8
+Adventure,Animation,Comedy	Storks	Storks	65055	6.8
+Drama,Romance	Collateral Beauty	Collateral Beauty	102959	6.8
+Biography,Crime,Drama	All the Money in the World	All the Money in the World	88018	6.8
+Drama	To the Bone	To the Bone	52398	6.8
+Action,Adventure,Animation	Spies in Disguise	Spies in Disguise	53104	6.8
+Crime,Drama,Mystery	I See You	I See You	60150	6.8
+Adventure,Animation,Drama	The Lion King	The Lion King	255929	6.8
+Drama,Fantasy,Romance	A Ghost Story	A Ghost Story	75876	6.8
+Biography,Drama	Bombshell	Bombshell	120815	6.8
+Adventure,Drama	Arctic	Arctic	55761	6.8
+Horror,Mystery,Thriller	Us	Us	317571	6.8
+Action,Adventure,Drama	News of the World	News of the World	91808	6.8
+Comedy,Crime,Mystery	A Simple Favor	A Simple Favor	155705	6.8
+Comedy,Romance	Always Be My Maybe	Always Be My Maybe	60059	6.8
+Biography,Drama,Music	Judy	Judy	53035	6.8
+Action,Adventure,Comedy	Boss Level	Boss Level	73589	6.8
+Action,Comedy,Horror	Ready or Not	Ready or Not	165650	6.8
+Comedy,Fantasy,Music	Yesterday	Yesterday	159673	6.8
+Action,Thriller	Extraction	Extraction	236594	6.8
+Action,Adventure,Thriller	On Her Majesty's Secret Service	On Her Majesty's Secret Service	95721	6.7
+Drama,Sci-Fi,Thriller	THX 1138	THX 1138	53130	6.7
+Action,Adventure,Thriller	Live and Let Die	Live and Let Die	111711	6.7
+Action,Adventure,Thriller	The Man with the Golden Gun	The Man with the Golden Gun	109516	6.7
+Horror,Sci-Fi,Thriller	Scanners	Scanners	58901	6.7
+Action,Adventure,Thriller	For Your Eyes Only	For Your Eyes Only	104910	6.7
+Action,Adventure,Sci-Fi	Tron	Tron	125553	6.7
+Horror,Thriller	Christine	Christine	87682	6.7
+Adventure,Mystery,Sci-Fi	2010: The Year We Make Contact	2010: The Year We Make Contact	55241	6.7
+Comedy	Police Academy	Police Academy	132123	6.7
+Comedy,Drama,Sci-Fi	Cocoon	Cocoon	66151	6.7
+Action,Adventure,Thriller	Commando	Commando	168590	6.7
+Comedy,Drama,Romance	Pretty in Pink	Pretty in Pink	85313	6.7
+Action,Adventure,Thriller	The Living Daylights	The Living Daylights	102467	6.7
+Action,Sci-Fi,Thriller	The Running Man	The Running Man	159712	6.7
+Action,Thriller	Road House	Road House	80768	6.7
+Action,Adventure,Comedy	Teenage Mutant Ninja Turtles	Teenage Mutant Ninja Turtles	98132	6.7
+Action,Drama,Mystery	Backdraft	Backdraft	84194	6.7
+Action,Comedy	Hot Shots!	Hot Shots!	112687	6.7
+Horror,Thriller	Candyman	Candyman	95808	6.7
+Action,Crime,Thriller	Lethal Weapon 3	Lethal Weapon 3	173729	6.7
+Action,Sci-Fi,Thriller	Demolition Man	Demolition Man	185029	6.7
+Crime,Drama,Thriller	Kalifornia	Kalifornia	56041	6.7
+Adventure,Comedy,Musical	Robin Hood: Men in Tights	Robin Hood: Men in Tights	131505	6.7
+Crime,Drama,Mystery	The Client	The Client	70459	6.7
+Action,Adventure,Biography	Wyatt Earp	Wyatt Earp	53210	6.7
+Comedy,Drama,Romance	Don Juan DeMarco	Don Juan DeMarco	52267	6.7
+Comedy,Drama,Music	Empire Records	Empire Records	59135	6.7
+Comedy	Four Rooms	Four Rooms	108189	6.7
+Adventure,Animation,Drama	Pocahontas	Pocahontas	195208	6.7
+Adventure,Animation,Family	James and the Giant Peach	James and the Giant Peach	71082	6.7
+Action,Crime,Thriller	Ransom	Ransom	131958	6.7
+Action,Crime,Drama	Absolute Power	Absolute Power	58118	6.7
+Action,Mystery,Thriller	Conspiracy Theory	Conspiracy Theory	104064	6.7
+Comedy,Drama,Fantasy	Sliding Doors	Sliding Doors	69540	6.7
+Crime,Drama,Thriller	U Turn	U Turn	53534	6.7
+Action,Adventure,Sci-Fi	Armageddon	Armageddon	437756	6.7
+Drama,Fantasy,Romance	City of Angels	City of Angels	124413	6.7
+Horror,Mystery,Thriller	From Hell	From Hell	159997	6.7
+Comedy,Crime	Analyze This	Analyze This	158227	6.7
+Comedy,Drama,Romance	Blast from the Past	Blast from the Past	69133	6.7
+Comedy,Drama,Romance	You've Got Mail	You've Got Mail	221616	6.7
+Mystery,Thriller	The Ninth Gate	The Ninth Gate	189352	6.7
+Crime,Drama,Mystery	The Bone Collector	The Bone Collector	177474	6.7
+Drama,Fantasy,Sport	The Legend of Bagger Vance	The Legend of Bagger Vance	58343	6.7
+Adventure,Animation,Comedy	Sinbad: Legend of the Seven Seas	Sinbad: Legend of the Seven Seas	57175	6.7
+Action,Horror,Sci-Fi	Blade II	Blade II	226439	6.7
+Comedy,Crime	The Whole Nine Yards	The Whole Nine Yards	124704	6.7
+Horror,Thriller	Final Destination	Final Destination	266836	6.7
+Drama,Fantasy,Horror	The Gift	The Gift	72268	6.7
+Drama,Romance	Sweet November	Sweet November	92702	6.7
+Action,Sci-Fi	The Matrix Revolutions	The Matrix Revolutions	527377	6.7
+Biography,Drama,Sport	Ali	Ali	102919	6.7
+Drama,Romance,Thriller	Unfaithful	Unfaithful	93249	6.7
+Comedy,Drama,Romance	The Girl Next Door	The Girl Next Door	231190	6.7
+Action,Comedy,Crime	Rush Hour 2	Rush Hour 2	229572	6.7
+Drama,History,Thriller	K-19: The Widowmaker	K-19: The Widowmaker	65392	6.7
+Comedy,Drama,Romance	Bend It Like Beckham	Bend It Like Beckham	113566	6.7
+Action,Adventure,Biography	Hidalgo	Hidalgo	84020	6.7
+Adventure,Animation,Comedy	Over the Hedge	Over the Hedge	183280	6.7
+Comedy,Drama,Romance	Under the Tuscan Sun	Under the Tuscan Sun	55209	6.7
+Comedy,Drama,Romance	Something's Gotta Give	Something's Gotta Give	125626	6.7
+Drama,History,Thriller	The Good Shepherd	The Good Shepherd	105806	6.7
+Comedy	Waiting...	Waiting...	102278	6.7
+Comedy,Sport	Dodgeball: A True Underdog Story	Dodgeball: A True Underdog Story	258754	6.7
+Adventure,Comedy,Family	Charlie and the Chocolate Factory	Charlie and the Chocolate Factory	499049	6.7
+Drama,Mystery,Thriller	Stay	Stay	82363	6.7
+Adventure,Comedy,Sci-Fi	The Hitchhiker's Guide to the Galaxy	The Hitchhiker's Guide to the Galaxy	203640	6.7
+Adventure,Drama,Family	Where the Wild Things Are	Where the Wild Things Are	106914	6.7
+Crime,Drama,Horror	The Devil's Rejects	The Devil's Rejects	103184	6.7
+Action,Fantasy,Thriller	Underworld: Evolution	Underworld: Evolution	205082	6.7
+Biography,Drama,History	The New World	The New World	88093	6.7
+Drama,Horror,Thriller	The Exorcism of Emily Rose	The Exorcism of Emily Rose	134829	6.7
+Adventure,Animation,Comedy	Surf's Up	Surf's Up	85546	6.7
+Comedy,Drama,Fantasy	Just Like Heaven	Just Like Heaven	114442	6.7
+Comedy,Drama,Musical	Hairspray	Hairspray	134917	6.7
+Action,Adventure,Crime	The A-Team	The A-Team	264177	6.7
+Biography,Drama,History	The Other Boleyn Girl	The Other Boleyn Girl	116621	6.7
+Comedy,Fantasy,Romance	Penelope	Penelope	64833	6.7
+Action,Crime,Drama	The Brave One	The Brave One	62207	6.7
+Action,Crime,Thriller	Wanted	Wanted	399067	6.7
+Comedy,Drama,Romance	Love & Other Drugs	Love & Other Drugs	212603	6.7
+Comedy,Sport	Hot Rod	Hot Rod	90543	6.7
+Action,Crime,Drama	Appaloosa	Appaloosa	62952	6.7
+Action,Adventure,Fantasy	Warcraft	Warcraft	271305	6.7
+Action,Crime,Drama	Death Sentence	Death Sentence	73395	6.7
+Action,Mystery,Thriller	Angels & Demons	Angels & Demons	301532	6.7
+Biography,Drama,Music	The Soloist	The Soloist	54645	6.7
+Action,Adventure,Comedy	The Brothers Bloom	The Brothers Bloom	51825	6.7
+Comedy,Horror	Trick 'r Treat	Trick 'r Treat	97420	6.7
+Comedy,Drama,Fantasy	Ghost Town	Ghost Town	76034	6.7
+Horror,Thriller	Eden Lake	Eden Lake	89696	6.7
+Drama,Fantasy,Horror	Suspiria	Suspiria	85184	6.7
+Comedy,Drama,Romance	The Proposal	The Proposal	340659	6.7
+Drama,Romance	Rachel Getting Married	Rachel Getting Married	50332	6.7
+Action,Horror,Mystery	Pandorum	Pandorum	155260	6.7
+Action,Comedy,Crime	Violent Night	Violent Night	74026	6.7
+Action,Crime,Drama	Out of the Furnace	Out of the Furnace	120955	6.7
+Action,Crime,Drama	Brooklyn's Finest	Brooklyn's Finest	65189	6.7
+Action,Thriller	Escape Plan	Escape Plan	250587	6.7
+Action,Thriller	2 Guns	2 Guns	219473	6.7
+Adventure,Comedy,Drama	Seeking a Friend for the End of the World	Seeking a Friend for the End of the World	117032	6.7
+Action,Crime,Drama	Gangster Squad	Gangster Squad	219262	6.7
+Horror,Thriller	Fresh	Fresh	64115	6.7
+Drama,Fantasy,Music	If I Stay	If I Stay	126136	6.7
+Action,Sci-Fi	The Wolverine	The Wolverine	479343	6.7
+Adventure,Animation,Comedy	The Pirates! Band of Misfits	The Pirates! In an Adventure with Scientists!	50068	6.7
+Action,Adventure,Crime	Enola Holmes 2	Enola Holmes 2	88716	6.7
+Action,Adventure,Comedy	Attack the Block	Attack the Block	109295	6.7
+Action,Comedy,Crime	Super	Super	82281	6.7
+Action,Comedy,Horror	Zombieland: Double Tap	Zombieland: Double Tap	190169	6.7
+Action,Biography,Crime	Machine Gun Preacher	Machine Gun Preacher	67693	6.7
+Action,Thriller	Safe House	Safe House	229331	6.7
+Action,Adventure,Drama	The Grey	The Grey	257787	6.7
+Comedy	American Reunion	American Reunion	219437	6.7
+Biography,Drama	Jackie	Jackie	81595	6.7
+Action,Sci-Fi,Thriller	In Time	In Time	425448	6.7
+Drama,Thriller	Stoker	Stoker	111775	6.7
+Comedy	The Inbetweeners	The Inbetweeners Movie	84797	6.7
+Drama,Thriller	Killer Joe	Killer Joe	80619	6.7
+Action,Thriller	No Escape	No Escape	89781	6.7
+Crime,Drama	Gold	Gold	66738	6.7
+Drama,Thriller	The Call	The Call	126628	6.7
+Adventure,Drama,Family	Miss Peregrine's Home for Peculiar Children	Miss Peregrine's Home for Peculiar Children	180670	6.7
+Crime,Drama,Thriller	A Most Wanted Man	A Most Wanted Man	78234	6.7
+Action,Adventure,Drama	King Arthur: Legend of the Sword	King Arthur: Legend of the Sword	224362	6.7
+Adventure,Animation,Comedy	The Good Dinosaur	The Good Dinosaur	121608	6.7
+Action,Drama,History	The Finest Hours	The Finest Hours	68853	6.7
+Drama,Romance	Jab Tak Hai Jaan	Jab Tak Hai Jaan	57044	6.7
+Action,Thriller	Atomic Blonde	Atomic Blonde	200209	6.7
+Action,Adventure,Comedy	The Adam Project	The Adam Project	215902	6.7
+Biography,Crime,Drama	Extremely Wicked, Shockingly Evil and Vile	Extremely Wicked, Shockingly Evil and Vile	98251	6.7
+Crime,Drama,Mystery	Veronica Mars	Veronica Mars	53811	6.7
+Action,Adventure,Comedy	Pete's Dragon	Pete's Dragon	60309	6.7
+Action,Mystery,Thriller	The Guest	The Guest	103489	6.7
+Action,Adventure,Sci-Fi	Hardcore Henry	Hardcore Henry	99024	6.7
+Adventure,Animation,Comedy	Ferdinand	Ferdinand	60589	6.7
+Action,Adventure,Sci-Fi	Black Widow	Black Widow	400305	6.7
+Adventure,Animation,Comedy	Cars 3	Cars 3	110109	6.7
+Action,Adventure,Biography	Jungle	Jungle	60128	6.7
+Action,Crime,Thriller	The Equalizer 2	The Equalizer 2	170867	6.7
+Comedy,Drama,Music	Popstar: Never Stop Never Stopping	Popstar: Never Stop Never Stopping	65411	6.7
+Biography,Comedy,Drama	Battle of the Sexes	Battle of the Sexes	57724	6.7
+Action,Adventure,Comedy	Kingsman: The Golden Circle	Kingsman: The Golden Circle	345361	6.7
+Action,Adventure,Sci-Fi	Bumblebee	Bumblebee	177823	6.7
+Adventure,Comedy,Family	Mary Poppins Returns	Mary Poppins Returns	91770	6.7
+Crime,Drama	You Were Never Really Here	You Were Never Really Here	123502	6.7
+Drama,Mystery,Sci-Fi	I Am Mother	I Am Mother	95442	6.7
+Action,Drama,History	Midway	Midway	90199	6.7
+Adventure,Comedy	Good Boys	Good Boys	77622	6.7
+Adventure,Drama,Family	The Call of the Wild	The Call of the Wild	52952	6.7
+Action,Thriller	The Old Guard	The Old Guard	174424	6.7
+Action,Adventure,Comedy	Jumanji: The Next Level	Jumanji: The Next Level	265675	6.7
+Drama,Sport	The Way Back	The Way Back	50359	6.7
+Mystery,Thriller	Run	Run	87861	6.7
+Drama	The Lost Daughter	The Lost Daughter	70142	6.7
+Action,Adventure,Drama	Black Panther: Wakanda Forever	Black Panther: Wakanda Forever	275682	6.7
+Drama,Fantasy,Romance	Three Thousand Years of Longing	Three Thousand Years of Longing	50385	6.7
+Comedy,Drama,Romance	Emma.	Emma.	58437	6.7
+Drama,Horror,Mystery	Fear Street: Part Two - 1978	Fear Street: 1978	69763	6.7
+Drama,Music,Romance	Footloose	Footloose	86369	6.6
+Comedy	Revenge of the Nerds	Revenge of the Nerds	56604	6.6
+Action,Adventure,Sci-Fi	Star Trek III: The Search for Spock	Star Trek III: The Search for Spock	83643	6.6
+Comedy,Romance,Sci-Fi	Weird Science	Weird Science	93609	6.6
+Action,Adventure,Comedy	Crocodile Dundee	Crocodile Dundee	110745	6.6
+Comedy,Family,Sci-Fi	Short Circuit	Short Circuit	64283	6.6
+Fantasy,Horror	A Nightmare on Elm Street 3: Dream Warriors	A Nightmare on Elm Street 3: Dream Warriors	85723	6.6
+Horror,Thriller	Child's Play	Child's Play	109199	6.6
+Adventure,Animation,Comedy	Oliver & Company	Oliver & Company	50909	6.6
+Action,Crime,Drama	Black Rain	Black Rain	57441	6.6
+Action,Comedy,Fantasy	Ghostbusters II	Ghostbusters II	214534	6.6
+Action,Adventure,Thriller	Licence to Kill	Licence to Kill	108483	6.6
+Comedy,Fantasy,Horror	Death Becomes Her	Death Becomes Her	124768	6.6
+Adventure,Drama,Romance	Far and Away	Far and Away	66156	6.6
+Action,Comedy	Hot Shots! Part Deux	Hot Shots! Part Deux	94338	6.6
+Crime,Drama,Mystery	The Pelican Brief	The Pelican Brief	91971	6.6
+Comedy,Drama,Romance	Reality Bites	Reality Bites	51966	6.6
+Action,Adventure,Mystery	Star Trek: Generations	Star Trek: Generations	84826	6.6
+Drama,Mystery,Thriller	Copycat	Copycat	62991	6.6
+Comedy,Drama,Romance	French Kiss	French Kiss	51651	6.6
+Action,Drama,Thriller	Outbreak	Outbreak	133685	6.6
+Action,Drama,Mystery	Courage Under Fire	Courage Under Fire	57395	6.6
+Horror,Sci-Fi,Thriller	Event Horizon	Event Horizon	189060	6.6
+Crime,Drama,Mystery	Kiss the Girls	Kiss the Girls	77846	6.6
+Action,Adventure,History	The 13th Warrior	The 13th Warrior	128531	6.6
+Comedy,Crime	Half Baked	Half Baked	66040	6.6
+Adventure,Comedy,Drama	The Parent Trap	The Parent Trap	146100	6.6
+Crime,Drama,Thriller	A Perfect Murder	A Perfect Murder	88919	6.6
+Action,Horror,Sci-Fi	Resident Evil	Resident Evil	279589	6.6
+Crime,Drama,Mystery	Wild Things	Wild Things	125450	6.6
+Action,Adventure,Animation	Titan A.E.	Titan A.E.	62687	6.6
+Action,Adventure,Fantasy	Star Wars: Episode II - Attack of the Clones	Star Wars: Episode II - Attack of the Clones	732444	6.6
+Action,Crime,Thriller	Lethal Weapon 4	Lethal Weapon 4	168062	6.6
+Horror,Mystery,Sci-Fi	The Faculty	The Faculty	129278	6.6
+Crime,Drama,Mystery	8MM	8MM	137451	6.6
+Action,War	U-571	U-571	84311	6.6
+Action,Adventure,Comedy	Austin Powers: The Spy Who Shagged Me	Austin Powers: The Spy Who Shagged Me	241368	6.6
+Drama,Horror,Mystery	What Lies Beneath	What Lies Beneath	131175	6.6
+Adventure,Drama,Romance	The Beach	The Beach	246484	6.6
+Action,Comedy,Crime	Bad Boys II	Bad Boys II	259250	6.6
+Comedy	Me, Myself & Irene	Me, Myself & Irene	244297	6.6
+Action,Adventure,Comedy	Shanghai Noon	Shanghai Noon	131683	6.6
+Comedy,Sport	The Replacements	The Replacements	67448	6.6
+Action,Mystery,Thriller	Joy Ride	Joy Ride	72749	6.6
+Comedy,Drama,Romance	My Big Fat Greek Wedding	My Big Fat Greek Wedding	137573	6.6
+Action,Crime,Thriller	Kiss of the Dragon	Kiss of the Dragon	65333	6.6
+Action,Thriller	The Recruit	The Recruit	139543	6.6
+Comedy,Drama,Romance	The Rules of Attraction	The Rules of Attraction	52519	6.6
+Action,Adventure,Sci-Fi	The Chronicles of Riddick	The Chronicles of Riddick	236389	6.6
+Action,Drama,Thriller	Tears of the Sun	Tears of the Sun	126750	6.6
+Action,Comedy,Documentary	Jackass: The Movie	Jackass: The Movie	99059	6.6
+Action,Adventure,Comedy	The Rundown	The Rundown	110560	6.6
+Adventure,Animation,Comedy	The Polar Express	The Polar Express	223445	6.6
+Comedy	EuroTrip	EuroTrip	215463	6.6
+Comedy	I Heart Huckabees	I Heart Huckabees	65562	6.6
+Drama,Horror,Mystery	The Manchurian Candidate	The Manchurian Candidate	113560	6.6
+Drama,Mystery,Thriller	The Village	The Village	269537	6.6
+Action,Adventure,Sci-Fi	X-Men: The Last Stand	X-Men: The Last Stand	528378	6.6
+Drama,Fantasy,Thriller	The Lovely Bones	The Lovely Bones	174551	6.6
+Mystery,Thriller	The Da Vinci Code	The Da Vinci Code	445362	6.6
+Comedy,Drama	The Weather Man	The Weather Man	81934	6.6
+Animation,Comedy,Family	Monster House	Monster House	129237	6.6
+Comedy,Romance	Hitch	Hitch	326002	6.6
+Action,Adventure,Horror	30 Days of Night	30 Days of Night	183062	6.6
+Comedy,Drama,Romance	A Lot Like Love	A Lot Like Love	70413	6.6
+Comedy,Family,Fantasy	Nanny McPhee	Nanny McPhee	81317	6.6
+Crime,Drama,Thriller	Derailed	Derailed	75131	6.6
+Action,Adventure,Sci-Fi	John Carter	John Carter	279704	6.6
+Comedy,Sport	Talladega Nights: The Ballad of Ricky Bobby	Talladega Nights: The Ballad of Ricky Bobby	191933	6.6
+Action,Adventure,Animation	Flushed Away	Flushed Away	132806	6.6
+Horror,Mystery	Saw II	Saw II	261295	6.6
+Action,Crime,Drama	Vantage Point	Vantage Point	152387	6.6
+Drama,Music,Musical	Dreamgirls	Dreamgirls	75667	6.6
+Adventure,Animation,Comedy	Puss in Boots	Puss in Boots	182915	6.6
+Action,Drama,Thriller	16 Blocks	16 Blocks	132965	6.6
+Adventure,Drama,Romance	Australia	Australia	127099	6.6
+Comedy,Crime,Fantasy	Scoop	Scoop	86071	6.6
+Action,Comedy,Thriller	Shoot 'Em Up	Shoot 'Em Up	152876	6.6
+Action,Adventure,Fantasy	Prince of Persia: The Sands of Time	Prince of Persia: The Sands of Time	296957	6.6
+Action,Comedy,Crime	Smokin' Aces	Smokin' Aces	149018	6.6
+Adventure,Animation,Comedy	Madagascar: Escape 2 Africa	Madagascar: Escape 2 Africa	237424	6.6
+Crime,Drama,Thriller	Pride and Glory	Pride and Glory	62228	6.6
+Drama,Romance	My Blueberry Nights	My Blueberry Nights	55664	6.6
+Crime,Drama,Romance	Cassandra's Dream	Cassandra's Dream	53084	6.6
+Action,Adventure,Sci-Fi	The Incredible Hulk	The Incredible Hulk	507546	6.6
+Crime,Drama,Mystery	Transsiberian	Transsiberian	53962	6.6
+Action,Adventure,Mystery	Quantum of Solace	Quantum of Solace	459089	6.6
+Action,Adventure,Animation	Epic	Epic	107776	6.6
+Action,Adventure,Comedy	Jungle Cruise	Jungle Cruise	201336	6.6
+Comedy	The Wedding Ringer	The Wedding Ringer	78363	6.6
+Action,Adventure,Drama	Robin Hood	Robin Hood	275961	6.6
+Comedy,Drama,Music	Nick and Norah's Infinite Playlist	Nick and Norah's Infinite Playlist	94144	6.6
+Action,Crime,Thriller	Machete	Machete	200957	6.6
+Biography,Comedy,Crime	I Love You Phillip Morris	I Love You Phillip Morris	97997	6.6
+Action,Mystery,Thriller	Eagle Eye	Eagle Eye	191319	6.6
+Action,Drama,Western	The Harder They Fall	The Harder They Fall	67502	6.6
+Crime,Drama	Bad Lieutenant: Port of Call New Orleans	The Bad Lieutenant: Port of Call - New Orleans	79284	6.6
+Biography,Crime,Drama	House of Gucci	House of Gucci	147086	6.6
+Horror	Drag Me to Hell	Drag Me to Hell	210724	6.6
+Action,Adventure,Thriller	The Bourne Legacy	The Bourne Legacy	309326	6.6
+Comedy,Drama	Last Vegas	Last Vegas	134589	6.6
+Adventure,Biography,Drama	The Lost City of Z	The Lost City of Z	94997	6.6
+Action,Drama,Thriller	Edge of Darkness	Edge of Darkness	96745	6.6
+Comedy,Fantasy	This Is the End	This Is the End	423805	6.6
+Biography,Drama	Spencer	Spencer	72519	6.6
+Action,Adventure,Sci-Fi	Venom	Venom	509608	6.6
+Action,Adventure,Fantasy	Pirates of the Caribbean: On Stranger Tides	Pirates of the Caribbean: On Stranger Tides	543746	6.6
+Comedy	Borat Subsequent Moviefilm	Borat Subsequent Moviefilm: Delivery of Prodigious Bribe to American Regime for Make Benefit Once Glorious Nation of Kazakhstan	146742	6.6
+Horror	Evil Dead Rise	Evil Dead Rise	91337	6.6
+Horror,Mystery,Thriller	X	X	134994	6.6
+Comedy,Drama	This Is Where I Leave You	This Is Where I Leave You	85622	6.6
+Action,Comedy,Crime	The Other Guys	The Other Guys	278469	6.6
+Crime,Horror,Mystery	The Pale Blue Eye	The Pale Blue Eye	109123	6.6
+Action,Drama,Sci-Fi	Elysium	Elysium	458825	6.6
+Action,Crime,Thriller	Man on a Ledge	Man on a Ledge	155936	6.6
+Comedy	Project X	Project X	221159	6.6
+Drama,Romance,Thriller	Safe Haven	Safe Haven	113634	6.6
+Action,Adventure,Sci-Fi	Ender's Game	Ender's Game	247573	6.6
+Drama,Romance	Like Crazy	Like Crazy	62561	6.6
+Drama,Thriller	Arbitrage	Arbitrage	53838	6.6
+Action,Adventure,Thriller	The Expendables 2	The Expendables 2	314311	6.6
+Horror,Mystery,Thriller	Scream VI	Scream VI	85067	6.6
+Drama,Romance	Anna Karenina	Anna Karenina	103485	6.6
+Comedy,Crime,Drama	Inherent Vice	Inherent Vice	107810	6.6
+Action,Comedy,Crime	RED 2	RED 2	176142	6.6
+Action,Adventure,Mystery	Divergent	Divergent	473055	6.6
+Action,Thriller	Hunter Killer	Hunter Killer	67808	6.6
+Horror,Thriller	You're Next	You're Next	104604	6.6
+Action,Adventure,Sci-Fi	The Amazing Spider-Man 2	The Amazing Spider-Man 2	515975	6.6
+Action,Adventure,Animation	Penguins of Madagascar	Penguins of Madagascar	96717	6.6
+Action,Adventure,Sci-Fi	The Hunger Games: Mockingjay - Part 1	The Hunger Games: Mockingjay - Part 1	473948	6.6
+Drama,Romance	The Best of Me	The Best of Me	75281	6.6
+Comedy,Drama	Bad Words	Bad Words	53671	6.6
+Action,Crime,Thriller	Run All Night	Run All Night	112313	6.6
+Comedy,Crime,Drama	Focus	Focus	260760	6.6
+Drama	Nymphomaniac: Vol. II	Nymphomaniac: Vol. II	95458	6.6
+Drama,Horror,Mystery	The Invitation	The Invitation	114484	6.6
+Action,Comedy,Crime	The Heat	The Heat	177349	6.6
+Biography,Drama	Joy	Joy	140970	6.6
+Comedy,Drama	Burnt	Burnt	126773	6.6
+Adventure,Animation,Comedy	Hotel Transylvania 2	Hotel Transylvania 2	134999	6.6
+Comedy,Crime	Going in Style	Going in Style	88741	6.6
+Drama,Mystery,Sci-Fi	Midnight Special	Midnight Special	82532	6.6
+Horror,Mystery,Sci-Fi	Bird Box	Bird Box	361701	6.6
+Action,Drama,Thriller	Red Sparrow	Red Sparrow	193446	6.6
+Drama,History,War	Macbeth	Macbeth	58293	6.6
+Action,Adventure,Animation	The Lego Movie 2: The Second Part	The Lego Movie 2: The Second Part	72091	6.6
+Biography,Comedy,Drama	Whiskey Tango Foxtrot	Whiskey Tango Foxtrot	54278	6.6
+Comedy,Crime,Drama	Irrational Man	Irrational Man	65181	6.6
+Action,Adventure,Fantasy	Kong: Skull Island	Kong: Skull Island	331717	6.6
+Action,Thriller	Jason Bourne	Jason Bourne	234615	6.6
+Action,Adventure,Drama	Alpha	Alpha	64570	6.6
+Comedy,Drama,Romance	Café Society	Café Society	79263	6.6
+Action,Horror,Sci-Fi	Overlord	Overlord	103130	6.6
+Action,Adventure,Drama	The Girl with All the Gifts	The Girl with All the Gifts	62439	6.6
+Action,Crime,Thriller	The Fate of the Furious	The Fate of the Furious	243949	6.6
+Adventure,Family,Fantasy	Maleficent: Mistress of Evil	Maleficent: Mistress of Evil	111858	6.6
+Horror,Thriller	Hush	Hush	144993	6.6
+Drama,Horror,Mystery	Mother!	Mother!	237347	6.6
+Comedy,Horror,Mystery	Happy Death Day	Happy Death Day	152411	6.6
+Horror,Sci-Fi,Thriller	Life	Life	241039	6.6
+Action,Adventure,Biography	Adrift	Adrift	59358	6.6
+Drama,Horror,Sci-Fi	Glass	Glass	254894	6.6
+Comedy,Musical,Romance	Mamma Mia! Here We Go Again	Mamma Mia! Here We Go Again	101303	6.6
+Action,Thriller	Anna	Anna	87746	6.6
+Action,Adventure,Crime	Enola Holmes	Enola Holmes	205553	6.6
+Drama,Thriller	I'm Thinking of Ending Things	I'm Thinking of Ending Things	93574	6.6
+Action,Crime,Drama	21 Bridges	21 Bridges	70632	6.6
+Adventure,Drama,Fantasy	The Green Knight	The Green Knight	108524	6.6
+Horror,Mystery	Fear Street: Part Three - 1666	Fear Street: 1666	58098	6.6
+Action,Adventure,Thriller	Diamonds Are Forever	Diamonds Are Forever	110464	6.5
+Action,Adventure,Sci-Fi	Flash Gordon	Flash Gordon	59312	6.5
+Horror	Halloween II	Halloween II	96246	6.5
+Action,Adventure,Thriller	Octopussy	Octopussy	109579	6.5
+Action,Adventure,Thriller	Rambo: First Blood Part II	Rambo: First Blood Part II	175991	6.5
+Comedy,Western	Three Amigos!	Three Amigos!	79681	6.5
+Action,Comedy,Crime	Beverly Hills Cop II	Beverly Hills Cop II	124970	6.5
+Comedy,Fantasy,Horror	The Witches of Eastwick	The Witches of Eastwick	73722	6.5
+Fantasy,Horror,Thriller	Pet Sematary	Pet Sematary	109437	6.5
+Comedy,Horror,Thriller	Arachnophobia	Arachnophobia	72928	6.5
+Comedy,Musical	Cry-Baby	Cry-Baby	62786	6.5
+Drama,Horror,Sci-Fi	Flatliners	Flatliners	90288	6.5
+Comedy,Family,Romance	Father of the Bride	Father of the Bride	80844	6.5
+Action,Adventure,Family	The Rocketeer	The Rocketeer	59980	6.5
+Comedy,Drama,Family	The Mighty Ducks	The Mighty Ducks	69277	6.5
+Comedy,Family,Music	Sister Act	Sister Act	103912	6.5
+Action,Thriller	Under Siege	Under Siege	91678	6.5
+Action,Adventure,Thriller	Cliffhanger	Cliffhanger	135142	6.5
+Action,Adventure,Comedy	Last Action Hero	Last Action Hero	158359	6.5
+Comedy,Crime	Naked Gun 33 1/3: The Final Insult	Naked Gun 33 1/3: The Final Insult	108016	6.5
+Comedy,Drama,Family	The Santa Clause	The Santa Clause	125316	6.5
+Biography,Drama	Dangerous Minds	Dangerous Minds	55140	6.5
+Action,Drama,Romance	The Quick and the Dead	The Quick and the Dead	98788	6.5
+Comedy,Crime	Don't Be a Menace to South Central While Drinking Your Juice in the Hood	Don't Be a Menace to South Central While Drinking Your Juice in the Hood	58963	6.5
+Action,Adventure,Thriller	Executive Decision	Executive Decision	59847	6.5
+Adventure,Animation,Comedy	Space Jam	Space Jam	205289	6.5
+Action,Adventure,Thriller	Twister	Twister	203912	6.5
+Action,Drama,Thriller	Air Force One	Air Force One	203469	6.5
+Adventure,Comedy,Family	Bean	Bean	108284	6.5
+Action,Adventure,Sci-Fi	The Lost World: Jurassic Park	The Lost World: Jurassic Park	430442	6.5
+Comedy	Mousehunt	Mouse Hunt	58604	6.5
+Action,Adventure,Thriller	Tomorrow Never Dies	Tomorrow Never Dies	199756	6.5
+Adventure,Animation,Comedy	Antz	Antz	159954	6.5
+Action,Adventure,Drama	The Man in the Iron Mask	The Man in the Iron Mask	173224	6.5
+Action,Crime,Thriller	U.S. Marshals	U.S. Marshals	109808	6.5
+Action,Adventure,Fantasy	Star Wars: Episode I - The Phantom Menace	Star Wars: Episode I - The Phantom Menace	827961	6.5
+Comedy,Romance	Can't Hardly Wait	Can't Hardly Wait	52530	6.5
+Comedy	Bowfinger	Bowfinger	72342	6.5
+Comedy,Sport	BASEketball	BASEketball	64318	6.5
+Crime,Drama,Mystery	Double Jeopardy	Double Jeopardy	90990	6.5
+Action,Adventure,Drama	The Perfect Storm	The Perfect Storm	172990	6.5
+Action,Comedy,Crime	Taxi 2	Taxi 2	57534	6.5
+Horror,Mystery	The Blair Witch Project	The Blair Witch Project	272054	6.5
+Action,Adventure,Thriller	Space Cowboys	Space Cowboys	83912	6.5
+Action,Crime,Thriller	Gone in 60 Seconds	Gone in Sixty Seconds	286979	6.5
+Comedy	Zoolander	Zoolander	282111	6.5
+Crime,Drama,Mystery	Awake	Awake	77616	6.5
+Comedy	Road Trip	Road Trip	173747	6.5
+Comedy,Crime,Drama	Bandits	Bandits	69703	6.5
+Comedy,Romance	Wet Hot American Summer	Wet Hot American Summer	59314	6.5
+Action,Crime,Thriller	Swordfish	Swordfish	192166	6.5
+Drama,Thriller	Changing Lanes	Changing Lanes	73241	6.5
+Drama	Mona Lisa Smile	Mona Lisa Smile	86332	6.5
+Crime,Drama,Mystery	Out of Time	Out of Time	63209	6.5
+Action,Crime,Thriller	Cellular	Cellular	103358	6.5
+Action,Crime,Drama	Hostage	Hostage	112315	6.5
+Action,Drama,Thriller	Ladder 49	Ladder 49	58698	6.5
+Crime,Thriller	Ocean's Twelve	Ocean's Twelve	401952	6.5
+Action,Comedy,Crime	Mr. & Mrs. Smith	Mr. & Mrs. Smith	514415	6.5
+Drama,Mystery,Thriller	Secret Window	Secret Window	203011	6.5
+Action,Crime,Drama	A Walk Among the Tombstones	A Walk Among the Tombstones	124687	6.5
+Horror,Mystery	Silent Hill	Silent Hill	237135	6.5
+Comedy,Drama,Romance	In Good Company	In Good Company	55929	6.5
+Adventure,Comedy,Sci-Fi	Idiocracy	Idiocracy	172504	6.5
+Comedy,Drama,Romance	In Her Shoes	In Her Shoes	63882	6.5
+Drama,Horror,Mystery	The Skeleton Key	The Skeleton Key	119181	6.5
+Adventure,Comedy,Drama	Casanova	Casanova	55503	6.5
+Comedy,Drama,Romance	The Sisterhood of the Traveling Pants	The Sisterhood of the Traveling Pants	63078	6.5
+Action,Adventure,Sci-Fi	War of the Worlds	War of the Worlds	461101	6.5
+Action,Adventure,Drama	The Spiderwick Chronicles	The Spiderwick Chronicles	99512	6.5
+Thriller	Red Eye	Red Eye	128374	6.5
+Biography,Drama,History	Marie Antoinette	Marie Antoinette	115913	6.5
+Action,Adventure,Comedy	Get Smart	Get Smart	223382	6.5
+Comedy,Romance,Sport	Run Fatboy Run	Run Fatboy Run	69207	6.5
+Action,Adventure,Sci-Fi	Terminator Salvation	Terminator Salvation	369934	6.5
+Comedy,Horror,Sci-Fi	Slither	Slither	86034	6.5
+Horror,Thriller	The Crazies	The Crazies	125480	6.5
+Action,Crime,Thriller	Sin City: A Dame to Kill For	Sin City: A Dame to Kill For	166330	6.5
+Action,Sci-Fi	X-Men Origins: Wolverine	X-Men Origins: Wolverine	517037	6.5
+Crime,Drama,Music	Step Up	Step Up	122874	6.5
+Action,Adventure,Mystery	National Treasure: Book of Secrets	National Treasure: Book of Secrets	246149	6.5
+Action,Crime,Thriller	The Mechanic	The Mechanic	165868	6.5
+Adventure,Comedy,Family	Night at the Museum	Night at the Museum	362215	6.5
+Adventure,Comedy	Harold & Kumar Escape from Guantanamo Bay	Harold & Kumar Escape from Guantanamo Bay	139815	6.5
+Adventure,Comedy,Crime	Fanboys	Fanboys	59993	6.5
+Action,Adventure,Family	The Chronicles of Narnia: Prince Caspian	The Chronicles of Narnia: Prince Caspian	217802	6.5
+Comedy,Music,Romance	Music and Lyrics	Music and Lyrics	105344	6.5
+Comedy,Musical,Romance	Mamma Mia!	Mamma Mia!	258310	6.5
+Crime,Drama,Thriller	Funny Games	Funny Games	100551	6.5
+Action,Fantasy,Thriller	Underworld: Rise of the Lycans	Underworld: Rise of the Lycans	164249	6.5
+Horror,Thriller	The Last House on the Left	The Last House on the Left	96893	6.5
+Drama,Mystery,Thriller	Blindness	Blindness	74137	6.5
+Action,Adventure,Fantasy	The Forbidden Kingdom	The Forbidden Kingdom	107825	6.5
+Drama,Horror,Thriller	Antichrist	Antichrist	131593	6.5
+Adventure,Comedy,Drama	Letters to Juliet	Letters to Juliet	103875	6.5
+Action,Crime,Drama	The International	The International	97634	6.5
+Drama,Mystery,Thriller	A Perfect Getaway	A Perfect Getaway	74836	6.5
+Comedy,Romance	Zack and Miri Make a Porno	Zack and Miri Make a Porno	180217	6.5
+Action,Crime,Thriller	Fast & Furious	Fast & Furious	299951	6.5
+Biography,Drama,Music	The Runaways	The Runaways	50172	6.5
+Action,Drama,Sport	Never Back Down	Never Back Down	104121	6.5
+Comedy,Drama,Romance	Life as We Know It	Life as We Know It	135791	6.5
+Comedy,Romance	Blended	Blended	138369	6.5
+Drama,Horror,Sci-Fi	Titane	Titane	50833	6.5
+Comedy,Drama,Romance	Morning Glory	Morning Glory	80840	6.5
+Biography,Comedy,Crime	The Informant!	The Informant!	66265	6.5
+Comedy,Romance	Sex Drive	Sex Drive	89860	6.5
+Drama,Fantasy,Romance	Hereafter	Hereafter	94172	6.5
+Comedy,Drama,Romance	It's Complicated	It's Complicated	95579	6.5
+Comedy,Drama	Due Date	Due Date	351107	6.5
+Action,Adventure,Comedy	Sonic the Hedgehog 2	Sonic the Hedgehog 2	76563	6.5
+Horror,Thriller	[Rec]²	[Rec]²	76037	6.5
+Horror	Evil Dead	Evil Dead	188896	6.5
+Comedy,Crime,Mystery	See How They Run	See How They Run	56452	6.5
+Comedy	The Hangover Part II	The Hangover Part II	516114	6.5
+Action,Drama,History	12 Strong	12 Strong	87070	6.5
+Comedy,Drama,Romance	Bridget Jones's Baby	Bridget Jones's Baby	78578	6.5
+Action,Thriller	Triple Frontier	Triple Frontier	137373	6.5
+Action,Comedy,Crime	Bad Boys for Life	Bad Boys for Life	167785	6.5
+Crime,Horror,Thriller	Halloween	Halloween	161120	6.5
+Action,Crime,Thriller	Premium Rush	Premium Rush	116486	6.5
+Horror,Mystery,Thriller	Smile	Smile	132867	6.5
+Comedy,Drama	Jeff, Who Lives at Home	Jeff, Who Lives at Home	64814	6.5
+Biography,Drama,Romance	J. Edgar	J. Edgar	131218	6.5
+Comedy,Romance	Friends with Benefits	Friends with Benefits	381301	6.5
+Drama,Romance	The Art of Getting By	The Art of Getting By	60023	6.5
+Action,Thriller	The Gray Man	The Gray Man	219745	6.5
+Action,Comedy,Crime	Kick-Ass 2	Kick-Ass 2	280785	6.5
+Action,Crime,Thriller	Safe	Safe	113843	6.5
+Adventure,Animation,Comedy	Ice Age: Continental Drift	Ice Age: Continental Drift	216880	6.5
+Comedy,Drama	Entourage	Entourage	81692	6.5
+Action,Adventure,Fantasy	Pirates of the Caribbean: Dead Men Tell No Tales	Pirates of the Caribbean: Dead Men Tell No Tales	326789	6.5
+Comedy,Drama,Mystery	The Double	The Double	51853	6.5
+Action,Adventure,Sci-Fi	The Hunger Games: Mockingjay - Part 2	The Hunger Games: Mockingjay - Part 2	345239	6.5
+Action,Mystery,Sci-Fi	Self/less	Self/less	101919	6.5
+Adventure,Animation,Comedy	Home	Home	107425	6.5
+Horror,Mystery,Thriller	Insidious: Chapter 2	Insidious: Chapter 2	178223	6.5
+Comedy,Drama,Romance	Don Jon	Don Jon	243481	6.5
+Crime,Drama,Mystery	Money Monster	Money Monster	102517	6.5
+Action,Thriller	Olympus Has Fallen	Olympus Has Fallen	284497	6.5
+Action,Crime,Thriller	Homefront	Homefront	124835	6.5
+Horror,Mystery,Thriller	Oculus	Oculus	134227	6.5
+Adventure,Drama,Fantasy	Mowgli: Legend of the Jungle	Mowgli	64058	6.5
+Action,Adventure,Fantasy	Star Wars: Episode IX - The Rise of Skywalker	Star Wars: Episode IX - The Rise of Skywalker	470220	6.5
+Drama,Horror,Mystery	Crimson Peak	Crimson Peak	153300	6.5
+Adventure,Animation,Comedy	The Secret Life of Pets	The Secret Life of Pets	209532	6.5
+Action,Adventure,Comedy	The Interview	The Interview	342563	6.5
+Action,Comedy	Tag	Tag	140631	6.5
+Comedy,Drama,Romance	Magic in the Moonlight	Magic in the Moonlight	69413	6.5
+Adventure,Drama,Mystery	Ad Astra	Ad Astra	248599	6.5
+Crime,Drama,Mystery	Murder on the Orient Express	Murder on the Orient Express	270024	6.5
+Action,Adventure,Crime	Nerve	Nerve	135982	6.5
+Crime,Drama,Mystery	The Girl on the Train	The Girl on the Train	193265	6.5
+Drama,Horror,Thriller	Gerald's Game	Gerald's Game	117490	6.5
+Action,Adventure,Comedy	Sonic the Hedgehog	Sonic the Hedgehog	149520	6.5
+Adventure,Family,Fantasy	Fantastic Beasts: The Crimes of Grindelwald	Fantastic Beasts: The Crimes of Grindelwald	295199	6.5
+Adventure,Animation,Comedy	Minions: The Rise of Gru	Minions: The Rise of Gru	76025	6.5
+Horror,Mystery,Thriller	Annabelle: Creation	Annabelle: Creation	142037	6.5
+Comedy,Romance	Set It Up	Set It Up	58630	6.5
+Action,Adventure,Comedy	Pokémon: Detective Pikachu	Pokémon: Detective Pikachu	174194	6.5
+Action,Adventure,Thriller	Plane	Plane	57471	6.5
+Action,Adventure,Thriller	Fast & Furious Presents: Hobbs & Shaw	Fast & Furious Presents: Hobbs & Shaw	224861	6.5
+Action,Thriller	Peppermint	Peppermint	67739	6.5
+Action,Fantasy,Horror	Mandy	Mandy	84226	6.5
+Drama,Fantasy,Horror	It Chapter Two	It Chapter Two	282450	6.5
+Action,Horror,Thriller	The Hunt	The Hunt	120969	6.5
+Comedy,Music	Eurovision Song Contest: The Story of Fire Saga	Eurovision Song Contest: The Story of Fire Saga	98601	6.5
+Comedy,Drama,Fantasy	Last Christmas	Last Christmas	84062	6.5
+Horror,Mystery,Thriller	The Night House	The Night House	60809	6.5
+Adventure,Drama,War	Da 5 Bloods	Da 5 Bloods	53605	6.5
+Action,Adventure,Drama	The Tomorrow War	The Tomorrow War	215925	6.5
+Comedy,Fantasy,Romance	Kate & Leopold	Kate & Leopold	87043	6.4
+Adventure,Mystery,Sci-Fi	Star Trek: The Motion Picture	Star Trek: The Motion Picture	93689	6.4
+Horror,Mystery,Thriller	Friday the 13th	Friday the 13th	147077	6.4
+Adventure,Comedy	Spies Like Us	Spies Like Us	51511	6.4
+Comedy	The Money Pit	The Money Pit	59576	6.4
+Horror,Thriller	Hellbound: Hellraiser II	Hellbound: Hellraiser II	53416	6.4
+Adventure,Comedy,Family	Honey, I Shrunk the Kids	Honey, I Shrunk the Kids	160829	6.4
+Action,Sport,Thriller	Kickboxer	Kickboxer	58285	6.4
+Action,Comedy,Crime	Tango & Cash	Tango & Cash	109898	6.4
+Adventure,Comedy,Crime	Weekend at Bernie's	Weekend at Bernie's	60019	6.4
+Action,Sci-Fi,Thriller	Darkman	Darkman	67439	6.4
+Comedy,Fantasy,Horror	Gremlins 2: The New Batch	Gremlins 2: The New Batch	108441	6.4
+Action,Horror,Sci-Fi	Alien³	Alien³	308839	6.4
+Action,Adventure,Romance	The Three Musketeers	The Three Musketeers	57168	6.4
+Fantasy,Horror,Mystery	New Nightmare	Wes Craven's New Nightmare	61300	6.4
+Adventure,Comedy,Crime	Ace Ventura: When Nature Calls	Ace Ventura: When Nature Calls	225835	6.4
+Drama,Fantasy,Horror	The Craft	The Craft	100356	6.4
+Drama	Crash	Crash	63704	6.4
+Action,Adventure,Fantasy	DragonHeart	DragonHeart	99814	6.4
+Comedy	The First Wives Club	The First Wives Club	51749	6.4
+Action,Crime,Drama	Last Man Standing	Last Man Standing	59667	6.4
+Comedy,Sci-Fi	Mars Attacks!	Mars Attacks!	235452	6.4
+Drama,Fantasy,Romance	Phenomenon	Phenomenon	81735	6.4
+Comedy,Drama,Romance	Tin Cup	Tin Cup	52025	6.4
+Action,Crime,Drama	The Jackal	The Jackal	120865	6.4
+Action,Adventure,Sci-Fi	Star Trek: Insurrection	Star Trek: Insurrection	77597	6.4
+Adventure,Animation,Drama	Dinosaur	Dinosaur	64301	6.4
+Action,Thriller	The Siege	The Siege	75582	6.4
+Comedy,Drama	Big Daddy	Big Daddy	226140	6.4
+Action,Adventure,Thriller	The World Is Not Enough	The World Is Not Enough	205330	6.4
+Crime,Drama,Mystery	The General's Daughter	The General's Daughter	61933	6.4
+Adventure,Biography,Drama	The Messenger: The Story of Joan of Arc	Joan of Arc	68290	6.4
+Action,Drama,Thriller	Behind Enemy Lines	Behind Enemy Lines	109262	6.4
+Action,Drama,Thriller	The Sum of All Fears	The Sum of All Fears	120911	6.4
+Drama,Thriller	Along Came a Spider	Along Came a Spider	92421	6.4
+Comedy,Drama,Romance	Keeping the Faith	Keeping the Faith	52683	6.4
+Action,Adventure,Animation	Final Fantasy: The Spirits Within	Final Fantasy: The Spirits Within	83158	6.4
+Comedy,Fantasy,Romance	What Women Want	What Women Want	214726	6.4
+Action,Adventure,Fantasy	The Mummy Returns	The Mummy Returns	336217	6.4
+Crime,Horror,Sci-Fi	The Cell	The Cell	105925	6.4
+Comedy,Family,Romance	The Princess Diaries	The Princess Diaries	154761	6.4
+Comedy,Romance	Legally Blonde	Legally Blonde	231185	6.4
+Action,Adventure,Comedy	Rat Race	Rat Race	119776	6.4
+Comedy,Romance	How to Lose a Guy in 10 Days	How to Lose a Guy in 10 Days	252858	6.4
+Comedy	American Pie 2	American Pie 2	263306	6.4
+Action,Adventure,Sci-Fi	Star Trek: Nemesis	Star Trek: Nemesis	81921	6.4
+Drama,Horror,Mystery	Session 9	Session 9	60939	6.4
+Action,Crime,Drama	Basic	Basic	64654	6.4
+Drama,Horror,Mystery	The Mothman Prophecies	The Mothman Prophecies	82611	6.4
+Comedy,Romance	National Lampoon's Van Wilder	National Lampoon's Van Wilder	112716	6.4
+Action,Adventure,Sci-Fi	The Day After Tomorrow	The Day After Tomorrow	461645	6.4
+Action,Crime,Drama	The Punisher	The Punisher	165250	6.4
+Adventure,Animation,Comedy	Robots	Robots	155048	6.4
+Adventure,Animation,Comedy	Happy Feet	Happy Feet	193418	6.4
+Comedy,Drama,Romance	Spanglish	Spanglish	86664	6.4
+Crime,Mystery,Thriller	The Interpreter	The Interpreter	109268	6.4
+Comedy	Accepted	Accepted	136741	6.4
+Comedy,Drama,Fantasy	Click	Click	343578	6.4
+Comedy,Crime,Sport	The Longest Yard	The Longest Yard	187429	6.4
+Action,Crime,Drama	Chaos	Chaos	56279	6.4
+Comedy,Drama,Romance	Youth in Revolt	Youth in Revolt	75327	6.4
+Action,Horror,Sci-Fi	Daybreakers	Daybreakers	131934	6.4
+Drama,Romance,Sci-Fi	The Giver	The Giver	122406	6.4
+Action,Comedy,Drama	Hancock	Hancock	496811	6.4
+Action,Sci-Fi,Thriller	Death Race	Death Race	214253	6.4
+Comedy,Family	Mr. Bean's Holiday	Mr. Bean's Holiday	130050	6.4
+Horror,Thriller	The Hills Have Eyes	The Hills Have Eyes	177364	6.4
+Biography,Comedy,Drama	How to Lose Friends & Alienate People	How to Lose Friends & Alienate People	70325	6.4
+Crime,Mystery,Thriller	The Number 23	The Number 23	207787	6.4
+Comedy,Family,Sport	The Game Plan	The Game Plan	98091	6.4
+Comedy	Be Kind Rewind	Be Kind Rewind	92631	6.4
+Comedy,Romance	She's Out of My League	She's Out of My League	140530	6.4
+Action,Adventure,Sci-Fi	Godzilla	Godzilla	424468	6.4
+Action,Drama,Thriller	Snitch	Snitch	90578	6.4
+Action,Adventure,Animation	Monsters vs. Aliens	Monsters vs. Aliens	169828	6.4
+Action,Thriller	Salt	Salt	322575	6.4
+Adventure,Drama,Family	City of Ember	City of Ember	68131	6.4
+Comedy,Drama,Fantasy	17 Again	17 Again	208653	6.4
+Drama,Thriller	The Experiment	The Experiment	56116	6.4
+Comedy,Drama,Romance	He's Just Not That Into You	He's Just Not That Into You	178176	6.4
+Biography,Drama	The Iron Lady	The Iron Lady	111744	6.4
+Adventure,Family,Fantasy	Alice in Wonderland	Alice in Wonderland	426901	6.4
+Crime,Drama,History	Child 44	Child 44	73394	6.4
+Action,Crime,Thriller	The Taking of Pelham 123	The Taking of Pelham 123	202834	6.4
+Drama,Music,Musical	Burlesque	Burlesque	89804	6.4
+Comedy,Fantasy,Horror	Renfield	Renfield	54289	6.4
+Comedy,Romance	The Ugly Truth	The Ugly Truth	224858	6.4
+Action,Crime,Thriller	From Paris with Love	From Paris with Love	119576	6.4
+Action,Adventure,Western	The Lone Ranger	The Lone Ranger	239774	6.4
+Comedy,Romance	Leap Year	Leap Year	108058	6.4
+Comedy,Sci-Fi	Hot Tub Time Machine	Hot Tub Time Machine	180702	6.4
+Crime,Drama,Mystery	Solace	Solace	66189	6.4
+Action,Comedy,Crime	Army of Thieves	Army of Thieves	83022	6.4
+Action,Adventure,Thriller	The Expendables	The Expendables	354438	6.4
+Drama,Mystery,Romance	The Lucky One	The Lucky One	111367	6.4
+Comedy,Crime,Thriller	Stand Up Guys	Stand Up Guys	56757	6.4
+Action,Adventure,Sci-Fi	Riddick	Riddick	173389	6.4
+Action,Adventure,Fantasy	Predators	Predators	237759	6.4
+Action,Crime,Drama	Faster	Faster	110086	6.4
+Comedy,Horror	Fright Night	Fright Night	110003	6.4
+Drama,Fantasy,Romance	Charlie St. Cloud	Charlie St. Cloud	63666	6.4
+Action,Crime,Thriller	Killer Elite	Killer Elite	133200	6.4
+Adventure,Drama,Romance	Monsters	Monsters	94812	6.4
+Adventure,Animation,Comedy	The Lorax	The Lorax	122421	6.4
+Crime,Mystery,Thriller	The Raven	The Raven	87187	6.4
+Action,Adventure,Crime	Contraband	Contraband	124789	6.4
+Comedy,Crime,Drama	Horns	Horns	85878	6.4
+Drama	Everything Must Go	Everything Must Go	52195	6.4
+Thriller	Fall	Fall	86670	6.4
+Comedy,Romance	Just Go with It	Just Go with It	254492	6.4
+Biography,Drama,Romance	A Dangerous Method	A Dangerous Method	106235	6.4
+Action,Adventure,Thriller	Act of Valor	Act of Valor	70511	6.4
+Drama,Fantasy,Horror	The Woman in Black	The Woman in Black	188223	6.4
+Action,Crime,Drama	Savages	Savages	132526	6.4
+Comedy,Drama	Our Idiot Brother	Our Idiot Brother	89447	6.4
+Comedy	The Dictator	The Dictator	320294	6.4
+Action,Comedy,Sport	Here Comes the Boom	Here Comes the Boom	93635	6.4
+Action,Drama,Thriller	Colombiana	Colombiana	104394	6.4
+Comedy,Drama,Sport	Grudge Match	Grudge Match	61846	6.4
+Comedy,Romance	The DUFF	The Duff	98409	6.4
+Adventure,Animation,Comedy	Trolls	Trolls	86433	6.4
+Drama,Horror,Mystery	The Awakening	The Awakening	67873	6.4
+Drama,Fantasy,Mystery	Before I Fall	Before I Fall	54836	6.4
+Drama,Music,Romance	Step Up Revolution	Step Up Revolution	57299	6.4
+Adventure,Animation,Comedy	Turbo	Turbo	104458	6.4
+Action,Comedy,Crime	Let's Be Cops	Let's Be Cops	137439	6.4
+Action,Adventure,Family	Tomorrowland	Tomorrowland	186866	6.4
+Action,Comedy,Crime	Pain & Gain	Pain & Gain	223389	6.4
+Biography,Crime,Drama	The Frozen Ground	The Frozen Ground	65325	6.4
+Adventure,Drama,Mystery	Europa Report	Europa Report	73336	6.4
+Action,Crime,Drama	Dead Man Down	Dead Man Down	69205	6.4
+Drama,Thriller	The Mountain Between Us	The Mountain Between Us	78295	6.4
+Action,Adventure,Fantasy	Valerian and the City of a Thousand Planets	Valerian and the City of a Thousand Planets	189660	6.4
+Adventure,Animation,Comedy	Minions	Minions	248311	6.4
+Horror,Sci-Fi,Thriller	Alien: Covenant	Alien: Covenant	291184	6.4
+Action,Crime,Drama	Live by Night	Live by Night	58705	6.4
+Action,Adventure,Crime	Need for Speed	Need for Speed	174755	6.4
+Animation,Comedy,Family	The Grinch	The Grinch	78418	6.4
+Comedy,Music	Pitch Perfect 2	Pitch Perfect 2	164183	6.4
+Action,Sci-Fi,Thriller	Lucy	Lucy	514176	6.4
+Action,Horror,Sci-Fi	The Purge: Anarchy	The Purge: Anarchy	157274	6.4
+Action,Adventure,Sci-Fi	Batman v Superman: Dawn of Justice	Batman v Superman: Dawn of Justice	714939	6.4
+Action,Adventure,Comedy	Now You See Me 2	Now You See Me 2	305066	6.4
+Crime,Drama,Mystery	Luther: The Fallen Sun	Luther: The Fallen Sun	54101	6.4
+Comedy,Fantasy	The Night Before	The Night Before	78940	6.4
+Action,Crime,Drama	Blood Father	Blood Father	66193	6.4
+Drama,Romance,Sci-Fi	The Space Between Us	The Space Between Us	54797	6.4
+Thriller	Fractured	Fractured	83958	6.4
+Action,Comedy,Crime	Shaft	Shaft	56333	6.4
+Drama,Mystery,Thriller	Luckiest Girl Alive	Luckiest Girl Alive	51826	6.4
+Drama,Fantasy,Horror	A Cure for Wellness	A Cure for Wellness	104624	6.4
+Action,Animation,Crime	Batman: The Killing Joke	Batman: The Killing Joke	59517	6.4
+Adventure,Animation,Comedy	The Secret Life of Pets 2	The Secret Life of Pets 2	65669	6.4
+Comedy,Fantasy,Romance	When We First Met	When We First Met	51696	6.4
+Action,Adventure,Horror	Escape Room	Escape Room	132598	6.4
+Action,Thriller	Angel Has Fallen	Angel Has Fallen	103969	6.4
+Action,Thriller	Greenland	Greenland	124831	6.4
+Horror,Sci-Fi,Thriller	M3GAN	M3GAN	109922	6.4
+Action,Adventure,Sci-Fi	Dune	Dune	166565	6.3
+Action,Drama,Thriller	Red Dawn	Red Dawn	60411	6.3
+Comedy,Fantasy,Romance	Splash	Splash	80426	6.3
+Adventure,Fantasy,Romance	Legend	Legend	69280	6.3
+Action,Adventure,Thriller	A View to a Kill	A View to a Kill	101463	6.3
+Action,Horror,Sci-Fi	Predator 2	Predator 2	175477	6.3
+Adventure,Comedy,Fantasy	Bill & Ted's Bogus Journey	Bill & Ted's Bogus Journey	78728	6.3
+Action,Drama,Music	The Bodyguard	The Bodyguard	141757	6.3
+Comedy,Family,Romance	The Little Rascals	The Little Rascals	53193	6.3
+Action,Crime,Thriller	Assassins	Assassins	86044	6.3
+Comedy	Billy Madison	Billy Madison	150719	6.3
+Action,Adventure,Sci-Fi	Waterworld	Waterworld	203044	6.3
+Comedy,Drama,Romance	My Best Friend's Wedding	My Best Friend's Wedding	148435	6.3
+Comedy	Romy and Michele's High School Reunion	Romy and Michele's High School Reunion	50496	6.3
+Horror,Mystery	Scream 2	Scream 2	198621	6.3
+Comedy,Drama,Fantasy	Practical Magic	Practical Magic	87079	6.3
+Action,Crime,Romance	Entrapment	Entrapment	120647	6.3
+Comedy,Crime,Romance	Intolerable Cruelty	Intolerable Cruelty	99905	6.3
+Comedy,Family,Fantasy	How the Grinch Stole Christmas	How the Grinch Stole Christmas	269414	6.3
+Action,Comedy,Crime	Blue Streak	Blue Streak	86244	6.3
+Action,Sci-Fi	Terminator 3: Rise of the Machines	Terminator 3: Rise of the Machines	409124	6.3
+Action,Comedy,Crime	Miss Congeniality	Miss Congeniality	219879	6.3
+Action,Comedy,Crime	Formula 51	The 51st State	50259	6.3
+Action,Drama,Thriller	Proof of Life	Proof of Life	58105	6.3
+Drama,War	Hart's War	Hart's War	54304	6.3
+Drama,Mystery,Thriller	Don't Say a Word	Don't Say a Word	55463	6.3
+Action,Crime,Thriller	Once Upon a Time in Mexico	Once Upon a Time in Mexico	166338	6.3
+Comedy,Romance	Meet the Fockers	Meet the Fockers	278762	6.3
+Crime,Horror,Thriller	Mindhunters	Mindhunters	62768	6.3
+Comedy,Family,Fantasy	Freaky Friday	Freaky Friday	145628	6.3
+Comedy,Family,Fantasy	Ella Enchanted	Ella Enchanted	71606	6.3
+Comedy	American Wedding	American Wedding	212000	6.3
+Comedy,Fantasy,Romance	13 Going on 30	13 Going on 30	203254	6.3
+Action,Mystery,Sci-Fi	Paycheck	Paycheck	111109	6.3
+Action,Adventure,Drama	King Arthur	King Arthur	172150	6.3
+Comedy,Drama,Romance	The Family Stone	The Family Stone	71005	6.3
+Comedy,Romance,Sport	Wimbledon	Wimbledon	65430	6.3
+Action,Crime,Drama	Revolver	Revolver	99389	6.3
+Comedy,Drama,Romance	Elizabethtown	Elizabethtown	71533	6.3
+Action,Crime,Thriller	Transporter 2	Transporter 2	209230	6.3
+Action,Crime,Drama	Assault on Precinct 13	Assault on Precinct 13	80648	6.3
+Action,Comedy,Family	Sky High	Sky High	91252	6.3
+Drama,Mystery,Thriller	Flightplan	Flightplan	166993	6.3
+Action,Adventure,Sci-Fi	Spider-Man 3	Spider-Man 3	611723	6.3
+Action,Adventure,Animation	Beowulf	Beowulf	171104	6.3
+Comedy,Sport	Blades of Glory	Blades of Glory	173617	6.3
+Comedy,Romance,Sport	She's the Man	She's the Man	167384	6.3
+Comedy,Drama,Mystery	Hail, Caesar!	Hail, Caesar!	139393	6.3
+Comedy,Drama,Romance	No Reservations	No Reservations	76813	6.3
+Comedy,Drama,Romance	Take Me Home Tonight	Take Me Home Tonight	54360	6.3
+Drama,Fantasy,Horror	The Uninvited	The Uninvited	82739	6.3
+Action,Horror,Thriller	The Collector	The Collector	68874	6.3
+Adventure,Animation,Comedy	Shrek Forever After	Shrek Forever After	215788	6.3
+Adventure,Family,Fantasy	The Chronicles of Narnia: The Voyage of the Dawn Treader	The Chronicles of Narnia: The Voyage of the Dawn Treader	160269	6.3
+Action,Sci-Fi,Thriller	Surrogates	Surrogates	177939	6.3
+Drama,Mystery,Romance	Dear John	Dear John	153705	6.3
+Crime,Drama,Mystery	The Little Things	The Little Things	112409	6.3
+Action,Adventure,Comedy	Knight and Day	Knight and Day	203521	6.3
+Action,Drama,History	Centurion	Centurion	84617	6.3
+Adventure,Comedy,Fantasy	Goosebumps	Goosebumps	92059	6.3
+Action,Sci-Fi,Thriller	Repo Men	Repo Men	109104	6.3
+Comedy,Fantasy,Romance	The Invention of Lying	The Invention of Lying	145247	6.3
+Drama,Thriller	Don't Worry Darling	Don't Worry Darling	118477	6.3
+Comedy,Romance	Love Hard	Love Hard	56766	6.3
+Comedy,Horror,Thriller	Freaky	Freaky	65941	6.3
+Action,Drama,Sport	Toofaan	Toofaan	51816	6.3
+Horror,Mystery,Thriller	Scream	Scream	139357	6.3
+Action,Crime,Drama	Death Wish	Death Wish	74251	6.3
+Crime,Drama,Mystery	All Good Things	All Good Things	57901	6.3
+Horror,Mystery	Paranormal Activity	Paranormal Activity	247991	6.3
+Action,Thriller	Ninja Assassin	Ninja Assassin	74021	6.3
+Comedy,Drama	Funny People	Funny People	121708	6.3
+Action,Crime,Drama	Ghost in the Shell	Ghost in the Shell	221483	6.3
+Comedy,Music	Get Him to the Greek	Get Him to the Greek	182567	6.3
+Comedy	Anchorman 2: The Legend Continues	Anchorman 2: The Legend Continues	187358	6.3
+Comedy,Crime,Romance	Date Night	Date Night	167496	6.3
+Horror,Mystery,Thriller	Devil	Devil	152077	6.3
+Comedy,Romance	Going the Distance	Going the Distance	59329	6.3
+Action,Adventure,Sci-Fi	Terminator Genisys	Terminator Genisys	285501	6.3
+Action,Adventure,Fantasy	Jack the Giant Slayer	Jack the Giant Slayer	143117	6.3
+Drama,Mystery,Thriller	Chloe	Chloe	75769	6.3
+Action,Adventure,Fantasy	Tomb Raider	Tomb Raider	220348	6.3
+Drama,Fantasy,Romance	Upside Down	Upside Down	73015	6.3
+Action,Crime,Drama	The American	The American	100135	6.3
+Drama,Horror,Mystery	Under the Skin	Under the Skin	150205	6.3
+Action,Adventure	Uncharted	Uncharted	231066	6.3
+Comedy,Fantasy	The Change-Up	The Change-Up	189711	6.3
+Action,Comedy,Crime	Central Intelligence	Central Intelligence	201720	6.3
+Action,Fantasy,Horror	Underworld: Awakening	Underworld: Awakening	158127	6.3
+Action,Thriller,Western	The Last Stand	The Last Stand	142838	6.3
+Comedy,Crime,Horror	The Voices	The Voices	59930	6.3
+Action,Mystery,Thriller	The Commuter	The Commuter	120130	6.3
+Action,Comedy,Romance	This Means War	This Means War	190849	6.3
+Adventure,Family,Fantasy	Oz the Great and Powerful	Oz the Great and Powerful	211392	6.3
+Comedy,Drama	Young Adult	Young Adult	86008	6.3
+Action,Adventure,Comedy	Johnny English Reborn	Johnny English Reborn	135956	6.3
+Action,Crime,Thriller	Triple 9	Triple 9	74640	6.3
+Drama,Mystery,Thriller	Before I Go to Sleep	Before I Go to Sleep	81434	6.3
+Action,Comedy,Horror	Scouts Guide to the Zombie Apocalypse	Scouts Guide to the Zombie Apocalypse	52713	6.3
+Comedy,Drama	While We're Young	While We're Young	52030	6.3
+Mystery,Romance,Thriller	The Loft	The Loft	58293	6.3
+Comedy,Music,Romance	To Rome with Love	To Rome with Love	89480	6.3
+Adventure,Animation,Comedy	Cloudy with a Chance of Meatballs 2	Cloudy with a Chance of Meatballs 2	109342	6.3
+Comedy	Neighbors	Neighbors	320133	6.3
+Action,Comedy,Romance	Mr. Right	Mr. Right	58390	6.3
+Action,Adventure,Sci-Fi	Spectral	Spectral	62029	6.3
+Comedy,Romance	Two Night Stand	Two Night Stand	72319	6.3
+Comedy,Crime	Horrible Bosses 2	Horrible Bosses 2	179172	6.3
+Comedy	The Internship	The Internship	209911	6.3
+Biography,Crime,Drama	True Story	True Story	70638	6.3
+Biography,Drama,History	Mary Queen of Scots	Mary Queen of Scots	52916	6.3
+Action,Drama,Thriller	White House Down	White House Down	229436	6.3
+Adventure,Animation,Comedy	Rio 2	Rio 2	95688	6.3
+Horror,Sci-Fi,Thriller	Dark Skies	Dark Skies	77871	6.3
+Comedy,Drama	Delivery Man	Delivery Man	81350	6.3
+Comedy,Crime,Thriller	The Family	The Family	120230	6.3
+Horror,Thriller	Creep	Creep	61336	6.3
+Drama,Mystery,Sci-Fi	Project Almanac	Project Almanac	82207	6.3
+Comedy	Ted 2	Ted 2	220401	6.3
+Action,Sci-Fi,Thriller	Criminal	Criminal	68409	6.3
+Adventure,Family,Fantasy	The BFG	The BFG	89812	6.3
+Adventure,Family,Fantasy	Dumbo	Dumbo	79512	6.3
+Adventure,Animation,Comedy	The Boss Baby	The Boss Baby	134296	6.3
+Action,Adventure,Sci-Fi	Maze Runner: The Scorch Trials	Maze Runner: The Scorch Trials	262389	6.3
+Action,Drama,Horror	The Shallows	The Shallows	138489	6.3
+Action,Thriller	Polar	Polar	94693	6.3
+Comedy,Horror	The Babysitter	The Babysitter	101068	6.3
+Horror,Mystery	Lights Out	Lights Out	136305	6.3
+Action,Sci-Fi,Thriller	Godzilla vs. Kong	Godzilla vs. Kong	221547	6.3
+Action,Comedy,Crime	Ocean's Eight	Ocean's Eight	230555	6.3
+Adventure,Animation,Comedy	Hotel Transylvania 3: Summer Vacation	Hotel Transylvania 3: Summer Vacation	79564	6.3
+Comedy,Crime,Drama	Hustlers	Hustlers	104223	6.3
+Action,Fantasy,Thriller	Bright	Bright	195822	6.3
+Drama,History,Thriller	The Beguiled	The Beguiled	59675	6.3
+Horror,Mystery,Thriller	The Ritual	The Ritual	109661	6.3
+Comedy,Crime,Drama	The Laundromat	The Laundromat	53149	6.3
+Drama,Fantasy,Horror	Apostle	Apostle	55983	6.3
+Action,Adventure,Fantasy	Black Adam	Black Adam	250624	6.3
+Action,Adventure,Thriller	The King's Man	The King's Man	159574	6.3
+Action,Comedy,Crime	Guns Akimbo	Guns Akimbo	65289	6.3
+Horror,Mystery,Thriller	The Conjuring: The Devil Made Me Do It	The Conjuring: The Devil Made Me Do It	125885	6.3
+Crime,Drama,Mystery	Death on the Nile	Death on the Nile	163156	6.3
+Action,Comedy,Thriller	Operation Fortune: Ruse de Guerre	Operation Fortune: Ruse de Guerre	62170	6.3
+Action,Comedy,Thriller	Red Notice	Red Notice	293900	6.3
+Crime,Drama	The Many Saints of Newark	The Many Saints of Newark	58425	6.3
+Action,Adventure,Fantasy	Eternals	Eternals	362381	6.3
+Crime,Drama,Thriller	The Guilty	The Guilty	136798	6.3
+Comedy,Crime,Drama	I Care a Lot	I Care a Lot	138617	6.3
+Action,Adventure,Sci-Fi	Moonraker	Moonraker	105049	6.2
+Drama,Music,Romance	Flashdance	Flashdance	56953	6.2
+Action,Adventure,Sci-Fi	Mad Max Beyond Thunderdome	Mad Max Beyond Thunderdome	142293	6.2
+Adventure,Comedy	National Lampoon's European Vacation	National Lampoon's European Vacation	69195	6.2
+Comedy,Crime,Drama	Turner & Hooch	Turner & Hooch	73880	6.2
+Action,Comedy,Crime	Dick Tracy	Dick Tracy	63974	6.2
+Action,Comedy,Crime	Kindergarten Cop	Kindergarten Cop	156957	6.2
+Drama,Thriller	Sleeping with the Enemy	Sleeping with the Enemy	61823	6.2
+Action,Crime,Thriller	Hard Target	Hard Target	53974	6.2
+Comedy,Music	Wayne's World 2	Wayne's World 2	85739	6.2
+Adventure,Comedy,Crime	Baby's Day Out	Baby's Day Out	53477	6.2
+Drama,Horror,Romance	Wolf	Wolf	58360	6.2
+Crime,Drama,Romance	Hackers	Hackers	72057	6.2
+Action,Crime,Thriller	Eraser	Eraser	115427	6.2
+Drama,Thriller	Fear	Fear	51435	6.2
+Action,Crime,Drama	The Devil's Own	The Devil's Own	68725	6.2
+Action,Adventure,Romance	The Saint	The Saint	70719	6.2
+Action,Drama,Sci-Fi	Deep Impact	Deep Impact	183891	6.2
+Comedy,Music,Romance	A Night at the Roxbury	A Night at the Roxbury	62658	6.2
+Action,Adventure,Comedy	Men in Black II	Men in Black II	388661	6.2
+Action,Adventure,Comedy	Small Soldiers	Small Soldiers	102695	6.2
+Comedy,Crime,Romance	Heartbreakers	Heartbreakers	56474	6.2
+Horror,Mystery	Stigmata	Stigmata	70464	6.2
+Comedy	Scary Movie	Scary Movie	272577	6.2
+Drama,Music,Romance	Save the Last Dance	Save the Last Dance	64269	6.2
+Action,Drama,History	Pearl Harbor	Pearl Harbor	342158	6.2
+Action,Adventure,Fantasy	Reign of Fire	Reign of Fire	141318	6.2
+Comedy,Romance	Sweet Home Alabama	Sweet Home Alabama	118573	6.2
+Horror,Mystery	Jeepers Creepers	Jeepers Creepers	135847	6.2
+Comedy,Drama	Orange County	Orange County	51142	6.2
+Action,Adventure,Comedy	Johnny English	Johnny English	167446	6.2
+Comedy,Fantasy	How High	How High	60324	6.2
+Comedy	Ali G Indahouse	Ali G Indahouse	93843	6.2
+Action,Comedy,Crime	Rush Hour 3	Rush Hour 3	176011	6.2
+Action,Adventure,Comedy	Austin Powers in Goldmember	Austin Powers in Goldmember	216699	6.2
+Comedy,Drama,Romance	Jersey Girl	Jersey Girl	68093	6.2
+Action,Adventure,Comedy	Shanghai Knights	Shanghai Knights	109732	6.2
+Comedy	Anger Management	Anger Management	221988	6.2
+Drama,Mystery,Romance	Solaris	Solaris	84727	6.2
+Horror,Thriller	Final Destination 2	Final Destination 2	174470	6.2
+Horror	The Texas Chainsaw Massacre	The Texas Chainsaw Massacre	147454	6.2
+Comedy,Crime,Thriller	The Ladykillers	The Ladykillers	107091	6.2
+Action,Crime	Walking Tall	Walking Tall	87351	6.2
+Crime,Mystery,Thriller	Taking Lives	Taking Lives	92962	6.2
+Action,Adventure	Indiana Jones and the Kingdom of the Crystal Skull	Indiana Jones and the Kingdom of the Crystal Skull	471971	6.2
+Comedy,Crime	Fun with Dick and Jane	Fun with Dick and Jane	149665	6.2
+Comedy,Drama,Romance	Alfie	Alfie	54065	6.2
+Action,Adventure,Comedy	Zathura: A Space Adventure	Zathura: A Space Adventure	110161	6.2
+Horror,Thriller	Wolf Creek	Wolf Creek	75768	6.2
+Horror,Sci-Fi,Thriller	Land of the Dead	Land of the Dead	98835	6.2
+Action,Horror,Sci-Fi	Resident Evil: Extinction	Resident Evil: Extinction	200803	6.2
+Comedy,Romance	Just Friends	Just Friends	122759	6.2
+Action,Sci-Fi,Thriller	Next	Next	162770	6.2
+Action,Mystery,Sci-Fi	Knowing	Knowing	241134	6.2
+Horror,Thriller	Vacancy	Vacancy	104270	6.2
+Action,Adventure,Animation	TMNT	TMNT	66500	6.2
+Action,Adventure,Sci-Fi	Outlander	Outlander	77140	6.2
+Action,Crime,Thriller	Hitman	Hitman	174323	6.2
+Action,Comedy,Crime	Tower Heist	Tower Heist	148214	6.2
+Action,Adventure,Comedy	The Losers	The Losers	104848	6.2
+Comedy	Beerfest	Beerfest	70206	6.2
+Comedy,Drama,Romance	The Nanny Diaries	The Nanny Diaries	62178	6.2
+Horror,Mystery,Thriller	Saw III	Saw III	200375	6.2
+Action,Crime,Thriller	War	War	94334	6.2
+Horror,Mystery,Thriller	Case 39	Case 39	90535	6.2
+Action,Drama,Fantasy	Dracula Untold	Dracula Untold	201830	6.2
+Crime,Mystery,Thriller	Untraceable	Untraceable	51971	6.2
+Crime,Drama,Mystery	Lions for Lambs	Lions for Lambs	51366	6.2
+Horror,Mystery,Sci-Fi	The Thing	The Thing	140333	6.2
+Action,Adventure,Drama	The Legend of Tarzan	The Legend of Tarzan	181895	6.2
+Crime,Drama,Thriller	Lakeview Terrace	Lakeview Terrace	54068	6.2
+Drama,Music,Romance	Step Up 2: The Streets	Step Up 2: The Streets	89425	6.2
+Drama	Wall Street: Money Never Sleeps	Wall Street: Money Never Sleeps	104808	6.2
+Action,Adventure,Drama	The Eagle	The Eagle	72170	6.2
+Action,Adventure,Comedy	Thor: Love and Thunder	Thor: Love and Thunder	368536	6.2
+Comedy,Fantasy,Horror	Dark Shadows	Dark Shadows	273726	6.2
+Action,Crime,Drama	Takers	Takers	64414	6.2
+Action,Drama,Family	The Karate Kid	The Karate Kid	194676	6.2
+Drama,Music,Romance	Step Up 3D	Step Up 3D	59283	6.2
+Comedy,Drama,Romance	The Five-Year Engagement	The Five-Year Engagement	100815	6.2
+Comedy,Drama,Family	Diary of a Wimpy Kid	Diary of a Wimpy Kid	54365	6.2
+Action,Drama,Thriller	Jack Ryan: Shadow Recruit	Jack Ryan: Shadow Recruit	135392	6.2
+Adventure,Animation,Comedy	Cars 2	Cars 2	202975	6.2
+Comedy,War	The Men Who Stare at Goats	The Men Who Stare at Goats	135359	6.2
+Drama,Fantasy,Mystery	Dorian Gray	Dorian Gray	66594	6.2
+Horror,Thriller	I Spit on Your Grave	I Spit on Your Grave	88388	6.2
+Action,Drama	300: Rise of an Empire	300: Rise of an Empire	308742	6.2
+Comedy,Horror,Mystery	Scream 4	Scream 4	162670	6.2
+Adventure,Comedy	A Very Harold & Kumar Christmas	A Very Harold & Kumar 3D Christmas	71334	6.2
+Action,Thriller	The Boondock Saints II: All Saints Day	The Boondock Saints II: All Saints Day	65817	6.2
+Adventure,Drama,Mystery	Frozen	Frozen	77084	6.2
+Action,Drama,Fantasy	47 Ronin	47 Ronin	166079	6.2
+Action,Adventure,Sci-Fi	Total Recall	Total Recall	260440	6.2
+Action,Crime,Thriller	Taken 2	Taken 2	314630	6.2
+Action,Adventure,Sci-Fi	Transformers: Dark of the Moon	Transformers: Dark of the Moon	421067	6.2
+Comedy,Romance	No Strings Attached	No Strings Attached	237483	6.2
+Comedy,Family	Daddy's Home	Daddy's Home	124631	6.2
+Drama,Fantasy,Mystery	Red Lights	Red Lights	63617	6.2
+Comedy,Drama,Romance	This Is 40	This Is 40	146662	6.2
+Crime,Drama,Thriller	Killing Them Softly	Killing Them Softly	148883	6.2
+Action,Crime,Thriller	Parker	Parker	126224	6.2
+Action,Thriller	American Assassin	American Assassin	86042	6.2
+Fantasy,Horror,Thriller	Mama	Mama	186552	6.2
+Action,Drama,Thriller	3 Days to Kill	3 Days to Kill	95749	6.2
+Action,Drama,Sci-Fi	Transcendence	Transcendence	233972	6.2
+Action,Adventure,Crime	Deliver Us from Evil	Deliver Us from Evil	81193	6.2
+Action,Thriller	The November Man	The November Man	69338	6.2
+Comedy,Drama	Blockers	Blockers	82299	6.2
+Adventure,Family,Fantasy	Alice Through the Looking Glass	Alice Through the Looking Glass	115515	6.2
+Adventure,Comedy,Family	Night at the Museum: Secret of the Tomb	Night at the Museum: Secret of the Tomb	129364	6.2
+Horror,Mystery,Thriller	As Above, So Below	As Above, So Below	101869	6.2
+Action,Adventure,Crime	Inferno	Inferno	182958	6.2
+Comedy,Drama,Romance	Trainwreck	Trainwreck	139763	6.2
+Adventure,Horror,Mystery	Scary Stories to Tell in the Dark	Scary Stories to Tell in the Dark	80704	6.2
+Adventure,Animation,Comedy	Despicable Me 3	Despicable Me 3	143905	6.2
+Horror,Mystery,Thriller	The Visit	The Visit	142598	6.2
+Adventure,Comedy,Drama	Paper Towns	Paper Towns	105713	6.2
+Crime,Horror,Mystery	Malignant	Malignant	99350	6.2
+Comedy,Drama,Fantasy	Krampus	Krampus	79090	6.2
+Adventure,Family,Fantasy	Fantastic Beasts: The Secrets of Dumbledore	Fantastic Beasts: The Secrets of Dumbledore	154654	6.2
+Action,Comedy,Crime	Keanu	Keanu	50673	6.2
+Drama,Horror,Mystery	Ouija: Origin of Evil	Ouija: Origin of Evil	68811	6.2
+Action,Adventure,Sci-Fi	Maze Runner: The Death Cure	Maze Runner: The Death Cure	150927	6.2
+Comedy	Why Him?	Why Him?	118923	6.2
+Comedy	Bad Moms	Bad Moms	130418	6.2
+Comedy,Drama,Fantasy	Colossal	Colossal	67151	6.2
+Drama,Horror,Mystery	It Comes at Night	It Comes at Night	98262	6.2
+Horror,Mystery,Sci-Fi	Color Out of Space	Color Out of Space	52303	6.2
+Action,Comedy,Crime	Cold Pursuit	Cold Pursuit	72830	6.2
+Crime,Drama,Horror	1922	1922	67842	6.2
+Action,Adventure,Sci-Fi	Terminator: Dark Fate	Terminator: Dark Fate	185654	6.2
+Drama,Horror,Mystery	Fear Street: Part One - 1994	Fear Street: 1994	87200	6.2
+Action,Adventure,Comedy	Johnny English Strikes Again	Johnny English Strikes Again	78199	6.2
+Action,Adventure,Crime	Kate	Kate	66466	6.2
+Action,Crime,Mystery	In the Shadow of the Moon	In the Shadow of the Moon	56834	6.2
+Comedy,Horror,Thriller	Bodies Bodies Bodies	Bodies Bodies Bodies	53108	6.2
+Comedy,Horror,Mystery	Happy Death Day 2U	Happy Death Day 2 U	79995	6.2
+Action,Comedy,Crime	Spenser Confidential	Spenser Confidential	93265	6.2
+Horror,Mystery,Thriller	Friday the 13th Part 2	Friday the 13th Part 2	72699	6.1
+Comedy,Sci-Fi	Airplane II: The Sequel	Airplane II: The Sequel	54795	6.1
+Action,Adventure,Thriller	Never Say Never Again	Never Say Never Again	70553	6.1
+Action,Adventure,Comedy	The Jewel of the Nile	The Jewel of the Nile	60120	6.1
+Comedy,Fantasy,Romance	Teen Wolf	Teen Wolf	57087	6.1
+Action,Family,Sport	The Karate Kid Part II	The Karate Kid Part II	94666	6.1
+Comedy,Drama,Family	Three Men and a Baby	3 Men and a Baby	55909	6.1
+Action,Comedy,Crime	Red Heat	Red Heat	73677	6.1
+Comedy,Crime	Twins	Twins	132047	6.1
+Action,Drama,Sport	Days of Thunder	Days of Thunder	92739	6.1
+Action,Sci-Fi	Universal Soldier	Universal Soldier	93224	6.1
+Comedy,Crime,Music	Airheads	Airheads	54145	6.1
+Drama,Thriller	Disclosure	Disclosure	52623	6.1
+Comedy,Family,Fantasy	Casper	Casper	139840	6.1
+Action,Adventure,Thriller	Broken Arrow	Broken Arrow	102372	6.1
+Comedy,Drama,Thriller	The Cable Guy	The Cable Guy	171989	6.1
+Action,Adventure,Drama	The Postman	The Postman	76122	6.1
+Action,Mystery,Sci-Fi	Sphere	Sphere	109501	6.1
+Comedy,Sport	The Waterboy	The Waterboy	171491	6.1
+Action,Crime,Drama	Mercury Rising	Mercury Rising	76223	6.1
+Action,Adventure,Thriller	Mission: Impossible II	Mission: Impossible II	355453	6.1
+Crime,Mystery,Thriller	Snake Eyes	Snake Eyes	84344	6.1
+Action,Horror,Thriller	Vampires	Vampires	61622	6.1
+Action,Comedy,Fantasy	Mystery Men	Mystery Men	68988	6.1
+Action,Crime,Thriller	Romeo Must Die	Romeo Must Die	72241	6.1
+Action,Crime,Drama	15 Minutes	15 Minutes	51236	6.1
+Comedy,Drama	28 Days	28 Days	52267	6.1
+Comedy,Romance,Sport	Bring It On	Bring It On	100916	6.1
+Comedy,Fantasy	Bedazzled	Bedazzled	109003	6.1
+Adventure,Comedy,Drama	The Mexican	The Mexican	110859	6.1
+Action,Drama,War	Windtalkers	Windtalkers	71492	6.1
+Action,Adventure,Thriller	Die Another Day	Die Another Day	224032	6.1
+Comedy,Sci-Fi	Evolution	Evolution	132656	6.1
+Comedy,Drama,Sci-Fi	S1m0ne	S1m0ne	61618	6.1
+Crime,Mystery,Thriller	Murder by Numbers	Murder by Numbers	60229	6.1
+Action,Adventure,Fantasy	Mortal Kombat	Mortal Kombat	182161	6.1
+Horror,Thriller	Wrong Turn	Wrong Turn	126156	6.1
+Comedy,Romance	Two Weeks Notice	Two Weeks Notice	122281	6.1
+Action,Horror,Sci-Fi	Resident Evil: Apocalypse	Resident Evil: Apocalypse	205043	6.1
+Comedy,Crime	Starsky & Hutch	Starsky & Hutch	151316	6.1
+Action,Adventure,Mystery	Sky Captain and the World of Tomorrow	Sky Captain and the World of Tomorrow	86277	6.1
+Action,Adventure,Sci-Fi	Superman Returns	Superman Returns	287897	6.1
+Adventure,Crime,Drama	Hannibal Rising	Hannibal Rising	113225	6.1
+Comedy,Romance	The Wedding Date	The Wedding Date	54888	6.1
+Comedy,Drama	The Rum Diary	The Rum Diary	106692	6.1
+Action,Adventure,Drama	Flight of the Phoenix	Flight of the Phoenix	55708	6.1
+Adventure,Family,Fantasy	The Golden Compass	The Golden Compass	192918	6.1
+Adventure,Animation,Comedy	Bee Movie	Bee Movie	171080	6.1
+Adventure,Animation,Comedy	Open Season	Open Season	101593	6.1
+Adventure,Animation,Comedy	Shrek the Third	Shrek the Third	320061	6.1
+Action,Crime,Thriller	The Sentinel	The Sentinel	51072	6.1
+Horror,Mystery,Thriller	Dead Silence	Dead Silence	98272	6.1
+Action,Sci-Fi,Thriller	Push	Push	113839	6.1
+Horror,Mystery,Thriller	The Strangers	The Strangers	136603	6.1
+Action,Adventure,Sci-Fi	Jumper	Jumper	314624	6.1
+Adventure,Family,Fantasy	Inkheart	Inkheart	80386	6.1
+Horror,Mystery	Mirrors	Mirrors	110733	6.1
+Action,Adventure,Comedy	Speed Racer	Speed Racer	76380	6.1
+Action,Crime,Horror	Red State	Red State	65900	6.1
+Comedy,Drama,Romance	The Switch	The Switch	109430	6.1
+Action,Adventure,Family	The Sorcerer's Apprentice	The Sorcerer's Apprentice	166306	6.1
+Action,Adventure,Fantasy	Solomon Kane	Solomon Kane	75013	6.1
+Action,Adventure,Fantasy	Justice League	Justice League	465163	6.1
+Comedy,Romance	27 Dresses	27 Dresses	169513	6.1
+Comedy	Wild Child	Wild Child	60951	6.1
+Action,Adventure,Animation	Lightyear	Lightyear	115417	6.1
+Comedy,Drama,History	Amsterdam	Amsterdam	79229	6.1
+Comedy,Romance	What Happens in Vegas	What Happens in Vegas	182141	6.1
+Horror,Thriller	The Belko Experiment	The Belko Experiment	54454	6.1
+Action,Adventure,Comedy	Ant-Man and the Wasp: Quantumania	Ant-Man and the Wasp: Quantumania	185757	6.1
+Action,Crime,Thriller	Crank: High Voltage	Crank: High Voltage	154548	6.1
+Comedy,Crime,Romance	Duplicity	Duplicity	51563	6.1
+Action,Crime,Thriller	Rambo: Last Blood	Rambo: Last Blood	104028	6.1
+Action,Crime,Sci-Fi	RoboCop	RoboCop	234256	6.1
+Action,Crime,Drama	Broken City	Broken City	82267	6.1
+Comedy,Drama,Romance	How to Be Single	How to Be Single	91355	6.1
+Action,Crime,Thriller	Blitz	Blitz	89136	6.1
+Action,Comedy,Fantasy	Day Shift	Day Shift	84000	6.1
+Action,Adventure,Comedy	The Lost City	The Lost City	135845	6.1
+Drama,Fantasy,Horror	Men	Men	52464	6.1
+Action,Comedy,Crime	Ride Along	Ride Along	118896	6.1
+Comedy,Romance	Ticket to Paradise	Ticket to Paradise	54766	6.1
+Action,Fantasy,Horror	Hansel & Gretel: Witch Hunters	Hansel & Gretel: Witch Hunters	211783	6.1
+Action,Adventure,Sci-Fi	I Am Number Four	I Am Number Four	242283	6.1
+Adventure,Comedy	Vacation	Vacation	117212	6.1
+Drama,Fantasy,Romance	Beautiful Creatures	Beautiful Creatures	89555	6.1
+Horror,Mystery,Thriller	Knock at the Cabin	Knock at the Cabin	82239	6.1
+Action,Adventure,Fantasy	Mortal Engines	Mortal Engines	131547	6.1
+Comedy,Drama,Romance	Larry Crowne	Larry Crowne	69274	6.1
+Action,Comedy,Crime	30 Minutes or Less	30 Minutes or Less	104380	6.1
+Adventure,Animation,Comedy	Sausage Party	Sausage Party	201821	6.1
+Horror,Mystery	Grave Encounters	Grave Encounters	61046	6.1
+Action,Adventure,Drama	Snow White and the Huntsman	Snow White and the Huntsman	295919	6.1
+Action,Adventure,Horror	The Collection	The Collection	52091	6.1
+Comedy	The Campaign	The Campaign	134478	6.1
+Comedy,Romance	That Awkward Moment	That Awkward Moment	105496	6.1
+Drama,Fantasy,Mystery	Winter's Tale	Winter's Tale	55758	6.1
+Comedy,Drama	Magic Mike	Magic Mike	144474	6.1
+Horror,Thriller	The Neon Demon	The Neon Demon	100126	6.1
+Action,Comedy,Drama	Chennai Express	Chennai Express	58752	6.1
+Comedy,Family,Fantasy	The House with a Clock in Its Walls	The House with a Clock in Its Walls	53634	6.1
+Action,Adventure,Thriller	San Andreas	San Andreas	247361	6.1
+Comedy,Drama,History	The Monuments Men	The Monuments Men	135434	6.1
+Action,Adventure,Sci-Fi	Rampage	Rampage	176719	6.1
+Comedy,Drama,Romance	Drinking Buddies	Drinking Buddies	59840	6.1
+Action,Adventure,Thriller	The Expendables 3	The Expendables 3	188690	6.1
+Action,Adventure,Drama	The Huntsman: Winter's War	The Huntsman: Winter's War	114787	6.1
+Comedy,Western	A Million Ways to Die in the West	A Million Ways to Die in the West	194027	6.1
+Horror,Mystery,Thriller	Insidious: Chapter 3	Insidious: Chapter 3	110058	6.1
+Action,Comedy	American Ultra	American Ultra	94039	6.1
+Action,Crime,Drama	Jack Reacher: Never Go Back	Jack Reacher: Never Go Back	166118	6.1
+Drama,Romance	Love	Love	63045	6.1
+Action,Thriller	Mile 22	Mile 22	83707	6.1
+Action,Adventure,Drama	The Promise	The Promise	177335	6.1
+Action,Adventure,Sci-Fi	Jurassic World: Fallen Kingdom	Jurassic World: Fallen Kingdom	329105	6.1
+Action,Crime,Drama	Ambulance	Ambulance	84259	6.1
+Action,Crime,Drama	Hotel Artemis	Hotel Artemis	55867	6.1
+Action,Adventure,Drama	Blood Red Sky	Blood Red Sky	51985	6.1
+Action,Comedy,Crime	Birds of Prey	Birds of Prey and the Fantabulous Emancipation of One Harley Quinn	251504	6.1
+Drama,Horror,Mystery	Brightburn	Brightburn	102990	6.1
+Action,Thriller	6 Underground	6 Underground	187057	6.1
+Action,Adventure,Horror	Crawl	Crawl	88996	6.1
+Action,Comedy,Crime	Hitman's Wife's Bodyguard	Hitman's Wife's Bodyguard	100559	6.1
+Action,Crime,Thriller	Sooryavanshi	Sooryavanshi	78024	6.1
+Comedy,Romance	Holidate	Holidate	72285	6.1
+Horror,Thriller	Friday the 13th: The Final Chapter	Friday the 13th: The Final Chapter	55448	6.0
+Action,Adventure,Comedy	Teenage Mutant Ninja Turtles II: The Secret of the Ooze	Teenage Mutant Ninja Turtles II: The Secret of the Ooze	58187	6.0
+Adventure,Drama,Family	Free Willy	Free Willy	80035	6.0
+Drama,Romance	Indecent Proposal	Indecent Proposal	74893	6.0
+Action,Adventure,Drama	First Knight	First Knight	76103	6.0
+Action,Crime,Drama	The Net	The Net	71121	6.0
+Action,Adventure,Thriller	Dante's Peak	Dante's Peak	94710	6.0
+Action,Drama,War	G.I. Jane	G.I. Jane	84358	6.0
+Horror,Sci-Fi	Mimic	Mimic	53668	6.0
+Action,Thriller	The Peacemaker	The Peacemaker	60245	6.0
+Action,Drama,Sci-Fi	Soldier	Soldier	58274	6.0
+Comedy,Drama,Romance	Never Been Kissed	Never Been Kissed	94674	6.0
+Action,Crime,Thriller	Shaft	Shaft	78986	6.0
+Adventure,Comedy,Family	Stuart Little	Stuart Little	142419	6.0
+Drama,Mystery,Romance	Original Sin	Original Sin	58226	6.0
+Adventure,Comedy,Drama	Joe Dirt	Joe Dirt	58919	6.0
+Horror	House of 1000 Corpses	House of 1000 Corpses	89619	6.0
+Comedy,Drama,Fantasy	Shallow Hal	Shallow Hal	138543	6.0
+Action,Adventure,Crime	S.W.A.T.	S.W.A.T.	151278	6.0
+Action,Adventure,Sci-Fi	The Time Machine	The Time Machine	127379	6.0
+Adventure,Animation,Comedy	Shark Tale	Shark Tale	191379	6.0
+Comedy,Drama,Romance	Bridget Jones: The Edge of Reason	Bridget Jones: The Edge of Reason	117592	6.0
+Action,Adventure,Comedy	Sahara	Sahara	100676	6.0
+Action,Adventure,Fantasy	Van Helsing	Van Helsing	275618	6.0
+Comedy,Romance	Along Came Polly	Along Came Polly	140482	6.0
+Horror	Halloween	Halloween	126166	6.0
+Action,Drama,Sci-Fi	Cowboys & Aliens	Cowboys & Aliens	226802	6.0
+Action,Adventure,Crime	Miami Vice	Miami Vice	120567	6.0
+Action,Crime,Thriller	The Condemned	The Condemned	53558	6.0
+Action,Crime,Thriller	The Fast and the Furious: Tokyo Drift	The Fast and the Furious: Tokyo Drift	286178	6.0
+Drama,History,Thriller	World Trade Center	World Trade Center	85709	6.0
+Adventure,Animation,Comedy	Planet 51	Planet 51	57096	6.0
+Comedy,Romance	What's Your Number?	What's Your Number?	83341	6.0
+Horror,Mystery,Thriller	The Midnight Meat Train	The Midnight Meat Train	67771	6.0
+Action,Adventure,Drama	Valhalla Rising	Valhalla Rising	62244	6.0
+Adventure,Comedy,Family	Bedtime Stories	Bedtime Stories	98553	6.0
+Action,Adventure,Fantasy	Sucker Punch	Sucker Punch	247087	6.0
+Action,Thriller	Unhinged	Unhinged	72683	6.0
+Action,Adventure,Comedy	Shazam! Fury of the Gods	Shazam! Fury of the Gods	95170	6.0
+Crime,Mystery,Thriller	Righteous Kill	Righteous Kill	90370	6.0
+Adventure,Comedy,Family	Night at the Museum: Battle of the Smithsonian	Night at the Museum: Battle of the Smithsonian	204879	6.0
+Action,Adventure,Thriller	Transporter 3	Transporter 3	172144	6.0
+Drama,Horror,Mystery	The Rite	The Rite	100674	6.0
+Horror,Mystery,Thriller	Saw VI	Saw VI	116695	6.0
+Action,Thriller	The Tourist	The Tourist	249961	6.0
+Action,Drama,Fantasy	Immortals	Immortals	172481	6.0
+Action,Adventure,Fantasy	Hercules	Hercules	160715	6.0
+Drama,Music,Romance	The Last Song	The Last Song	90358	6.0
+Comedy,Family,Fantasy	Mr. Popper's Penguins	Mr. Popper's Penguins	101974	6.0
+Comedy,Thriller	Cocaine Bear	Cocaine Bear	77943	6.0
+Drama,Mystery,Thriller	Dream House	Dream House	68126	6.0
+Action,Adventure,Drama	Exodus: Gods and Kings	Exodus: Gods and Kings	173287	6.0
+Action,Sci-Fi,Thriller	Lockout	Lockout	99850	6.0
+Action,Comedy,Crime	Murder Mystery	Murder Mystery	157226	6.0
+Action,Thriller	Honest Thief	Honest Thief	54345	6.0
+Comedy	Sisters	Sisters	68122	6.0
+Crime,Drama,Thriller	The Gambler	The Gambler	71761	6.0
+Comedy,Romance	The Other Woman	The Other Woman	145517	6.0
+Adventure,Animation,Comedy	The SpongeBob Movie: Sponge Out of Water	The SpongeBob Movie: Sponge Out of Water	58442	6.0
+Biography,Drama	Jobs	Jobs	100617	6.0
+Action,Comedy,Crime	Kick	Kick	71403	6.0
+Action,Crime,Thriller	Taken 3	Taken 3	198604	6.0
+Comedy	Walk of Shame	Walk of Shame	55939	6.0
+Comedy,Crime	Get Hard	Get Hard	142027	6.0
+Comedy,Romance	Mike and Dave Need Wedding Dates	Mike and Dave Need Wedding Dates	92266	6.0
+Drama,Mystery,Sci-Fi	The Signal	The Signal	67544	6.0
+Drama,Horror,Mystery	Circle	Circle	61686	6.0
+Action,Drama,Thriller	Those Who Wish Me Dead	Those Who Wish Me Dead	66282	6.0
+Action,Adventure,Fantasy	Godzilla: King of the Monsters	Godzilla: King of the Monsters	191954	6.0
+Horror,Mystery,Thriller	The Boy	The Boy	97514	6.0
+Action,Horror,Sci-Fi	The Purge: Election Year	The Purge: Election Year	105639	6.0
+Comedy	Daddy's Home 2	Daddy's Home 2	78201	6.0
+Action,Horror,Sci-Fi	Captive State	Captive State	55990	6.0
+Action,Crime,Horror	Don't Breathe 2	Don't Breathe 2	64722	6.0
+Action,Adventure,Comedy	The Spy Who Dumped Me	The Spy Who Dumped Me	80379	6.0
+Drama,Horror,Mystery	The Lodge	The Lodge	52226	6.0
+Action,Crime,Sci-Fi	Project Power	Project Power	93665	6.0

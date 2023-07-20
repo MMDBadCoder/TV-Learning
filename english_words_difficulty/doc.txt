@@ -1,0 +1,4 @@
+to use difficulty service you should have two files, frequency.csv and stop_words.csv,
+to generate these two files you should prepare a large file named by plain.txt in current directory,
+that contains plain english text. then run frequency_calculator.py to generate csv files
+and then frequency service is ready to use.
