@@ -11,3 +11,7 @@ class Movie(models.Model):
     subtitle_download_url = models.CharField(max_length=1_000, blank=True, null=False, default='')
     video_stream_url = models.CharField(max_length=1_000, blank=True, null=False, default='')
     hidden_to_users = models.BooleanField(default=True, blank=False, null=False)
+
+
+    def download_subtitle(self):
+        pass
