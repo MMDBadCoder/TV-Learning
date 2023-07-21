@@ -9,16 +9,12 @@ class Movie(models.Model):
     genre = models.CharField(max_length=100, blank=True, null=False, default='')
     votes_count = models.IntegerField(blank=False, null=False)
     imdb_rating = models.FloatField(blank=False, null=False)
-    subtitle_download_url = models.CharField(max_length=1_000, blank=True, null=False, default='')
     video_stream_url = models.CharField(max_length=1_000, blank=True, null=False, default='')
     hidden_to_users = models.BooleanField(default=True, blank=False, null=False)
     is_inserted_in_elasticsearch = models.BooleanField(default=False, blank=False, null=False)
 
     def __str__(self):
         return '-'.join([str(self.id), self.title1])
-
-    def download_subtitle(self):
-        pass
 
     def insert_text_to_elasticsearch(self):
         pass
