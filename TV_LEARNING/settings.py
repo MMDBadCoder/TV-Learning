@@ -74,7 +74,7 @@ WSGI_APPLICATION = 'TV_LEARNING.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'data/db.sqlite3',
+        'NAME': BASE_DIR / 'db.sqlite3',
     }
 }
 
@@ -117,7 +117,7 @@ STATIC_PUBLIC_DIR = STATIC_DIR
 STATICFILES_DIRS = [STATIC_DIR, ]
 STATIC_DIR = os.path.join(BASE_DIR, 'static')
 
-MEDIA_DIR = os.path.join(BASE_DIR, 'data', 'media')
+MEDIA_DIR = os.path.join(BASE_DIR, 'media')
 MEDIA_ROOT = MEDIA_DIR
 MEDIA_URL = '/media/'
 

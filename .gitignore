@@ -7,7 +7,7 @@
 *.pyc
 __pycache__/
 local_settings.py
-data/db.sqlite3
+db.sqlite3
 db.sqlite3-journal
 media
 
@@ -271,6 +271,3 @@ pyrightconfig.json
 english_words_difficulty/plain_english_text.txt
 ./english_words_difficulty/plain_english_text.txt
 
-
-./data
-data
