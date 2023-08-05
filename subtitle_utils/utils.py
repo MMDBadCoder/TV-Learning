@@ -1,19 +1,22 @@
+import re
+
 from english_words_difficulty.difficulty_service import Difficulty
+import html2text
 
 WORDS_DIFFICULTY = 'words_difficulty'
 SPEED_OF_SPEACH = 'speed_of_speech'
 
 
-def get_milly_second_of_movie_by_subtitle_format(time: str):
+def get_milly_second_of_quote_by_subtitle_format(time: str):
     parts = time.split(':')
     hour = int(parts[0])
     minutes = int(parts[1])
     seconds = parts[2]
-    seconds = seconds.replace(',', '.')
     seconds = float(seconds)
     return (hour * 60 * 60) + (minutes * 60) + seconds
 
 
+# We pass a vtt_file_path to write clean format of subtitle at it
 def get_quotes_of_subtitle(subtitle_path):
     quotes = []
     with open(subtitle_path, 'r') as subtitle_file:
@@ -34,9 +37,10 @@ def get_quotes_of_subtitle(subtitle_path):
                     }
                     state = 1
                 elif state == 1:
+                    line = line.replace(',', '.')
                     parts = line.split(' --> ')
-                    quote['start_time'] = get_milly_second_of_movie_by_subtitle_format(parts[0])
-                    quote['end_time'] = get_milly_second_of_movie_by_subtitle_format(parts[1])
+                    quote['start_time'] = get_milly_second_of_quote_by_subtitle_format(parts[0])
+                    quote['end_time'] = get_milly_second_of_quote_by_subtitle_format(parts[1])
                     quote['duration'] = quote['end_time'] - quote['start_time']
                     quote_lines = []
                     state = 2
@@ -64,3 +68,17 @@ def get_difficulty_of_subtitle(subtitle_path):
         WORDS_DIFFICULTY: difficulty_instance.get_difficulty_of_text(full_text),
         SPEED_OF_SPEACH: sum_of_quote_length / sum_of_duration
     }
+
+
+def generate_vtt_file(subtitle_path, vtt_file_path):
+    time_range_line_format = re.compile('\d{2}:\d{2}:\d{2}(,\d+)? --> \d{2}:\d{2}:\d{2}(,\d+)?')
+    with open(subtitle_path, 'r') as subtitle_file:
+        with open(vtt_file_path, 'w') as vtt_output_file:
+            vtt_output_file.write('WEBVTT\n\n')
+            for line in subtitle_file.readlines():
+                if time_range_line_format.match(line):
+                    line = line.replace(',', '.')
+                else:
+                    line = html2text.html2text(line)
+                line = line.replace('\n', '').replace("_", "").replace("\\", '')
+                vtt_output_file.write(line + '\n')

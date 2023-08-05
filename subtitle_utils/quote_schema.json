@@ -1,0 +1,7 @@
+{
+  "index": "integer, index of quote in subtitle file",
+  "start_time": "integer, shows which second of movie this quote starts",
+  "end_time": "integer, an integer that shows which seconds of movie this quote ends",
+  "duration": "integer, duration of quote by seconds",
+  "text": "string, text of quote"
+}

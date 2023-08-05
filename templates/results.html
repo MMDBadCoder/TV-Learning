@@ -1,0 +1,192 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <title>{{ query_text }}</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://vjs.zencdn.net/7.19.2/video-js.css" rel="stylesheet"/>
+    <script src="https://vjs.zencdn.net/7.17.0/video.min.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <style>
+        * {
+            box-sizing: border-box;
+            padding: 0;
+            margin: 0;
+            /*scroll-behavior: smooth;*/
+        }
+
+        body {
+            background-color: #ebedeb;
+        }
+
+
+        header {
+            text-align: center;
+            font-size: 35px;
+            background: url(https://images.pexels.com/photos/2909077/pexels-photo-2909077.jpeg?auto=compress&cs=tinysrgb&w=1600) fixed;
+
+            height: 100vh;
+
+            overflow: hidden;
+
+            /* Center and scale the image nicely */
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+
+            margin-bottom: 0;
+            position: relative;
+
+        }
+
+        .centered {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }
+
+        header h1 {
+            padding-bottom: 10px;
+        }
+
+        ul {
+            background: rgba(255, 255, 255, 0.54);
+            box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+            backdrop-filter: blur(5.8px);
+            -webkit-backdrop-filter: blur(5.8px);
+
+            position: sticky;
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+            top: 0;
+        }
+
+        ul a {
+            display: block;
+            text-align: center;
+            padding: 15px;
+            font-size: 45px;
+        }
+
+
+        .imageBox {
+            padding: 0 6px 15px 6px;
+            float: left;
+            width: 24.99999%;
+        }
+
+
+        div.gallery {
+            border: 1px solid #ccc;
+        }
+
+        div.gallery:hover {
+            border: 1px solid #777;
+            box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+            transition: ease 0.1s;
+        }
+
+        div.gallery video {
+            width: 100%;
+            object-fit: cover;
+            height: 300px;
+        }
+
+        div.desc {
+            padding: 5px 10px 10px 10px;
+            text-align: center;
+        }
+
+        @media only screen and (max-width: 950px) {
+            .imageBox {
+                width: 49.99999%;
+                margin: 6px 0;
+            }
+        }
+
+        @media only screen and (max-width: 550px) {
+            .imageBox {
+                width: 100%;
+            }
+        }
+
+
+        .clearfix:after {
+            content: "";
+            display: table;
+            clear: both;
+        }
+
+        footer {
+            text-align: center;
+            padding-bottom: 10px;
+        }
+
+        @media only screen and (max-width: 700px) {
+            header {
+                font-size: 20px;
+            }
+
+            .glassHeader {
+                width: 400px;
+            }
+
+        }
+
+        @media only screen and (max-width: 550px) {
+            header {
+                font-size: 16px;
+            }
+
+            ul a {
+                font-size: 28px;
+            }
+
+            .glassHeader {
+                width: 340px;
+            }
+
+            footer {
+                padding-bottom: 20px;
+            }
+        }
+
+        .glassHeader {
+            border-radius: 10px;
+            background: rgba(255, 255, 255, 0.05);
+            backdrop-filter: blur(4px);
+
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <div class="centered glassHeader">
+        <h1>Results of searching '{{ query_text }}'</h1>
+        <h3>Let's look at sequences, just scroll down</h3>
+    </div>
+</header>
+
+<!--Nav-->
+<ul>
+    <a>Related sequences</a>
+</ul>
+{% for sequence in sequences %}
+    {% include 'sequence_box.html' with sequence=sequence %}
+{% endfor %}
+
+<div class="clearfix"></div>
+
+</body>
+</html>
+
+<script>
+    var players = [];
+</script>
+

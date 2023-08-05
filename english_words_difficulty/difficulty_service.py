@@ -4,8 +4,8 @@ import nltk as nltk
 from nltk.tokenize import word_tokenize
 
 # ------------- call for first time -------------
-nltk.download('stopwords')
-nltk.download('punkt')
+# nltk.download('stopwords')
+# nltk.download('punkt')
 
 
 class Difficulty:

@@ -1,0 +1,4 @@
+{
+  "quote": "nested, schema of this field is in subtitle_utils/quote_schema.json",
+  "movie_id": "integer, id of movie in our light db"
+}
