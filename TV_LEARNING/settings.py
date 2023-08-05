@@ -35,7 +35,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'movies_manager'
+    'movies_manager',
+    'quote_searcher'
 ]
 
 MIDDLEWARE = [
@@ -53,7 +54,9 @@ ROOT_URLCONF = 'TV_LEARNING.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': [
+            'templates'
+        ],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
@@ -125,3 +128,7 @@ MEDIA_URL = '/media/'
 # https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+
+ELASTICSEARCH_HOST = "127.0.0.1"
+ELASTICSEARCH_PROT = 9200
+ELASTICSEARCH_URL = "http://{}:{}".format(ELASTICSEARCH_HOST, ELASTICSEARCH_PROT)

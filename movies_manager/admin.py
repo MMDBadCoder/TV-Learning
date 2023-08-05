@@ -1,16 +1,23 @@
 from django.contrib import admin
+from tqdm import tqdm
 
 from movies_manager.models import Movie
 
 
-@admin.action(description="Insert text to elasticsearch")
-def insert_text_to_elasticsearch(admin_model, request, queryset):
-    for movie in queryset.all():
-        movie.insert_text_to_elasticsearch()
+@admin.action(description="Insert quotes to elasticsearch")
+def insert_quotes_to_elasticsearch(admin_model, request, queryset):
+    for movie in tqdm(queryset.all()):
+        movie.insert_quotes_to_elasticsearch()
+
+
+@admin.action(description="Delete quotes from elasticsearch")
+def delete_quotes_from_elasticsearch(admin_model, request, queryset):
+    for movie in tqdm(queryset.all()):
+        movie.delete_quotes_from_elasticsearch()
 
 
 class MovieAdmin(admin.ModelAdmin):
-    actions = [insert_text_to_elasticsearch]
+    actions = [insert_quotes_to_elasticsearch, delete_quotes_from_elasticsearch]
 
     list_display = ('id', 'title1', 'genre', 'imdb_rating')
     list_filter = ('hidden_to_users', 'is_inserted_in_elasticsearch')

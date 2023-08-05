@@ -271,3 +271,5 @@ pyrightconfig.json
 english_words_difficulty/plain_english_text.txt
 ./english_words_difficulty/plain_english_text.txt
 
+./static/web-subtitles/*.vtt
+/static/web-subtitles/*.vtt

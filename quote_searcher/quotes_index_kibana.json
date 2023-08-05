@@ -1,0 +1,38 @@
+{
+  "settings": {
+    "index": {
+      "number_of_replicas": "1",
+      "number_of_shards": "2"
+    }
+  },
+  "mappings": {
+    "properties": {
+      "quote": {
+        "type": "nested",
+        "properties": {
+          "text": {
+            "type": "text",
+            "analyzer": "standard",
+            "index": true
+          },
+          "start_time": {
+            "type": "integer",
+            "index": false
+          },
+          "end_time": {
+            "type": "integer",
+            "index": false
+          },
+          "duration": {
+            "type": "integer",
+            "index": false
+          }
+        }
+      },
+      "movie_id": {
+        "type": "integer",
+        "index": false
+      }
+    }
+  }
+}
