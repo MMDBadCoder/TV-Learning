@@ -20,11 +20,14 @@ class Movie(models.Model):
     imdb_rating = models.FloatField(blank=False, null=False)
     visible = models.BooleanField(default=False, blank=False, null=False)
     is_inserted_in_elasticsearch = models.BooleanField(default=False, blank=False, null=False)
+    specific_stream_url = models.CharField(max_length=1000, blank=True, null=True, default=None)
 
     def __str__(self):
         return '-'.join([str(self.id), self.title1])
 
     def video_stream_url(self):
+        if self.specific_stream_url:
+            return self.specific_stream_url
         return f'{NGINX_URL}{self.id}.mp4'
 
     def get_subtitle_file_path(self):
