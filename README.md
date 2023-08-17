@@ -28,3 +28,15 @@ A platform to learn English by watching movies
         <h5>Note that this command may change the state, As it tries to correct the state upon detecting any inconsistencies.</h5>
     </li>
 </ul>
+
+<h3>English text difficulty</h3>
+<p>
+    We have a service in out project that will determine difficulty of for each text,
+    Note this service should be available to working correctly and this service needs two files to be ready to work, 
+    <code>frequency.csv & stop_words.csv</code> files in <code>english_words_difficulty</code> directory in home directory of project.
+    As you can see we generated them to be ready to use, but if you want to use your own one,
+    you should prepare a large file named <code>plane.txt</code> and put it in <code>english_words_difficulty</code> directory
+    and then run the <code>frequency_calculator.py</code> at same directory to generate two needed files.
+    These service will determine difficulty of quotes of movies and sort them from easy to hard, so if you change these two files,
+    you can see consequences in scoring of search result.  
+</p>

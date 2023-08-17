@@ -3,9 +3,18 @@ import math
 import nltk as nltk
 from nltk.tokenize import word_tokenize
 
-# ------------- call for first time -------------
-# nltk.download('stopwords')
-# nltk.download('punkt')
+
+def download_nltk_sources():
+    nltk.download('punkt')
+    nltk.download('stopwords')
+
+
+# Check if the stopwords and punkt downloads have already been performed
+try:
+    if not (nltk.data.find('tokenizers/punkt') and nltk.corpus.stopwords.fileids()):
+        download_nltk_sources()
+except Exception as ignored:
+    download_nltk_sources()
 
 
 class Difficulty:
