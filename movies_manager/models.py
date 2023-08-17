@@ -5,7 +5,7 @@ from elasticsearch import helpers
 
 from TV_LEARNING.settings import BASE_DIR, NGINX_URL
 from common_utils.elasticsearch import ElasticConnectionFactory
-from subtitle_utils.utils import get_quotes_of_subtitle, generate_vtt_file
+from common_utils.subtitle_utils import get_quotes_of_subtitle, generate_vtt_file
 
 
 # Create your models here.
