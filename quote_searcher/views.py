@@ -40,8 +40,19 @@ def search_on_quotes(request, query_text):
         movie_id = sequence['movie_id']
         movie = Movie.objects.get(id=movie_id)
         sequence['movie'] = movie
-        sequence['start_time'] = max(0, sequence['quote']['start_time'] - 3)
-        sequence['end_time'] = sequence['quote']['end_time'] + 3
+
+        # Determining start time of sequence
+        sequence_start_time = max(0, sequence['quote']['start_time'] - 3)
+        if sequence.__contains__('last_quote_time'):
+            sequence_start_time = max(sequence['last_quote_time'] - 1, sequence_start_time)
+        sequence['start_time'] = sequence_start_time
+
+        # Determining end time of sequence
+        sequence_end_time = sequence['quote']['end_time'] + 3
+        if sequence.__contains__('next_quote_time'):
+            sequence_end_time = min(sequence_end_time, sequence['next_quote_time'] + 1)
+        sequence['end_time'] = sequence_end_time
+
         sequences.append(sequence)
 
     # Filtering hidden movies
