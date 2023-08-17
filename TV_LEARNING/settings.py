@@ -130,7 +130,7 @@ MEDIA_URL = '/media/'
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-LOG_LEVEL = logging.DEBUG
+LOG_LEVEL = logging.INFO
 
 ELASTICSEARCH_HOST = "filmvocab.ir"
 ELASTICSEARCH_PROT = 9200

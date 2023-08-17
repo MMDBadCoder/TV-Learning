@@ -1,18 +1,16 @@
 import codecs
 import json
-import logging
 import sys
 
 import requests
 from django.core.management import BaseCommand
 
-from movies_manager.models import Movie
 from common_utils.elasticsearch import ElasticConnectionFactory
-
-logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+from common_utils.logging_utils import LoggerFactory
+from movies_manager.models import Movie
 
 # Create a logger instance
-logger = logging.getLogger()
+logger = LoggerFactory.get_instance()
 
 
 class Command(BaseCommand):
@@ -30,6 +28,8 @@ class Command(BaseCommand):
 
 def check_healthy_of_movie(movie: Movie):
     if movie.has_subtitle_file():
+        if not movie.visible:
+            logger.info(f'"{movie}" is not visible but has subtitle file!')
         try:
             movie.get_quotes()
         except Exception as e:
@@ -91,7 +91,7 @@ def check_healthy_of_movie(movie: Movie):
 
             except Exception as e:
                 logger.error(f'Can not put quotes of "{movie.title1}" to elasticsearch.')
-                print(e)
+                logger.error(e)
                 sys.exit(6)
 
 
@@ -120,8 +120,8 @@ def check_exists_of_elasticsearch_index():
         # Create the index
         response = es.indices.create(index=index_name, body=schema)
         if response['acknowledged']:
-            print(f"Index '{index_name}' created successfully.")
+            logger.info(f"Index '{index_name}' created successfully.")
             return True
         else:
-            print(f"Failed to create index '{index_name}'.")
+            logger.info(f"Failed to create index '{index_name}'.")
             return False
