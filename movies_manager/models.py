@@ -8,8 +8,6 @@ from common_utils.elasticsearch import ElasticConnectionFactory
 from common_utils.subtitle_utils import get_quotes_of_subtitle, generate_vtt_file
 
 
-# Create your models here.
-
 class Movie(models.Model):
     __CASHED_QUOTES = {}
 
@@ -78,8 +76,8 @@ class Movie(models.Model):
                 # Add last quote time and next quote time to sources of each action
                 if index != 0:
                     action['_source']['last_quote_time'] = quotes[index - 1]['start_time']
-                if index != len(quote) - 1:
-                    action['_source']['next_quote_time'] = quotes[index - 1]['end_time']
+                if index < len(quotes) - 1:
+                    action['_source']['next_quote_time'] = quotes[index + 1]['end_time']
                 actions.append(action)
 
             # Insert quotes by bulk query

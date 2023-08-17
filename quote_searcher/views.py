@@ -5,8 +5,8 @@ from english_words_difficulty.difficulty_service import Difficulty
 from movies_manager.models import Movie
 from common_utils.elasticsearch import ElasticConnectionFactory
 
-
-# Create your views here.
+ELASTIC_LIMIT_SEARCH_RESULT = 15
+RESPONSE_LIMIT_SEARCH_RESULT = 5
 
 
 def search_on_quotes(request, query_text):
@@ -14,7 +14,7 @@ def search_on_quotes(request, query_text):
         return HttpResponseBadRequest("query text can not be blank")
     es = ElasticConnectionFactory.get_instance()
     search_body = {
-        "size": 30,
+        "size": ELASTIC_LIMIT_SEARCH_RESULT,
         "query": {
             "nested": {
                 "path": "quote",
@@ -59,11 +59,11 @@ def search_on_quotes(request, query_text):
     sequences = list(filter(lambda s: s['movie'].visible, sequences))
 
     # Sorting
-    sequences = sorted(sequences[:10], key=lambda s: get_difficulty_of_sequence(s))
+    sequences = sorted(sequences, key=lambda s: get_difficulty_of_sequence(s))
 
     data = {
         'query_text': query_text,
-        'sequences': sequences[:3]
+        'sequences': sequences[:RESPONSE_LIMIT_SEARCH_RESULT]
     }
     return render(request, 'results.html', data)
 
