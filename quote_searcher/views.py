@@ -45,14 +45,14 @@ def search_on_quotes(request, query_text):
         sequences.append(sequence)
 
     # Filtering hidden movies
-    sequences = list(filter(lambda s: not s['movie'].visible, sequences))
+    sequences = list(filter(lambda s: s['movie'].visible, sequences))
 
     # Sorting
     sequences = sorted(sequences[:10], key=lambda s: get_difficulty_of_sequence(s))
 
     data = {
         'query_text': query_text,
-        'sequences': sequences[:4]
+        'sequences': sequences[:3]
     }
     return render(request, 'results.html', data)
 

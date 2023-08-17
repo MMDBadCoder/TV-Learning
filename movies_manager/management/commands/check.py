@@ -38,7 +38,7 @@ class Command(BaseCommand):
                     logger.error('An error occurred when checking healthy of movies')
                     logger.error(e)
 
-        logger.info("✅ All visible movies are ready to search")
+        logger.info("✅ All visible movies are ready for search")
 
 
 def check_healthy_of_movie(movie: Movie):

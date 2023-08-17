@@ -5,8 +5,8 @@
     <title>{{ query_text }}</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="https://vjs.zencdn.net/7.19.2/video-js.css" rel="stylesheet"/>
-    <script src="https://vjs.zencdn.net/7.17.0/video.min.js"></script>
+    <link href="/static/videojs/vjs.zencdn.net_7.19.2_video-js.css" rel="stylesheet"/>
+    <script src="/static/videojs/vjs.zencdn.net_7.17.0_video.min.js"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <style>
@@ -173,7 +173,10 @@
     </div>
 </header>
 
-<!--Nav-->
+<script>
+    var players = [];
+</script>
+
 <ul>
     <a>Related sequences</a>
 </ul>
@@ -186,7 +189,4 @@
 </body>
 </html>
 
-<script>
-    var players = [];
-</script>
 
