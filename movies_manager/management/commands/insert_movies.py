@@ -3,7 +3,6 @@ from django.core.management import BaseCommand
 from movies_manager.models import Movie
 
 
-# run python manage.py insert_movies to insert movies to db
 class Command(BaseCommand):
     help = 'Insertion of movies from tsv file to our light db'
 

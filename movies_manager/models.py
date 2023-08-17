@@ -11,6 +11,8 @@ from subtitle_utils.utils import get_quotes_of_subtitle, generate_vtt_file
 # Create your models here.
 
 class Movie(models.Model):
+    __CASHED_QUOTES = {}
+
     title1 = models.CharField(max_length=100, blank=False, null=False)
     title2 = models.CharField(max_length=100, blank=False, null=False)
     genre = models.CharField(max_length=100, blank=True, null=False, default='')
@@ -39,7 +41,11 @@ class Movie(models.Model):
     def get_quotes(self):
         if not self.has_subtitle_file():
             raise Exception("Subtitle of movie {} by id of {} does not exist.".format(self.title1, self.id))
-        return get_quotes_of_subtitle(self.get_subtitle_file_path())
+        if Movie.__CASHED_QUOTES.__contains__(self.id):
+            return Movie.__CASHED_QUOTES[self.id]
+        quotes = get_quotes_of_subtitle(self.get_subtitle_file_path())
+        Movie.__CASHED_QUOTES[self.id] = quotes
+        return quotes
 
     def delete_quotes_from_elasticsearch(self):
         with ConnectionFactory.create_new_connection() as es:
@@ -52,17 +58,25 @@ class Movie(models.Model):
             # Delete current inserted quotes
             es.delete_by_query(index='quotes', body={"query": {"match": {"movie_id": self.id}}})
 
-            # Insert quotes by bulk query
-            actions = [
-                {
+            quotes = self.get_quotes()
+
+            actions = []
+            # Create actions to perform on elasticsearch
+            for index, quote in enumerate(quotes):
+                action = {
                     "_index": "quotes",
                     "_source": {
                         "quote": quote,
                         "movie_id": self.id
                     }
                 }
-                for quote in self.get_quotes()
-            ]
+                # Add last quote time and next quote time to sources of each action
+                if index != 0:
+                    action['_source']['last_quote_time'] = quotes[index - 1]['start_time']
+                if index != len(quote) - 1:
+                    action['_source']['next_quote_time'] = quotes[index - 1]['end_time']
+
+            # Insert quotes by bulk query
             helpers.bulk(es, actions)
             self.is_inserted_in_elasticsearch = True
             self.save()

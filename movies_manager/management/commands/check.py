@@ -17,6 +17,7 @@ class Command(BaseCommand):
         for movie in tqdm(Movie.objects.all()):
             if not movie.has_subtitle_file():
                 continue
+
             try:
                 movie.get_quotes()
             except Exception:
@@ -38,7 +39,7 @@ class Command(BaseCommand):
 
         print("✅ All subtitle files are ok")
 
-        # Check if all not hidden movies are ready to searching on their quotes
+        # Check if all visible movies are ready to searching on their quotes
         with ConnectionFactory.create_new_connection() as es:
             for movie in tqdm(Movie.objects.filter(hidden_to_users=False)):
 

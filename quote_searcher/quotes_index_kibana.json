@@ -6,6 +6,7 @@
     }
   },
   "mappings": {
+    "dynamic": "false",
     "properties": {
       "quote": {
         "type": "nested",
@@ -13,23 +14,36 @@
           "text": {
             "type": "text",
             "analyzer": "standard",
-            "index": true
+            "index": true,
+            "null_value": "not_available"
           },
           "start_time": {
             "type": "integer",
-            "index": false
+            "index": false,
+            "null_value": "not_available"
           },
           "end_time": {
             "type": "integer",
-            "index": false
+            "index": false,
+            "null_value": "not_available"
           },
           "duration": {
             "type": "integer",
-            "index": false
+            "index": false,
+            "null_value": "not_available"
           }
         }
       },
       "movie_id": {
+        "type": "integer",
+        "index": false,
+        "null_value": "not_available"
+      },
+      "last_quote_time": {
+        "type": "integer",
+        "index": false
+      },
+      "next_quote_time": {
         "type": "integer",
         "index": false
       }
