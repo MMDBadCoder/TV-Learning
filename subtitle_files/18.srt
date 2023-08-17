@@ -1,4 +1,4 @@
-﻿0
+0
 00:00:04,594 --> 00:00:10,594
 A Team Nanban (594mgnav) Release
 
@@ -3871,7 +3871,7 @@ What is that?
 
 897
 01:18:48,890 --> 01:18:50,307
-Whoa, déjà vu.
+Whoa, dj vu.
 
 898
 01:18:53,812 --> 01:18:54,895
@@ -3880,7 +3880,7 @@ What did you just say?
 899
 01:18:55,147 --> 01:18:56,647
 Nothing. I just had
-a little déjà vu.
+a little dj vu.
 
 900
 01:18:56,898 --> 01:18:58,524
@@ -3910,7 +3910,7 @@ What is it?
 
 906
 01:19:15,125 --> 01:19:19,545
-A déjà vu is usually a glitch in the Matrix.
+A dj vu is usually a glitch in the Matrix.
 It happens when they change something.
 
 907

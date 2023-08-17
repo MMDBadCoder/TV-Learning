@@ -1,4 +1,4 @@
-﻿1
+1
 00:00:05,000 --> 00:00:10,000
 <font color="#20e020">Cleaned, corrected, some OCR errors
 fixed and some timings optimized by Tronar</font>

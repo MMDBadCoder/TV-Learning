@@ -58,7 +58,7 @@ class Movie(models.Model):
     def insert_quotes_to_elasticsearch(self):
         with ElasticConnectionFactory.create_new_connection() as es:
             # Delete current inserted quotes
-            es.delete_by_query(index='quotes', body={"query": {"match": {"movie_id": self.id}}})
+            self.delete_quotes_from_elasticsearch()
 
             quotes = self.get_quotes()
 
@@ -77,6 +77,7 @@ class Movie(models.Model):
                     action['_source']['last_quote_time'] = quotes[index - 1]['start_time']
                 if index != len(quote) - 1:
                     action['_source']['next_quote_time'] = quotes[index - 1]['end_time']
+                actions.append(action)
 
             # Insert quotes by bulk query
             helpers.bulk(es, actions)

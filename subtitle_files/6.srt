@@ -1,6 +1,6 @@
 1
 00:01:17,286 --> 00:01:18,901
-Smeéagol!
+Smeagol!
 
 2
 00:01:19,079 --> 00:01:20,410
@@ -8,7 +8,7 @@ I've got one!
 
 3
 00:01:22,124 --> 00:01:23,955
-I've got a fish, sméag. Smeagol!
+I've got a fish, smag. Smeagol!
 
 4
 00:01:24,126 --> 00:01:27,243
@@ -17,11 +17,11 @@ Pull it in.
 
 5
 00:01:35,470 --> 00:01:37,301
-Smeagol: Déagol!
+Smeagol: Dagol!
 
 6
 00:02:34,696 --> 00:02:36,527
-Smeagol: Déagol?
+Smeagol: Dagol?
 
 7
 00:02:39,159 --> 00:02:41,320
@@ -312,7 +312,7 @@ Salted pork?
 76
 00:11:14,757 --> 00:11:18,670
 Huh. Hobbits.
-“We're under orders from treebeard
+We're under orders from treebeard
 
 77
 00:11:18,845 --> 00:11:21,678
@@ -372,7 +372,7 @@ We need him to talk.
 90
 00:12:04,557 --> 00:12:08,800
 Saruman: You have fought many wars
-and slain many men, théoden king...
+and slain many men, thoden king...
 
 91
 00:12:08,978 --> 00:12:10,468
@@ -611,7 +611,7 @@ with the dogs?
 145
 00:15:51,033 --> 00:15:57,495
 The victory at helm's deep does not
-belong to you, théoden horse-master.
+belong to you, thoden horse-master.
 
 146
 00:15:58,082 --> 00:16:02,701
@@ -938,11 +938,11 @@ No. Not.
 
 223
 00:23:43,672 --> 00:23:47,881
-Never. Sméagol hates nasty hobbitses.
+Never. Smagol hates nasty hobbitses.
 
 224
 00:23:48,052 --> 00:23:52,887
-Smeéagol wants to see them dead.
+Smeagol wants to see them dead.
 
 225
 00:23:53,057 --> 00:23:55,594
@@ -1055,7 +1055,7 @@ For us.
 
 251
 00:25:29,820 --> 00:25:32,812
-Yes we meant "for us.”
+Yes we meant "for us.
 
 252
 00:25:32,990 --> 00:25:36,448
@@ -1088,7 +1088,7 @@ He means to murder us.
 
 259
 00:25:58,307 --> 00:26:02,471
-Never! Sméagol wouldn't hurt a fly.
+Never! Smagol wouldn't hurt a fly.
 
 260
 00:26:04,480 --> 00:26:06,516
@@ -1096,7 +1096,7 @@ He's a horrid, fat hobbit...
 
 261
 00:26:06,690 --> 00:26:08,305
-Who hates smeéagol...
+Who hates smeagol...
 
 262
 00:26:08,484 --> 00:26:11,226
@@ -1945,7 +1945,7 @@ You are not alone in this fight.
 
 458
 00:46:42,425 --> 00:46:46,919
-Send word to théoden of Rohan.
+Send word to thoden of Rohan.
 Light the beacons.
 
 459
@@ -1978,7 +1978,7 @@ you'd seek to supplant me.
 
 465
 00:47:11,412 --> 00:47:15,121
-I know who rides with théoden of Rohan.
+I know who rides with thoden of Rohan.
 
 466
 00:47:15,291 --> 00:47:21,252
@@ -3086,7 +3086,7 @@ Fat one cannot know.
 
 719
 01:18:57,399 --> 01:19:00,141
-Smeéagol look after master.
+Smeagol look after master.
 
 720
 01:19:01,362 --> 01:19:03,569
@@ -3095,7 +3095,7 @@ He wants it.
 721
 01:19:03,739 --> 01:19:08,278
 He needs it.
-Sméagol sees it in his eye.
+Smagol sees it in his eye.
 
 722
 01:19:08,452 --> 01:19:13,913
@@ -3128,7 +3128,7 @@ Witch-king: I will break him.
 728
 01:19:48,367 --> 01:19:50,779
 Guard:
-Where are théoden's riders?
+Where are thoden's riders?
 
 729
 01:19:50,953 --> 01:19:53,535
@@ -3374,7 +3374,7 @@ Sam: What are you up to?
 
 784
 01:25:10,397 --> 01:25:11,637
-Sneaking off, are we”?
+Sneaking off, are we?
 
 785
 01:25:12,357 --> 01:25:14,188
@@ -3449,7 +3449,7 @@ It's gone!
 
 802
 01:26:15,504 --> 01:26:18,371
-The elven bread. “What?
+The elven bread. What?
 
 803
 01:26:18,548 --> 01:26:20,004
@@ -3462,11 +3462,11 @@ He took it. He must have!
 805
 01:26:27,099 --> 01:26:30,341
 Smeagol?
-No, no, not poor sméagol.
+No, no, not poor smagol.
 
 806
 01:26:30,519 --> 01:26:33,431
-Smeéagol hates nasty elf bread.
+Smeagol hates nasty elf bread.
 
 807
 01:26:33,605 --> 01:26:36,768
@@ -3797,7 +3797,7 @@ my lord.
 884
 01:34:23,199 --> 01:34:25,861
 Fenmarch man: We have 300 more
-from fenmarch, théoden king.
+from fenmarch, thoden king.
 
 885
 01:34:26,995 --> 01:34:30,954
@@ -4935,4 +4935,3 @@ Grond! Grond! Grond!
 1153
 02:07:27,056 --> 02:07:35,012
 Grond! Grond! Grond!
-
