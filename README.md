@@ -21,7 +21,7 @@ A platform to learn English by watching movies
             <li>Each existing subtitle file (<code>.srt in subtitle_files</code>) should be readable.</li>
             <li>Each visible movie should have subtitle(.srt) file.</li>
             <li>Each visible movie should have subtitle(.vtt) file.</li>
-            <li>Each visible movie should have subtitle(.vtt) file.</li>
+            <li>Streaming url of each visible movie should be healthy.(.vtt) file.</li>
             <li>Quotes of each visible movie should be inserted in elasticsearch and count of elasticsearch records
             expects to be equal by quotes in related subtitle file.</li>
         </ol>

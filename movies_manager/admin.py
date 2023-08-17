@@ -20,7 +20,7 @@ class MovieAdmin(admin.ModelAdmin):
     actions = [insert_quotes_to_elasticsearch, delete_quotes_from_elasticsearch]
 
     list_display = ('id', 'title1', 'genre', 'imdb_rating')
-    list_filter = ('hidden_to_users', 'is_inserted_in_elasticsearch')
+    list_filter = ('visible', 'is_inserted_in_elasticsearch')
     search_fields = ['title1']
     ordering = ['id']
 

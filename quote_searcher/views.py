@@ -3,7 +3,7 @@ from django.shortcuts import render, redirect
 
 from english_words_difficulty.difficulty_service import Difficulty
 from movies_manager.models import Movie
-from quote_searcher.connection import ConnectionFactory
+from common_utils.elasticsearch import ElasticConnectionFactory
 
 
 # Create your views here.
@@ -12,7 +12,7 @@ from quote_searcher.connection import ConnectionFactory
 def search_on_quotes(request, query_text):
     if query_text == '':
         return HttpResponseBadRequest("query text can not be blank")
-    es = ConnectionFactory.get_instance()
+    es = ElasticConnectionFactory.get_instance()
     search_body = {
         "size": 30,
         "query": {
@@ -45,7 +45,7 @@ def search_on_quotes(request, query_text):
         sequences.append(sequence)
 
     # Filtering hidden movies
-    sequences = list(filter(lambda s: not s['movie'].hidden_to_users, sequences))
+    sequences = list(filter(lambda s: not s['movie'].visible, sequences))
 
     # Sorting
     sequences = sorted(sequences[:10], key=lambda s: get_difficulty_of_sequence(s))

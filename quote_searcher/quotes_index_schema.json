@@ -14,30 +14,25 @@
           "text": {
             "type": "text",
             "analyzer": "standard",
-            "index": true,
-            "null_value": "not_available"
+            "index": true
           },
           "start_time": {
             "type": "integer",
-            "index": false,
-            "null_value": "not_available"
+            "index": false
           },
           "end_time": {
             "type": "integer",
-            "index": false,
-            "null_value": "not_available"
+            "index": false
           },
           "duration": {
             "type": "integer",
-            "index": false,
-            "null_value": "not_available"
+            "index": false
           }
         }
       },
       "movie_id": {
         "type": "integer",
-        "index": false,
-        "null_value": "not_available"
+        "index": false
       },
       "last_quote_time": {
         "type": "integer",

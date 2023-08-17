@@ -9,6 +9,7 @@ https://docs.djangoproject.com/en/4.2/topics/settings/
 For the full list of settings and their values, see
 https://docs.djangoproject.com/en/4.2/ref/settings/
 """
+import logging
 import os
 from pathlib import Path
 
@@ -129,6 +130,12 @@ MEDIA_URL = '/media/'
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-ELASTICSEARCH_HOST = "127.0.0.1"
+LOG_LEVEL = logging.DEBUG
+
+ELASTICSEARCH_HOST = "filmvocab.ir"
 ELASTICSEARCH_PROT = 9200
-ELASTICSEARCH_URL = "http://{}:{}".format(ELASTICSEARCH_HOST, ELASTICSEARCH_PROT)
+ELASTICSEARCH_URL = f"http://{ELASTICSEARCH_HOST}:{ELASTICSEARCH_PROT}"
+
+NGINX_HOST = "filvocab.ir"
+NGINX_PORT = "8080"
+NGINX_URL = f'http://{NGINX_HOST}:{NGINX_PORT}/download/movie/'

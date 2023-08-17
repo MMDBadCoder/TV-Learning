@@ -32,7 +32,7 @@ def insert(movies_indices):
             rating = float(parts[5])
 
             if Movie.objects.filter(id=index).exists():
-                print("Id of this movie {} by id of {} occupied by another".format(title1, index))
+                print("Id of this movie {} by id of {} occupied by another movie".format(title1, index))
                 return
             Movie.objects.create(id=index, title1=title1, title2=title2, genre=genre,
                                  votes_count=votes_count, imdb_rating=rating)

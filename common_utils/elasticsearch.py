@@ -3,14 +3,14 @@ from elasticsearch import Elasticsearch
 from TV_LEARNING.settings import ELASTICSEARCH_HOST, ELASTICSEARCH_PROT
 
 
-class ConnectionFactory:
+class ElasticConnectionFactory:
     __instance = None
 
     @staticmethod
     def get_instance():
-        if ConnectionFactory.__instance is None:
-            ConnectionFactory.__instance = ConnectionFactory.create_new_connection()
-        return ConnectionFactory.__instance
+        if ElasticConnectionFactory.__instance is None:
+            ElasticConnectionFactory.__instance = ElasticConnectionFactory.create_new_connection()
+        return ElasticConnectionFactory.__instance
 
     @staticmethod
     def create_new_connection():
