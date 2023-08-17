@@ -37,7 +37,8 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'movies_manager',
-    'quote_searcher'
+    'quote_searcher',
+    'admin_panel'
 ]
 
 MIDDLEWARE = [

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <link href="/static/videojs/vjs.zencdn.net_7.19.2_video-js.css" rel="stylesheet"/>
+    <script src="/static/videojs/vjs.zencdn.net_7.17.0_video.min.js"></script>
+
+    <title>{{ movie.title1 }}</title>
+</head>
+<body>
+{% load static %}
+
+<div class="imageBox">
+    <div class="gallery">
+        <video id="video-{{ forloop.counter }}" class="video-js vjs-default-skin"
+               controls="true"
+               autoplay="true"
+               preload="none"
+               fluid="true"
+               poster="/static/images/loading/loading-video.jpg"
+               data-setup='{}'>
+            <source src="{{ movie.video_stream_url }}" type="video/mp4">
+            <track src="/static/web-subtitles/{{ movie.id }}.vtt" kind="captions" srclang="en" label="English"
+                   default>
+        </video>
+        <div class="desc">{{ sequence.movie.title1 }}</div>
+    </div>
+</div>
+
+<script>
+    var player = videojs('video-{{ forloop.counter }}', {});
+    player.play();
+</script>
+</body>
+</html>
