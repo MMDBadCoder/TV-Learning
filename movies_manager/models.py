@@ -18,7 +18,7 @@ class Movie(models.Model):
     imdb_rating = models.FloatField(blank=False, null=False)
     visible = models.BooleanField(default=False, blank=False, null=False)
     is_inserted_in_elasticsearch = models.BooleanField(default=False, blank=False, null=False)
-    specific_stream_url = models.CharField(max_length=1000, blank=True, null=True, default=None)
+    specific_stream_url = models.CharField(max_length=1000, blank=True, null=False, default='')
 
     def __str__(self):
         return '-'.join([str(self.id), self.title1])

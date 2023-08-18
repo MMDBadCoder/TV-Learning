@@ -273,3 +273,9 @@ english_words_difficulty/plain_english_text.txt
 
 ./static/web-subtitles/*.vtt
 /static/web-subtitles/*.vtt
+
+./temp
+temp
+
+./converted_movies
+converted_movies

@@ -38,7 +38,8 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'movies_manager',
     'quote_searcher',
-    'admin_panel'
+    'admin_panel',
+    'preprocessor'
 ]
 
 MIDDLEWARE = [
@@ -126,10 +127,10 @@ MEDIA_DIR = os.path.join(BASE_DIR, 'media')
 MEDIA_ROOT = MEDIA_DIR
 MEDIA_URL = '/media/'
 
+DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+
 # Default primary key field type
 # https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field
-
-DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 LOG_LEVEL = logging.INFO
 
@@ -140,3 +141,12 @@ ELASTICSEARCH_URL = f"http://{ELASTICSEARCH_HOST}:{ELASTICSEARCH_PROT}"
 NGINX_HOST = "filmvocab.ir"
 NGINX_PORT = "8080"
 NGINX_URL = f'http://{NGINX_HOST}:{NGINX_PORT}/download/movie/'
+
+# Preprocessor settings
+NGINX_MOVIES_PATH = os.path.join(BASE_DIR, './converted_movies')
+HTTP_PROXY = 'http://127.0.0.1:10808'
+MAX_TRYS_TO_DOWNLOAD = 3
+MAX_TRYS_TO_CONVERT = 3
+PREPROCESSOR_MAX_TREADS = 3
+PREPROCESSOR_DISPATCHING_PERIOD_SECONDS = 5
+TEMP_DIR = os.path.join(BASE_DIR, './temp')
