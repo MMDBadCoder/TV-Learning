@@ -49,7 +49,7 @@ class MovieAdmin(admin.ModelAdmin):
 
     list_display = ('id', 'title1', 'genre', 'imdb_rating', 'play_movie_button')
     list_filter = ('visible', 'is_inserted_in_elasticsearch', NonEmptyStreamURLFilter)
-    search_fields = ['title1']
+    search_fields = ['id', 'title1']
     ordering = ['id']
 
     def play_movie_button(self, movie):

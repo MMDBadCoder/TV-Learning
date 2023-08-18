@@ -111,10 +111,10 @@ class PreprocessingMovie(models.Model):
                 self.converting_trys += 1
                 self.save()
                 self.convert_movie()
-                self.set_state(PreprocessingMovie.SUCCESSFUL)
                 os.remove(self.get_downloading_path())
                 self.movie.specific_stream_url = ''
                 self.movie.save()
+                self.set_state(PreprocessingMovie.SUCCESSFUL)
             except Exception as e:
                 logger.error(f'Converting of {movie_name} was failed:')
                 logger.error(e)

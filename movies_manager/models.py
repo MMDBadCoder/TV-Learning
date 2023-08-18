@@ -35,10 +35,10 @@ class Movie(models.Model):
         subtitle_file_path = self.get_subtitle_file_path()
         return os.path.isfile(subtitle_file_path)
 
-    def try_to_generate_vtt_file(self):
+    def try_to_generate_vtt_file(self, force_to_regenerate=False):
         subtitle_file_path = self.get_subtitle_file_path()
         vtt_file_path = subtitle_file_path.replace('subtitle_files', 'static/web-subtitles').replace('.srt', '.vtt')
-        if not os.path.isfile(vtt_file_path):
+        if not os.path.isfile(vtt_file_path) or force_to_regenerate:
             generate_vtt_file(self.get_subtitle_file_path(), vtt_file_path)
 
     def get_quotes(self):
@@ -84,3 +84,7 @@ class Movie(models.Model):
             helpers.bulk(es, actions)
             self.is_inserted_in_elasticsearch = True
             self.save()
+
+    def reload_all_data_based_on_subtitle(self):
+        self.try_to_generate_vtt_file(True)
+        self.insert_quotes_to_elasticsearch()

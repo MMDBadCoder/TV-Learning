@@ -3,9 +3,6 @@
 <head>
     {% include 'common-headers.html' %}
 
-    <link href="/static/videojs/vjs.zencdn.net_7.19.2_video-js.css" rel="stylesheet"/>
-    <script src="/static/videojs/vjs.zencdn.net_7.17.0_video.min.js"></script>
-
     <title>{{ movie.title1 }}</title>
 </head>
 <body>
@@ -24,7 +21,6 @@
             <track src="/static/web-subtitles/{{ movie.id }}.vtt" kind="captions" srclang="en" label="English"
                    default>
         </video>
-        <div class="desc">{{ sequence.movie.title1 }}</div>
     </div>
 </div>
 
@@ -32,5 +28,26 @@
     var player = videojs('video-{{ forloop.counter }}', {});
     player.play();
 </script>
+
+
+<div class="ui segment big-container" style="background-color: whitesmoke; margin: 15px; padding: 15px">
+    <h2 class="ui right floated header">Uploading subtitle</h2>
+    <form action="{% url 'admin-upload-subtitle' movie.id %}" method="post" enctype="multipart/form-data">
+        {% csrf_token %}
+        <div class="ui form">
+            <div class="field">
+                <label style="color: darkblue">Subtitle file (.srt)</label>
+                <input type="file" style="color: darkblue" formenctype="multipart/form-data" name="subtitle" required>
+            </div>
+            <div class="field" style="display: flex">
+                <button type="submit" class="ui inverted green button" style="float: right">
+                    Upload
+                </button>
+            </div>
+        </div>
+    </form>
+</div>
+
+
 </body>
 </html>

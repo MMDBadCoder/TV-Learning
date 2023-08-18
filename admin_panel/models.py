@@ -1,3 +1,5 @@
 from django.db import models
 
-# Create your models here.
+
+class SubtitleUpload(models.Model):
+    file = models.FileField(upload_to='subtitle_files/', blank=True)
