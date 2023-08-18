@@ -21,4 +21,5 @@ urlpatterns = [
     path('admin/admin/', admin.site.urls),
     path('admin/', include('admin_panel.urls')),
     path('quote/', include('quote_searcher.urls')),
+    path('', include('quote_searcher.urls')),
 ]

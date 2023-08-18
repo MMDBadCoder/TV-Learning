@@ -1,12 +1,10 @@
 from django.http import HttpResponseBadRequest
 from django.shortcuts import render, redirect
 
+from TV_LEARNING.settings import ELASTIC_LIMIT_SEARCH_RESULT, RESPONSE_LIMIT_SEARCH_RESULT
+from common_utils.elasticsearch import ElasticConnectionFactory
 from english_words_difficulty.difficulty_service import Difficulty
 from movies_manager.models import Movie
-from common_utils.elasticsearch import ElasticConnectionFactory
-
-ELASTIC_LIMIT_SEARCH_RESULT = 15
-RESPONSE_LIMIT_SEARCH_RESULT = 5
 
 
 def search_on_quotes(request, query_text):
