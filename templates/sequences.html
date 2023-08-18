@@ -1,0 +1,10 @@
+<script>
+    var players = [];
+</script>
+
+
+<div class="ui link three doubling stackable cards cards">
+    {% for sequence in sequences %}
+        {% include 'sequence_card.html' with sequence=sequence %}
+    {% endfor %}
+</div>

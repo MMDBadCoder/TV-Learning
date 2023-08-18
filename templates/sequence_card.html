@@ -1,0 +1,71 @@
+{% load humanize %}
+
+<div class="card">
+    <div class="image">
+        <video id="video-{{ forloop.counter }}" class="video-js vjs-default-skin"
+               controls="true"
+               autoplay="false"
+               preload="none"
+               fluid="true"
+               poster=""
+               data-setup='{}'>
+            <source src="{{ sequence.movie.video_stream_url }}" type="video/mp4">
+            <track src="/static/web-subtitles/{{ sequence.movie.id }}.vtt" kind="captions" srclang="en"
+                   label="English"
+                   default>
+        </video>
+    </div>
+    <div class="content">
+        <div class="header left floated">{{ sequence.movie.title1 }}</div>
+        <br>
+        <div class="meta left floated">
+            <a>{{ sequence.display_second }}</a>
+        </div>
+        <div class="description">
+            {{ sequence.quote.text }}
+        </div>
+    </div>
+    <div class="extra content">
+                <span class="right floated">
+
+                </span>
+        <span class="left floated">
+
+                </span>
+    </div>
+    <div class="extra content">
+        <span class="right floated">{{ sequence.movie.imdb_rating }} (IMDB)</span>
+        <span class="left floated"><i class="user icon"></i>{{ sequence.movie.votes_count | intword }}</span>
+    </div>
+</div>
+
+<script>
+    $(document).ready(function () {
+        let player = videojs('video-{{ forloop.counter }}', {});
+        let start_time = {{ sequence.start_time }};
+        let end_time = {{ sequence.end_time }};
+        players.push(player)
+        player.controlBar.progressControl.hide();
+        player.ready(function () {
+            player.currentTime(start_time);
+            {% if forloop.counter == 1 %}
+                player.play();
+            {% else %}
+                player.pause();
+            {% endif %}
+            player.on('timeupdate', function () {
+                if (player.currentTime() >= end_time) {
+                    player.currentTime(start_time);
+                    player.play();
+                }
+            });
+            player.on('play', function () {
+                for (const p of players) {
+                    if (p !== player) {
+                        p.pause();
+                    }
+                }
+            });
+        });
+    });
+</script>

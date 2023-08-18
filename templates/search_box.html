@@ -1,0 +1,9 @@
+<form action="{% url 'user-quote-search-box' %}" class="search-bar" method="post" id="search-form">
+    {% csrf_token %}
+    <div class="ui left icon action input">
+        <i class="search icon"></i>
+        <input type="text" placeholder="Text to search" name="query_text" required>
+        <div class="ui blue submit button" onclick="document.getElementById('form-submit-button').click()">Search</div>
+        <input type="submit" id="form-submit-button" hidden>
+    </div>
+</form>

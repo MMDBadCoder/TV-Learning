@@ -1,3 +1,5 @@
+import datetime
+
 from django.http import HttpResponseBadRequest
 from django.shortcuts import render, redirect
 
@@ -40,15 +42,16 @@ def search_on_quotes(request, query_text):
         sequence['movie'] = movie
 
         # Determining start time of sequence
-        sequence_start_time = max(0, sequence['quote']['start_time'] - 3)
+        sequence_start_time = max(0, sequence['quote']['start_time'] - 4)
         if sequence.__contains__('last_quote_time'):
-            sequence_start_time = max(sequence['last_quote_time'] - 1, sequence_start_time)
+            sequence_start_time = max(sequence['last_quote_time'] - 2, sequence_start_time)
         sequence['start_time'] = sequence_start_time
+        sequence['display_second'] = str(datetime.timedelta(seconds=int(sequence_start_time)))
 
         # Determining end time of sequence
-        sequence_end_time = sequence['quote']['end_time'] + 3
+        sequence_end_time = sequence['quote']['end_time'] + 4
         if sequence.__contains__('next_quote_time'):
-            sequence_end_time = min(sequence_end_time, sequence['next_quote_time'] + 1)
+            sequence_end_time = min(sequence_end_time, sequence['next_quote_time'] + 2)
         sequence['end_time'] = sequence_end_time
 
         sequences.append(sequence)
@@ -72,7 +75,7 @@ def search_box(request):
         if query_text is None:
             return HttpResponseBadRequest("missing query text")
         return redirect('user-quote-search-by-url', query_text)
-    return render(request=request, template_name='search.html')
+    return render(request=request, template_name='search_page.html')
 
 
 def get_difficulty_of_sequence(sequence):
