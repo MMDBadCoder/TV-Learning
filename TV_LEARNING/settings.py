@@ -146,7 +146,7 @@ NGINX_PORT = "8080"
 NGINX_URL = f'http://{NGINX_HOST}:{NGINX_PORT}/download/movie/'
 
 # Preprocessor settings
-NGINX_MOVIES_PATH = os.path.join(BASE_DIR, './converted_movies')
+NGINX_MOVIES_PATH = os.path.join(BASE_DIR, '/movies/converted_movies/')
 HTTP_PROXY = 'http://127.0.0.1:10808'
 MAX_TRYS_TO_DOWNLOAD = 3
 MAX_TRYS_TO_CONVERT = 3
