@@ -44,14 +44,14 @@ class Command(BaseCommand):
 def check_healthy_of_movie(movie: Movie):
     movie_name = f'{movie.title1[:10]}...(id={movie.id})'
 
-    if movie.has_subtitle_file():
+    if movie.subtitle_file:
         if not movie.visible:
             logger.info(f'"{movie_name}" is not visible but has subtitle file!')
         try:
             movie.get_quotes()
         except Exception as e:
             logger.warning(f'Some problems were detected in subtitle of "{movie_name}".\n{e}')
-            remove_unprintable_chars(movie.get_subtitle_file_path())
+            remove_unprintable_chars(movie.subtitle_file.path)
             try:
                 movie.get_quotes()
             except Exception as e:
@@ -62,7 +62,7 @@ def check_healthy_of_movie(movie: Movie):
     if not movie.visible:
         return
 
-    if not movie.has_subtitle_file():
+    if not movie.subtitle_file:
         logger.error(f'"{movie_name}" has no subtitle file.')
         sys.exit(2)
 

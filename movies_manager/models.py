@@ -3,7 +3,7 @@ import os
 from django.db import models
 from elasticsearch import helpers
 
-from TV_LEARNING.settings import BASE_DIR, NGINX_URL
+from TV_LEARNING.settings import NGINX_URL, MEDIA_ROOT, BASE_DIR
 from common_utils.elasticsearch import ElasticConnectionFactory
 from common_utils.subtitle_utils import get_quotes_of_subtitle, generate_vtt_file
 
@@ -19,6 +19,7 @@ class Movie(models.Model):
     visible = models.BooleanField(default=False, blank=False, null=False)
     is_inserted_in_elasticsearch = models.BooleanField(default=False, blank=False, null=False)
     specific_stream_url = models.CharField(max_length=1000, blank=True, null=False, default='')
+    subtitle_file = models.FileField(upload_to='subtitle_files/', blank=True, null=True)
 
     def __str__(self):
         return '-'.join([str(self.id), self.title1])
@@ -29,24 +30,20 @@ class Movie(models.Model):
         return f'{NGINX_URL}{self.id}.mp4'
 
     def get_subtitle_file_path(self):
-        return os.path.join(BASE_DIR, 'subtitle_files', str(self.id) + ".srt")
-
-    def has_subtitle_file(self):
-        subtitle_file_path = self.get_subtitle_file_path()
-        return os.path.isfile(subtitle_file_path)
+        return os.path.join(BASE_DIR, MEDIA_ROOT, self.subtitle_file.url)
 
     def try_to_generate_vtt_file(self, force_to_regenerate=False):
-        subtitle_file_path = self.get_subtitle_file_path()
+        subtitle_file_path = self.subtitle_file.path
         vtt_file_path = subtitle_file_path.replace('subtitle_files', 'static/web-subtitles').replace('.srt', '.vtt')
         if not os.path.isfile(vtt_file_path) or force_to_regenerate:
-            generate_vtt_file(self.get_subtitle_file_path(), vtt_file_path)
+            generate_vtt_file(self.subtitle_file.path, vtt_file_path)
 
     def get_quotes(self):
-        if not self.has_subtitle_file():
+        if not self.subtitle_file:
             raise Exception("Subtitle of movie {} by id of {} does not exist.".format(self.title1, self.id))
         if Movie.__CASHED_QUOTES.__contains__(self.id):
             return Movie.__CASHED_QUOTES[self.id]
-        quotes = get_quotes_of_subtitle(self.get_subtitle_file_path())
+        quotes = get_quotes_of_subtitle(self.subtitle_file.path)
         Movie.__CASHED_QUOTES[self.id] = quotes
         return quotes
 

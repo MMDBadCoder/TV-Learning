@@ -14,9 +14,6 @@ from movies_manager.models import Movie
 if not os.path.exists(TEMP_DIR):
     os.mkdir(TEMP_DIR)
 
-if not os.path.exists(NGINX_MOVIES_PATH):
-    os.mkdir(NGINX_MOVIES_PATH)
-
 logger = LoggerFactory.get_instance()
 
 

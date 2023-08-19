@@ -26,7 +26,7 @@ def upload_subtitle_file(request, movie_id):
         return HttpResponseBadRequest()
 
     movie = Movie.objects.get(id=movie_id)
-    subtitle_file_path = movie.get_subtitle_file_path()
+    subtitle_file_path = movie.subtitle_file.path
     if os.path.exists(subtitle_file_path):
         os.remove(subtitle_file_path)
 
