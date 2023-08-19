@@ -73,10 +73,10 @@ class PreprocessingMovie(models.Model):
         downloaded_movie_path = self.get_downloading_path()
 
         ffmpeg.input(downloaded_movie_path).output(converted_movie_path, vcodec='libx264',
-                                                   crf=28,  # Constant Rate Factor (CRF)
-                                                   s='640x360',  # Resolution
+                                                   crf=34,  # Constant Rate Factor (CRF)
+                                                   s='480x270',  # Resolution
                                                    r='25',  # Frame rate
-                                                   bitrate='500k',  # Video bitrate
+                                                   bitrate='30k',  # Video bitrate
                                                    movflags='+faststart').run()
 
         if not os.path.isfile(converted_movie_path):
