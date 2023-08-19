@@ -1,6 +1,4 @@
 import json
-import os
-import string
 import sys
 from concurrent.futures import ThreadPoolExecutor
 
@@ -43,21 +41,17 @@ class Command(BaseCommand):
 
 def check_healthy_of_movie(movie: Movie):
     movie_name = f'{movie.title1[:10]}...(id={movie.id})'
+    quotes = None
 
     if movie.subtitle_file:
         if not movie.visible:
             logger.info(f'"{movie_name}" is not visible but has subtitle file!')
         try:
-            movie.get_quotes()
+            quotes = movie.get_quotes()
         except Exception as e:
-            logger.warning(f'Some problems were detected in subtitle of "{movie_name}".\n{e}')
-            remove_unprintable_chars(movie.subtitle_file.path)
-            try:
-                movie.get_quotes()
-            except Exception as e:
-                logger.error(f'Problem at reading subtitle of "{movie_name}".')
-                logger.error(e)
-                sys.exit(1)
+            logger.error(f'Some problems were detected in subtitle of "{movie_name}"')
+            logger.error(e)
+            sys.exit(1)
 
     if not movie.visible:
         return
@@ -66,13 +60,8 @@ def check_healthy_of_movie(movie: Movie):
         logger.error(f'"{movie_name}" has no subtitle file.')
         sys.exit(2)
 
-    # Check if vtt file has been generated
-    try:
-        movie.try_to_generate_vtt_file()
-    except Exception as e:
-        logger.error(f'Can not generate vtt file of "{movie_name}".')
-        logger.error(e)
-        sys.exit(3)
+    if quotes is None:
+        quotes = movie.get_quotes()
 
     # Check if streaming url is healthy
     successful = True
@@ -90,41 +79,15 @@ def check_healthy_of_movie(movie: Movie):
 
     # Check if all visible movies are ready to searching on their quotes
     with ElasticConnectionFactory.create_new_connection() as es:
-
-        expected_quotes = movie.get_quotes()
-
-        def get_quotes_count_from_elasticsearch():
-            try:
-                query = {"query": {"match": {"movie_id": movie.id}}}
-                return es.count(index='quotes', body=query)['count']
-            except Exception as es_error:
-                logger.error(f'Unable to get count of quotes of "{movie_name}"')
-                logger.error(es_error)
-                sys.exit(5)
-
-        # Check if its quotes are inserted elasticsearch
-        if (not movie.is_inserted_in_elasticsearch) or (len(expected_quotes) != get_quotes_count_from_elasticsearch()):
-            try:
-                logger.info(f'Try to insert "{movie_name}" quotes to elasticsearch.')
-                movie.insert_quotes_to_elasticsearch()
-            except Exception as e:
-                logger.error(f'Can not put quotes of "{movie_name}" to elasticsearch.')
-                logger.error(e)
+        try:
+            query = {"query": {"match": {"movie_id": movie.id}}}
+            if es.count(index='quotes', body=query)['count'] != len(quotes):
+                logger.error(f'Quotes of "{movie_name}" are not synced by elasticsearch.')
                 sys.exit(6)
-
-
-# Some .srt files have unprintable chars, this method remove them
-def remove_unprintable_chars(subtitle_file_path):
-    temp_file_path = subtitle_file_path + ".temp"
-    printable_chars = bytes(string.printable, 'ascii')
-    with open(subtitle_file_path, "rb") as in_file, open(temp_file_path, "wb") as out_file:
-        printable_bytes = []
-        for b in in_file.read():
-            if b in printable_chars:
-                printable_bytes.append(b)
-        out_file.write(bytes(printable_bytes))
-    os.remove(subtitle_file_path)
-    os.rename(temp_file_path, subtitle_file_path)
+        except Exception as es_error:
+            logger.error(f'Unable to get count of quotes of "{movie_name}"')
+            logger.error(es_error)
+            sys.exit(5)
 
 
 def check_exists_of_elasticsearch_index():

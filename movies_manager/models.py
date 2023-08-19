@@ -1,25 +1,22 @@
-import os
-
 from django.db import models
+from django.db.models.signals import post_save
+from django.dispatch import receiver
 from elasticsearch import helpers
 
-from TV_LEARNING.settings import NGINX_URL, MEDIA_ROOT, BASE_DIR
+from TV_LEARNING.settings import NGINX_URL
 from common_utils.elasticsearch import ElasticConnectionFactory
-from common_utils.subtitle_utils import get_quotes_of_subtitle, generate_vtt_file
+from movies_manager.utils import get_subtitle_path, prepare_subtitle_file, extract_quotes_from_subtitle
 
 
 class Movie(models.Model):
-    __CASHED_QUOTES = {}
-
     title1 = models.CharField(max_length=100, blank=False, null=False)
     title2 = models.CharField(max_length=100, blank=False, null=False)
     genre = models.CharField(max_length=100, blank=True, null=False, default='')
     votes_count = models.IntegerField(blank=False, null=False)
     imdb_rating = models.FloatField(blank=False, null=False)
     visible = models.BooleanField(default=False, blank=False, null=False)
-    is_inserted_in_elasticsearch = models.BooleanField(default=False, blank=False, null=False)
     specific_stream_url = models.CharField(max_length=1000, blank=True, null=False, default='')
-    subtitle_file = models.FileField(upload_to='subtitle_files/', blank=True, null=True)
+    subtitle_file = models.FileField(upload_to=get_subtitle_path, blank=True, null=True)
 
     def __str__(self):
         return '-'.join([str(self.id), self.title1])
@@ -29,29 +26,14 @@ class Movie(models.Model):
             return self.specific_stream_url
         return f'{NGINX_URL}{self.id}.mp4'
 
-    def get_subtitle_file_path(self):
-        return os.path.join(BASE_DIR, MEDIA_ROOT, self.subtitle_file.url)
-
-    def try_to_generate_vtt_file(self, force_to_regenerate=False):
-        subtitle_file_path = self.subtitle_file.path
-        vtt_file_path = subtitle_file_path.replace('subtitle_files', 'static/web-subtitles').replace('.srt', '.vtt')
-        if not os.path.isfile(vtt_file_path) or force_to_regenerate:
-            generate_vtt_file(self.subtitle_file.path, vtt_file_path)
-
     def get_quotes(self):
         if not self.subtitle_file:
             raise Exception("Subtitle of movie {} by id of {} does not exist.".format(self.title1, self.id))
-        if Movie.__CASHED_QUOTES.__contains__(self.id):
-            return Movie.__CASHED_QUOTES[self.id]
-        quotes = get_quotes_of_subtitle(self.subtitle_file.path)
-        Movie.__CASHED_QUOTES[self.id] = quotes
-        return quotes
+        return extract_quotes_from_subtitle(self.subtitle_file.path)
 
     def delete_quotes_from_elasticsearch(self):
         with ElasticConnectionFactory.create_new_connection() as es:
             es.delete_by_query(index='quotes', body={"query": {"match": {"movie_id": self.id}}})
-            self.is_inserted_in_elasticsearch = False
-            self.save()
 
     def insert_quotes_to_elasticsearch(self):
         with ElasticConnectionFactory.create_new_connection() as es:
@@ -79,9 +61,12 @@ class Movie(models.Model):
 
             # Insert quotes by bulk query
             helpers.bulk(es, actions)
-            self.is_inserted_in_elasticsearch = True
-            self.save()
 
-    def reload_all_data_based_on_subtitle(self):
-        self.try_to_generate_vtt_file(True)
-        self.insert_quotes_to_elasticsearch()
+
+@receiver(post_save, sender=Movie)
+def movie_post_save_handler(sender, instance: Movie, **kwargs):
+    if instance.subtitle_file:
+        prepare_subtitle_file(instance.subtitle_file.path)
+        instance.insert_quotes_to_elasticsearch()
+    else:
+        instance.delete_quotes_from_elasticsearch()

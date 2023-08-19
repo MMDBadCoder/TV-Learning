@@ -39,6 +39,8 @@ def get_quotes_of_subtitle(subtitle_path):
                 line_number += 1
                 line = line.strip()
                 if state == 0:
+                    if not line:
+                        continue
                     current_quote = {
                         'index': int(line)
                     }

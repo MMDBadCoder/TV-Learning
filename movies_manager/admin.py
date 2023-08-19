@@ -7,23 +7,18 @@ from movies_manager.models import Movie
 from preprocessor.models import PreprocessingMovie
 
 
-@admin.action(description="Insert quotes to elasticsearch")
-def insert_quotes_to_elasticsearch(admin_model, request, queryset):
+@admin.action(description="Reload")
+def reload_all_data_from_subtitle(admin_model, request, queryset):
     for movie in tqdm(queryset.all()):
-        movie.insert_quotes_to_elasticsearch()
+        movie.reload_all_data_based_on_subtitle()
 
 
-@admin.action(description="Delete quotes from elasticsearch")
-def delete_quotes_from_elasticsearch(admin_model, request, queryset):
-    for movie in tqdm(queryset.all()):
-        movie.delete_quotes_from_elasticsearch()
-
-
-@admin.action(description="Create preprocess task")
+@admin.action(description="Download & Convert")
 def create_preprocess_task_of_movie(admin_model, request, queryset):
     for movie in tqdm(queryset.all()):
         if movie.specific_stream_url:
-            PreprocessingMovie(movie=movie, download_url=movie.video_stream_url()).save()
+            if not PreprocessingMovie.objects.exclude(state=PreprocessingMovie.SUCCESSFUL).filter(movie=movie).exists():
+                PreprocessingMovie(movie=movie, download_url=movie.video_stream_url()).save()
 
 
 class NonEmptyStreamURLFilter(admin.SimpleListFilter):
@@ -45,10 +40,10 @@ class NonEmptyStreamURLFilter(admin.SimpleListFilter):
 
 
 class MovieAdmin(admin.ModelAdmin):
-    actions = [insert_quotes_to_elasticsearch, delete_quotes_from_elasticsearch, create_preprocess_task_of_movie]
+    actions = [reload_all_data_from_subtitle, create_preprocess_task_of_movie]
 
-    list_display = ('id', 'title1', 'genre', 'imdb_rating', 'play_movie_button')
-    list_filter = ('visible', 'is_inserted_in_elasticsearch', NonEmptyStreamURLFilter)
+    list_display = ('id', 'title1', 'play_movie_button')
+    list_filter = ('visible', NonEmptyStreamURLFilter)
     search_fields = ['id', 'title1']
     ordering = ['id']
 
@@ -57,7 +52,7 @@ class MovieAdmin(admin.ModelAdmin):
         button_html = f'<a class="button" href="{url}">Play</a>'
         return mark_safe(button_html)
 
-    play_movie_button.short_description = 'Play video'
+    play_movie_button.short_description = 'Watching'
 
 
 admin.site.register(Movie, MovieAdmin)

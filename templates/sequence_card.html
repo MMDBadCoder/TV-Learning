@@ -10,7 +10,7 @@
                poster=""
                data-setup='{}'>
             <source src="{{ sequence.movie.video_stream_url }}" type="video/mp4">
-            <track src="/static/web-subtitles/{{ sequence.movie.id }}.vtt" kind="captions" srclang="en"
+            <track src="{{ sequence.movie.subtitle_file.url }}" kind="captions" srclang="en"
                    label="English"
                    default>
         </video>

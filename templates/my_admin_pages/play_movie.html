@@ -8,46 +8,22 @@
 <body>
 {% load static %}
 
-<div class="imageBox">
-    <div class="gallery">
-        <video id="video-{{ forloop.counter }}" class="video-js vjs-default-skin"
-               controls="true"
-               autoplay="true"
-               preload="none"
-               fluid="true"
-               poster="/static/images/loading/loading-video.jpg"
-               data-setup='{}'>
-            <source src="{{ movie.video_stream_url }}" type="video/mp4">
-            <track src="/static/web-subtitles/{{ movie.id }}.vtt" kind="captions" srclang="en" label="English"
-                   default>
-        </video>
-    </div>
-</div>
+<video id="video" class="video-js vjs-default-skin"
+       controls="true"
+       autoplay="true"
+       preload="none"
+       fluid="true"
+       poster="/static/images/loading/loading-video.jpg"
+       data-setup='{}'>
+    <source src="{{ movie.video_stream_url }}" type="video/mp4">
+    <track src="{{ movie.subtitle_file.url }}" kind="captions" srclang="en" label="English"
+           default>
+</video>
 
 <script>
-    var player = videojs('video-{{ forloop.counter }}', {});
+    var player = videojs('video', {});
     player.play();
 </script>
-
-
-<div class="ui segment big-container" style="background-color: whitesmoke; margin: 15px; padding: 15px">
-    <h2 class="ui right floated header">Uploading subtitle</h2>
-    <form action="{% url 'admin-upload-subtitle' movie.id %}" method="post" enctype="multipart/form-data">
-        {% csrf_token %}
-        <div class="ui form">
-            <div class="field">
-                <label style="color: darkblue">Subtitle file (.srt)</label>
-                <input type="file" style="color: darkblue" formenctype="multipart/form-data" name="subtitle" required>
-            </div>
-            <div class="field" style="display: flex">
-                <button type="submit" class="ui inverted green button" style="float: right">
-                    Upload
-                </button>
-            </div>
-        </div>
-    </form>
-</div>
-
 
 </body>
 </html>
