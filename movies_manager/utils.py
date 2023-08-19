@@ -9,23 +9,38 @@ def get_subtitle_path(instance, filename):
     return os.path.join('subtitle_files', f'{instance.id}.vtt')
 
 
-# This method does thw things:
+# This method does some things:
 # 1. Some files have unprintable chars, this method remove them
 # 2. .vtt files should begin with 'WEBVTT\n\n', this method will add it if not exist
+# 3. .srt use ',' to separate digits, it will change it to '.'
 def prepare_subtitle_file(subtitle_file_path):
     temp_file_path = subtitle_file_path + ".temp"
     printable_chars = bytes(string.printable, 'ascii')
     with open(subtitle_file_path, "rb") as in_file, open(temp_file_path, "wb") as out_file:
-        read_chars = []
+        read_bytes = []
 
         # Read
         for b in in_file.read():
             if b in printable_chars:
-                read_chars.append(b)
+                read_bytes.append(b)
+
+        content = bytes(read_bytes).decode('utf-8')
+        lines = content.split('\n')
 
         # Concatenate WEBVTT
-        printable_bytes = bytes(read_chars)
-        if chr(read_chars[0]).lower() != 'w':
+        if content[:6].lower() == 'webvtt':
+            vtt_formatted_lines = []
+        else:
+            vtt_formatted_lines = ['WEBVTT\n', '\n']
+
+        for line in lines:
+            if line.__contains__(' --> '):
+                line = line.replace(',', '.')
+            vtt_formatted_lines.append(line)
+
+        new_content = '\n'.join(vtt_formatted_lines)
+        printable_bytes = new_content.encode('utf-8')
+        if chr(read_bytes[0]).lower() != 'w':
             printable_bytes = bytes('WEBVTT\n\n', 'utf-8') + printable_bytes
 
         # Write
