@@ -7,18 +7,23 @@ from movies_manager.models import Movie
 from preprocessor.models import PreprocessingMovie
 
 
-@admin.action(description="Reload")
-def reload_all_data_from_subtitle(admin_model, request, queryset):
+@admin.action(description="Load to elasticsearch")
+def load_quotes_to_elasticsearch(admin_model, request, queryset):
     for movie in tqdm(queryset.all()):
-        movie.reload_all_data_based_on_subtitle()
+        if movie.subtitle_file:
+            movie.insert_quotes_to_elasticsearch()
 
 
 @admin.action(description="Download & Convert")
-def create_preprocess_task_of_movie(admin_model, request, queryset):
+def create_preprocess_task_of_movies(admin_model, request, queryset):
     for movie in tqdm(queryset.all()):
-        if movie.specific_stream_url:
-            if not PreprocessingMovie.objects.exclude(state=PreprocessingMovie.SUCCESSFUL).filter(movie=movie).exists():
-                PreprocessingMovie(movie=movie, download_url=movie.video_stream_url()).save()
+        create_preprocess_task(movie)
+
+
+def create_preprocess_task(movie: Movie):
+    if movie.specific_stream_url and \
+            not PreprocessingMovie.objects.exclude(state=PreprocessingMovie.SUCCESSFUL).filter(movie=movie).exists():
+        PreprocessingMovie(movie=movie, download_url=movie.video_stream_url()).save()
 
 
 class NonEmptyStreamURLFilter(admin.SimpleListFilter):
@@ -40,7 +45,7 @@ class NonEmptyStreamURLFilter(admin.SimpleListFilter):
 
 
 class MovieAdmin(admin.ModelAdmin):
-    actions = [reload_all_data_from_subtitle, create_preprocess_task_of_movie]
+    actions = [load_quotes_to_elasticsearch, create_preprocess_task_of_movies]
 
     list_display = ('id', 'title1', 'play_movie_button')
     list_filter = ('visible', NonEmptyStreamURLFilter)
