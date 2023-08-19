@@ -1,3 +1,5 @@
+WEBVTT
+
 1
 00:01:16,820 --> 00:01:19,660
 I believe in America.
@@ -297,7 +299,7 @@ on my daughter's wedding day.
 
 66
 00:07:07,510 --> 00:07:09,920
-- Gràzie, Godfather.
+- Grzie, Godfather.
 - Prego.
 
 67
@@ -1227,7 +1229,7 @@ business, and let me tell you why.
 265
 00:31:20,870 --> 00:31:25,550
 Johnny Fontane ruined one of Woltz
-International's most valuable protégés.
+International's most valuable protgs.
 
 266
 00:31:25,630 --> 00:31:31,010
@@ -1677,7 +1679,7 @@ mind getting the car.
 
 361
 00:41:31,650 --> 00:41:33,820
-Buon natale, Caro. Gràzie.
+Buon natale, Caro. Grzie.
 
 362
 00:42:16,450 --> 00:42:20,740
@@ -4501,7 +4503,7 @@ don't want it sold to children.
 
 970
 02:10:08,750 --> 02:10:10,550
-Thats an infàmia.
+Thats an infmia.
 
 971
 02:10:11,880 --> 02:10:15,800

@@ -1,3 +1,5 @@
+WEBVTT
+
 1
 00:00:05,000 --> 00:00:15,000
 Created and Encoded by --  Bokutox -- of  www.MY-SUBS-TORRENTS.com. The Best 720p/1080p/3d movies with the lowest file size on the internet. World of Warcraft - Outland PVP (EU) - Torporr (name)
@@ -6633,7 +6635,7 @@ I've ever heard.
 
 1515
 01:49:57,172 --> 01:50:00,163
-<i>I was living in a state of perpetual d茅j脿 vu.</i>
+<i>I was living in a state of perpetual dj vu.</i>
 
 1516
 01:50:00,976 --> 01:50:03,035
@@ -7075,7 +7077,7 @@ Is anybody here?
 
 1616
 01:55:56,447 --> 01:55:58,540
-<i>D茅j脿 vu all over again.</i>
+<i>Dj vu all over again.</i>
 
 1617
 01:56:00,184 --> 01:56:02,675

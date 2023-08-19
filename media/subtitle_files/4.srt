@@ -1,3 +1,5 @@
+WEBVTT
+
 1
 00:03:01,265 --> 00:03:05,936
 They've killed the boy!
@@ -643,7 +645,7 @@ I've got to check on my boys.
 144
 00:21:13,982 --> 00:21:19,821
 A kid gives me a Ritz cracker
-with chopped liver and says, "canapés".
+with chopped liver and says, "canaps".
 
 145
 00:21:19,988 --> 00:21:25,202
@@ -3240,7 +3242,7 @@ who can't speak English.
 
 719
 01:31:40,792 --> 01:31:43,670
-<i>-Gracias, señor.
+<i>-Gracias, seor.
 -Buenas noches.</i>
 
 720
@@ -3442,7 +3444,7 @@ Gentlemen, it's refill time!
 764
 01:36:22,991 --> 01:36:27,454
 You might try some of the local drinks.
-Cuba Libre, Piña Colada...
+Cuba Libre, Pia Colada...
 
 765
 01:36:27,538 --> 01:36:31,416
@@ -3475,7 +3477,7 @@ Gentlemen, to a night in Havana!
 
 771
 01:36:48,517 --> 01:36:51,436
-<i>-Feliz Año Nuevo!
+<i>-Feliz Ao Nuevo!
 -Happy New Year.</i>
 
 772
@@ -3634,7 +3636,7 @@ I wish all of you good luck.
 
 805
 01:45:27,452 --> 01:45:30,873
-<i>Viva la revolución! Viva Fidel!</i>
+<i>Viva la revolucin! Viva Fidel!</i>
 
 806
 01:45:52,728 --> 01:45:54,271

@@ -1,3 +1,5 @@
+WEBVTT
+
 1
 00:01:25.168 --> 00:01:26.502
 [SPEAKING IN JAPANESE]
@@ -1578,7 +1580,7 @@ can get up to in five minutes?
 351
 00:29:04.993 --> 00:29:07.911
 COBB: You've got the basic layout.
-Bookstore. cafĂ©.
+Bookstore. caf.
 
 352
 00:29:08.079 --> 00:29:09.746
@@ -2187,7 +2189,7 @@ IN FOREIGN LANGUAGE]
 
 481
 00:38:05.366 --> 00:38:07.117
-One cafĂ©.
+One caf.
 
 482
 00:38:11.455 --> 00:38:12.622
@@ -2199,11 +2201,11 @@ Shh.
 
 484
 00:38:18.254 --> 00:38:19.713
-One cafĂ©.
+One caf.
 
 485
 00:38:20.756 --> 00:38:22.215
-One cafĂ©.
+One caf.
 
 486
 00:38:23.384 --> 00:38:24.551

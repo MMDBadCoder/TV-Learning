@@ -1,3 +1,5 @@
+WEBVTT
+
 0
 00:00:04,594 --> 00:00:10,594
 A Team Nanban (594mgnav) Release

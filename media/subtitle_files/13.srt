@@ -1,3 +1,5 @@
+WEBVTT
+
 1
 00:01:16.702 --> 00:01:20.445
 Gandalf: You cannot pass!

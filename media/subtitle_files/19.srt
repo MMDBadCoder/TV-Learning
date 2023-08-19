@@ -1,3 +1,5 @@
+WEBVTT
+
 1
 00:01:14,908 --> 00:01:16,993
 Well, my dad was a farmer.
@@ -5260,7 +5262,7 @@ What happened to Nelson?
 
 1196
 01:29:41,543 --> 01:29:43,753
-Murph, would you like some more soufflé?
+Murph, would you like some more souffl?
 
 1197
 01:29:43,920 --> 01:29:47,298
