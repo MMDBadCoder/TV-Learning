@@ -6,7 +6,10 @@ from webvtt import WebVTT
 
 
 def get_subtitle_path(instance, filename):
-    return os.path.join('subtitle_files', f'{instance.id}.vtt')
+    subtitle_path = os.path.join('subtitle_files', f'{instance.id}.vtt')
+    if os.path.exists(subtitle_path):
+        os.remove(subtitle_path)
+    return subtitle_path
 
 
 # This method does some things:
