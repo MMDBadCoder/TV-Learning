@@ -15,7 +15,7 @@
                    default>
         </video>
     </div>
-    <div class="content">
+    <div class="content" onclick="switch_player({{ forloop.counter }} - 1);">
         <div class="header left floated">{{ sequence.movie.title1 }}</div>
         <br>
         <div class="meta left floated">
@@ -26,7 +26,7 @@
         </div>
     </div>
 
-    <div class="extra content">
+    <div class="extra content" onclick="switch_player({{ forloop.counter }} - 1);">
         <span class="right floated">{{ sequence.movie.imdb_rating }} (IMDB)</span>
         <span class="left floated"><i class="user icon"></i>{{ sequence.movie.votes_count | intword }}</span>
     </div>
@@ -41,11 +41,6 @@
         player.controlBar.progressControl.hide();
         player.ready(function () {
             player.currentTime(start_time);
-            {% if forloop.counter == 1 %}
-                player.play();
-            {% else %}
-                player.pause();
-            {% endif %}
             player.on('timeupdate', function () {
                 if (player.currentTime() >= end_time) {
                     player.currentTime(start_time);
@@ -60,5 +55,10 @@
                 }
             });
         });
+        {% if forloop.counter == 1 %}
+            player.play();
+        {% else %}
+            player.pause();
+        {% endif %}
     });
 </script>

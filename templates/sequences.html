@@ -1,5 +1,14 @@
 <script>
     var players = [];
+
+    function switch_player(index) {
+        let player = players[index];
+        if (player.paused()) {
+            player.play();
+        } else {
+            player.pause();
+        }
+    }
 </script>
 
 
