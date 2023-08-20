@@ -38,13 +38,9 @@ def prepare_subtitle_file(subtitle_file_path):
                 line = line.replace(',', '.')
             vtt_formatted_lines.append(line)
 
-        new_content = '\n'.join(vtt_formatted_lines)
-        printable_bytes = new_content.encode('utf-8')
-        if chr(read_bytes[0]).lower() != 'w':
-            printable_bytes = bytes('WEBVTT\n\n', 'utf-8') + printable_bytes
-
         # Write
-        out_file.write(printable_bytes)
+        new_content = '\n'.join(vtt_formatted_lines)
+        out_file.write(new_content.encode('utf-8'))
 
     os.remove(subtitle_file_path)
     os.rename(temp_file_path, subtitle_file_path)
