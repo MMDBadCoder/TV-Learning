@@ -6,7 +6,7 @@ import requests
 import tqdm
 from django.core.management import BaseCommand
 
-from common_utils.elasticsearch import ElasticConnectionFactory
+from common_utils.elasticsearch import ElasticConnectionFactory, validate_existence_of_elasticsearch_index
 from common_utils.logging_utils import LoggerFactory
 from movies_manager.models import Movie
 
@@ -18,8 +18,7 @@ class Command(BaseCommand):
     help = 'Check all models are consistent'
 
     def handle(self, *args, **options):
-        logger.info('Check healthy of elasticsearch')
-        if not check_exists_of_elasticsearch_index():
+        if not validate_existence_of_elasticsearch_index():
             sys.exit(99)
 
         # Create a ThreadPoolExecutor to check healthy of each movie
@@ -90,20 +89,3 @@ def check_healthy_of_movie(movie: Movie):
             sys.exit(5)
 
 
-def check_exists_of_elasticsearch_index():
-    index_name = 'quotes'
-    with ElasticConnectionFactory.create_new_connection() as es:
-        if es.indices.exists(index=index_name):
-            return True
-
-        with open('quote_searcher/quotes_index_schema.json', 'r') as schema_file:
-            schema = json.loads(''.join(schema_file.readlines()))
-
-        # Create the index
-        response = es.indices.create(index=index_name, body=schema)
-        if response['acknowledged']:
-            logger.info(f"Index '{index_name}' created successfully.")
-            return True
-        else:
-            logger.info(f"Failed to create index '{index_name}'.")
-            return False

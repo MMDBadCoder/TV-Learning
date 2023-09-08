@@ -1,17 +1,40 @@
 from django.contrib import admin
 from django.urls import reverse
 from django.utils.safestring import mark_safe
+from elasticsearch import helpers
 from tqdm import tqdm
 
+from common_utils.elasticsearch import validate_existence_of_elasticsearch_index, ElasticConnectionFactory
 from movies_manager.models import Movie
 from preprocessor.models import PreprocessingMovie
 
 
 @admin.action(description="Load to elasticsearch")
 def load_quotes_to_elasticsearch(admin_model, request, queryset):
-    for movie in tqdm(queryset.all()):
-        if movie.subtitle_file:
-            movie.insert_quotes_to_elasticsearch()
+    # Create index if not exists
+    validate_existence_of_elasticsearch_index()
+    with ElasticConnectionFactory.create_new_connection() as es:
+        # Delete current inserted quotes
+        # List of movie IDs to match
+        movie_ids = list(queryset.values_list('id', flat=True))
+        # Elasticsearch Delete By Query API
+        query = {
+            "query": {
+                "terms": {
+                    "movie_id": movie_ids
+                }
+            }
+        }
+        es.delete_by_query(index="quotes", body=query)
+
+        # Get actions for inserting quotes to elasticsearch
+        actions = []
+        for movie in tqdm(queryset.all()):
+            if movie.subtitle_file:
+                actions += movie.get_elasticsearch_actions_for_bulk()
+
+        # Insert quotes by bulk query
+        helpers.bulk(es, actions)
 
 
 @admin.action(description="Download & Convert")

@@ -4,7 +4,7 @@ from django.dispatch import receiver
 from elasticsearch import helpers
 
 from TV_LEARNING.settings import NGINX_URL
-from common_utils.elasticsearch import ElasticConnectionFactory
+from common_utils.elasticsearch import ElasticConnectionFactory, validate_existence_of_elasticsearch_index
 from movies_manager.utils import get_subtitle_path, prepare_subtitle_file, extract_quotes_from_subtitle
 
 
@@ -35,30 +35,36 @@ class Movie(models.Model):
         with ElasticConnectionFactory.create_new_connection() as es:
             es.delete_by_query(index='quotes', body={"query": {"match": {"movie_id": self.id}}})
 
+    def get_elasticsearch_actions_for_bulk(self):
+        quotes = self.get_quotes()
+
+        actions = []
+        # Create actions to perform on elasticsearch
+        for index, quote in enumerate(quotes):
+            action = {
+                "_index": "quotes",
+                "_source": {
+                    "quote": quote,
+                    "movie_id": self.id
+                }
+            }
+            # Add last quote time and next quote time to sources of each action
+            if index != 0:
+                action['_source']['last_quote_time'] = quotes[index - 1]['start_time']
+            if index < len(quotes) - 1:
+                action['_source']['next_quote_time'] = quotes[index + 1]['end_time']
+            actions.append(action)
+
+        return actions
+
     def insert_quotes_to_elasticsearch(self):
+        # Create index if not exists
+        validate_existence_of_elasticsearch_index()
         with ElasticConnectionFactory.create_new_connection() as es:
             # Delete current inserted quotes
             self.delete_quotes_from_elasticsearch()
-
-            quotes = self.get_quotes()
-
-            actions = []
-            # Create actions to perform on elasticsearch
-            for index, quote in enumerate(quotes):
-                action = {
-                    "_index": "quotes",
-                    "_source": {
-                        "quote": quote,
-                        "movie_id": self.id
-                    }
-                }
-                # Add last quote time and next quote time to sources of each action
-                if index != 0:
-                    action['_source']['last_quote_time'] = quotes[index - 1]['start_time']
-                if index < len(quotes) - 1:
-                    action['_source']['next_quote_time'] = quotes[index + 1]['end_time']
-                actions.append(action)
-
+            # Get actions for inserting quotes to elasticsearch
+            actions = self.get_elasticsearch_actions_for_bulk()
             # Insert quotes by bulk query
             helpers.bulk(es, actions)
 
